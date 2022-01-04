@@ -5,8 +5,9 @@
 <img src="https://img.shields.io/badge/Minecraft-1.18.1-62B47A?style=for-the-badge&logo=minecraft">
 <img src="https://img.shields.io/badge/ModLoader-Fabric-success?style=for-the-badge">
 <a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-fox-beggining-of-jurney">
-<img src="https://img.shields.io/badge/-CurseForge-6441A4?style=for-the-badge&logo=curseforge">
+<img src="https://img.shields.io/badge/distribution-CurseForge-6441A4?style=for-the-badge&logo=curseforge">
 </a>
+<img src="https://cf.way2muchnoise.eu/short_adventure-of-fox-beggining-of-jurney.svg?badge_style=for_the_badge">
 </p>
 
 <p align="center">
