@@ -1,0 +1,10 @@
+{
+  "suppressing_blocks_list": [
+    "minecraft:hopper",
+    "minecraft:rail",
+    "minecraft:activator_rail",
+    "minecraft:powered_rail",
+    "minecraft:detector_rail"
+  ],
+  "always_suppress_smoke": false
+}

@@ -1,0 +1,47 @@
+{
+  "minecraft:wolf": {
+    "damage_threshold": 4.0
+  },
+  "minecraft:parrot": {
+    "damage_threshold": 3.0
+  },
+  "minecraft:cat": {
+    "damage_threshold": 5.0
+  },
+  "minecraft:axolotl": {
+    "damage_threshold": 4.0
+  },
+  "minecraft:villager": {
+    "damage_threshold": 13.5
+  },
+  "minecraft:wandering_trader": {
+    "damage_threshold": 13.5
+  },
+  "minecraft:horse": {
+    "damage_threshold": 15.0
+  },
+  "minecraft:donkey": {
+    "damage_threshold": 15.0
+  },
+  "minecraft:mule": {
+    "damage_threshold": 15.0
+  },
+  "minecraft:skeleton_horse": {
+    "damage_threshold": 15.0
+  },
+  "minecraft:zombie_horse": {
+    "damage_threshold": 15.0
+  },
+  "minecraft:llama": {
+    "damage_threshold": 15.0
+  },
+  "minecraft:trader_llama": {
+    "damage_threshold": 15.0
+  },
+  "minecraft:snow_golem": {
+    "damage_threshold": 2.0
+  },
+  "minecraft:iron_golem": {
+    "damage_threshold": 20.0
+  }
+}

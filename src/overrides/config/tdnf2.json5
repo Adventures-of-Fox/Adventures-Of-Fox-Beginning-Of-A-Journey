@@ -1,0 +1,75 @@
+{
+	// When do trees break? (NO_SUPPORT, LOG_BREAK, or USE_TOOL)
+	"fallCondition": "NO_SUPPORT",
+	// Leaves decay instantly. Ignored (leaves decay) when keepLogsIntact is true.
+	"fastLeafDecay": true,
+	// Log blocks move to the ground instead of dropping as items. Can be laggy. Leaves alwasy break when true.
+	"keepLogsIntact": false,
+	// Render falling logs? (Affects client side only.) Can be laggy.
+	"renderFallingLogs": false,
+	// Falling logs break leaves and other plants on the way down.
+	"fallingLogsBreakPlants": false,
+	// Falling logs break glass and other fragile blocks.
+	"fallingLogsBreakFragile": false,
+	// Players can sneak (or not sneak) to disable mod for building. (SNEAKING, NOT_SNEAKING, or ALWAYS)
+	"activeWhen": "NOT_SNEAKING",
+	// Break large fungal wart blocks and Shroomlamps
+	"breakFungalLeaves": true,
+	// Place dropped items directly into player inventory. (Good for skyblock)
+	"directDeposit": false,
+	// Apply fortune from axe used to fell a tree. (If an axe was used.)
+	"applyFortune": false,
+	// Remove durability from an axe used to fell a tree. (If an axe was used.)
+	"consumeDurability": false,
+	// Tools take durability loss from leaves as well as logs.
+	"leafDurability": false,
+	// Don't break tools when using durability.
+	"protectTools": true,
+	// Don't break blocks placed by players.
+	"protectPlacedBlocks": true,
+	// Players gain hunger from felling trees, as if they had broken each log.
+	"applyHunger": true,
+	// Players gain hunger from leaves in addition to logs.
+	"leafHunger": false,
+	// Max logs that can be broken by non-player mechanics like pistons, fire and TNT.
+	"nonPlayerLogLimit": 256,
+	// Logs that can be broken by a player without using a tool.
+	"playerBaseLogLimit": 256,
+	// Additional logs that can be broken when player uses a tool, per tier of tool. Set zero to disable.
+	"toolTierLogBonus": 0,
+	// When true, log breaking limit is multiplied by Efficency enchantment level.
+	"enableEfficiencyLogMultiplier": false,
+	// Consolidate item drops into stacks to prevent lag.
+	"stackDrops": true,
+	// Play particles and sounds? Number is max effects per second. 0-20
+	"effectsPerSecond": 4,
+	// Maximum number of concurrent breaking tasks in each world. 1-256
+	"maxJobsPerWorld": 16,
+	// Max log/leaf blocks to break per second, per tree. 1 - 2560
+	"maxBreaksPerSecond": 640,
+	// Max percentage of each server tick that can be used by TDNF in each world. 1 - 5
+	"tickBudget": 1,
+	// Max number of active falling block entities. 1 - 64
+	"maxFallingBlocks": 16,
+	// Tree cutting jobs will be abandoned if they take longer than this number of seconds. Use larger values if breaking speed is slow. 20-1800
+	"jobTimeoutSeconds": 360,
+	// IDs of modded blocks to be handled the same as Minecraft big mushrooms. Not strictly needed if the block is in the LOGS tag or is a subtype of MushroomBlock.
+	"moddedMushroomBlocks": [
+		"byg:weeping_milkcap_mushroom_block",
+		"byg:green_mushroom_block",
+		"byg:soul_shroom_stem",
+		"byg:death_cap_mushroom_block"
+	],
+	// IDs of modded blocks to handle the same as vanilla Warped/Crimson stems. Activates dropping of wart blocks / shroomlights.
+	"moddedFungusLogs": [
+		"cinderscapes:umbral_stem",
+		"byg:sythian_stems"
+	],
+	// IDs of modded blocks to handle the same as vanilla Warped/Crimson wart blocks and shroomlights.
+	"moddedFungusLeaves": [
+		"cinderscapes:umbral_flesh_block",
+		"cinderscapes:umbral_wart_block",
+		"byg:sythian_wart_block",
+		"byg:shulkren_wart_block"
+	]
+}
