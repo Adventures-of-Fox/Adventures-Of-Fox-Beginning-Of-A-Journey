@@ -1,0 +1,57 @@
+{
+	// 150 = 1.5x Player multiplier
+	"playerInfluence": 100,
+	// This amount = 1% chance
+	"xpRatio": 1000,
+	// 20 = 20% max chance
+	"chanceCap": 100,
+	// Creepers, Spiders, Endermen, etc
+	"allowNonArmorWearing": false,
+	// Can be overpowered at high difficulty
+	"allowDrops": true,
+	// Determines what Status Effects can be used
+	"statusEffects": {
+		"regeneration": true,
+		"speed": true,
+		"fireResistance": true,
+		"strength": true,
+		"invisibility": true,
+		"weakness": true,
+		"slowness": true,
+		"haste": false,
+		"miningFatigue": false,
+		"jumpBoost": false,
+		"resistance": false,
+		"waterBreathing": false,
+		"nightVision": false,
+		"hunger": false,
+		"absorption": false,
+		"glowing": false
+	},
+	// Determines what Armor Materials can be used
+	"armorTiers": {
+		"leather": true,
+		"chain": true,
+		"iron": true,
+		"gold": false,
+		"diamond": true,
+		"netherite": false
+	},
+	// Determines what Tool Materials can be used
+	"tiers": {
+		"wood": true,
+		"stone": false,
+		"iron": true,
+		"gold": false,
+		"diamond": true,
+		"netherite": false
+	},
+	// Determines what Tools can be used
+	"tools": {
+		"sword": true,
+		"pickaxe": false,
+		"axe": true,
+		"shovel": true,
+		"hoe": false
+	}
+}

@@ -1,0 +1,100 @@
+{
+  "biomes": {
+    "byg:embur_bog": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:embur_bog",
+      "hills": []
+    },
+    "byg:glowstone_gardens": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:glowstone_gardens",
+      "hills": []
+    },
+    "byg:magma_wastes": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:magma_wastes",
+      "hills": []
+    },
+    "byg:quartz_desert": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:quartz_desert",
+      "hills": []
+    },
+    "byg:crimson_gardens": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:crimson_gardens",
+      "hills": []
+    },
+    "byg:wailing_garth": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:wailing_garth",
+      "hills": []
+    },
+    "byg:subzero_hypogeal": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:subzero_hypogeal",
+      "hills": []
+    },
+    "byg:sythian_torrids": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:sythian_torrids",
+      "hills": []
+    },
+    "byg:weeping_mire": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:weeping_mire",
+      "hills": []
+    },
+    "byg:warped_desert": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:warped_desert",
+      "hills": []
+    },
+    "byg:withering_woods": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:withering_woods",
+      "hills": []
+    },
+    "byg:brimstone_caverns": {
+      "weight": 6,
+      "dictionary": [
+        "NETHER"
+      ],
+      "edge": "byg:brimstone_caverns",
+      "hills": []
+    }
+  }
+}

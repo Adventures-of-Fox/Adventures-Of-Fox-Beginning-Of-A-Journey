@@ -1,0 +1,56 @@
+{
+	"general": {
+		"minAttackCooldown": 1.0,
+		"undo1dot8Jank": true,
+		"itemCooldownAffectsLMB": true,
+		"playersBypassInvulTicks": true,
+		"minAttackCooldownForQueue": 0.6600000262260437,
+		"playersCanCrouchJump": true
+	},
+	"swords": {
+		"alwaysSweepingEdge": true
+	},
+	"tridents": {
+		"riptideWorksOutsideWater": true,
+		"riptideEffectivenessOutsideWater": 0.5,
+		"capRiptideAndElytraSpeed": true
+	},
+	"crossbows": {
+		"multishotAndPiercingWorkTogether": true
+	},
+	"shields": {
+		"canParry": true,
+		"parryWithinTicks": 5,
+		"disableWeaponOnParryTicks": 100,
+		"disableShieldOnParryTicks": 20,
+		"maxShieldArc": 100.0,
+		"minTicksHasToBeUp": 10,
+		"disableShieldOnLetGoTicks": 40,
+		"maxDamageBlocked": 5.0
+	},
+	"projectiles": {
+		"randomDeviation": 0.0,
+		"checkWiderAreaForElytraUsers": true
+	},
+	"potions": {
+		"speedIncreasesAirStrafingSpeed": true,
+		"slownessDecreasesAirStrafingSpeed": true
+	},
+	"enchantments": {
+		// Doesn't show up in ModMenu
+		"unbreakableRequiredEnchants": {
+			"minecraft:mending": 1
+		},
+		"unbreakableRemovesEnchants": [
+			"minecraft:mending",
+			"minecraft:unbreaking"
+		],
+		"unbreakableBeaconLevel": 4,
+		"canMakeUnbreakableTools": true,
+		"maxSweepingEdgeMult": 1.0,
+		"thornsDealsNoKnockback": true
+	},
+	"regen": {
+		"minHungerForRegen": 11
+	}
+}
