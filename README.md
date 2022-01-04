@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="500" height="500" src="icon.png">
+</p>
 <h1 align="center"> 🦊 Adventure Of Fox: Beginning Of Journey 🦊 </h1>
 
 <p align="center">
