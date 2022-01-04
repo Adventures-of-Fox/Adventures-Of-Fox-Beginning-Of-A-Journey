@@ -1,0 +1,11 @@
+//Hit F3 + M to edit configs client side in game
+{
+  //Entities in this list cannot be hit through grass
+  "blacklisted_entities": [
+      "minecraft:villager"
+    ],
+  //You cannot swing through blocks in this list
+  "blacklisted_blocks": [
+      "minecraft:torch"
+    ]
+}

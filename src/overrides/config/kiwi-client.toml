@@ -1,0 +1,8 @@
+contributorCosmetic = ""
+globalTooltip = false
+tooltipWrapWidth = 200
+
+[debug]
+tagsTooltip = true
+NBTTooltipFormatter = "vanilla"
+NBTTooltip = true
