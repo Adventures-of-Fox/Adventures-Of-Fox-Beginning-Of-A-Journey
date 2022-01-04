@@ -1,0 +1,5 @@
+removeAnvilXPLimit = true
+allowAllEnchantmentCombinations = false
+allowAnyEnchantOnAnyItem = true
+removeAnvilLevelLimit = false
+newAnvilLevelLimit = 255

@@ -1,0 +1,190 @@
+{
+  "enableDusts": false,
+  "enableNuggets": true,
+  "adamantite": {
+    "enabled": true,
+    "veinSize": 5,
+    "perChunk": 1,
+    "bottom": -52,
+    "top": 12,
+    "discardChance": 0.125
+  },
+  "aquarium": {
+    "enabled": true,
+    "veinSize": 9,
+    "perChunk": 4,
+    "bottom": 39,
+    "top": 63,
+    "discardChance": 0.0
+  },
+  "banglum": {
+    "enabled": true,
+    "veinSize": 6,
+    "perChunk": 3,
+    "bottom": 42,
+    "top": 65,
+    "discardChance": 0.125
+  },
+  "carmot": {
+    "enabled": true,
+    "veinSize": 4,
+    "perChunk": 2,
+    "bottom": 4,
+    "top": 36,
+    "discardChance": 0.125
+  },
+  "kyber": {
+    "enabled": true,
+    "veinSize": 3,
+    "perChunk": 1,
+    "bottom": 2,
+    "top": 50,
+    "discardChance": 0.5,
+    "veinSizeVariant": 15,
+    "perChunkVariant": 40,
+    "bottomVariant": -62,
+    "topVariant": 40
+  },
+  "manganese": {
+    "enabled": true,
+    "veinSize": 9,
+    "perChunk": 2,
+    "bottom": 28,
+    "top": 48,
+    "discardChance": 0.25
+  },
+  "midas_gold": {
+    "enabled": true,
+    "veinSize": 6,
+    "perChunk": 7,
+    "bottom": 10,
+    "top": 128,
+    "discardChance": 0.125
+  },
+  "mythril": {
+    "enabled": true,
+    "veinSize": 5,
+    "perChunk": 1,
+    "bottom": -36,
+    "top": 16,
+    "discardChance": 0.125
+  },
+  "orichalcum": {
+    "enabled": true,
+    "veinSize": 5,
+    "perChunk": 1,
+    "bottom": 8,
+    "top": 24,
+    "discardChance": 0.125
+  },
+  "osmium": {
+    "enabled": true,
+    "veinSize": 6,
+    "perChunk": 5,
+    "bottom": 20,
+    "top": 40,
+    "discardChance": 0.25
+  },
+  "overworld_nether_ores": {
+    "enabled": true,
+    "veinSize": 4,
+    "perChunk": 2,
+    "bottom": 40,
+    "top": 70,
+    "discardChance": 0.125
+  },
+  "palladium": {
+    "enabled": true,
+    "veinSize": 4,
+    "perChunk": 2,
+    "bottom": 16,
+    "top": 40,
+    "discardChance": 0.0
+  },
+  "platinum": {
+    "enabled": true,
+    "veinSize": 6,
+    "perChunk": 2,
+    "bottom": 8,
+    "top": 32,
+    "discardChance": 0.0
+  },
+  "prometheum": {
+    "enabled": true,
+    "veinSize": 6,
+    "perChunk": 4,
+    "bottom": 30,
+    "top": 48,
+    "discardChance": 0.0
+  },
+  "quadrillum": {
+    "enabled": true,
+    "veinSize": 7,
+    "perChunk": 2,
+    "bottom": 16,
+    "top": 44,
+    "discardChance": 0.25
+  },
+  "runite": {
+    "enabled": true,
+    "veinSize": 3,
+    "perChunk": 2,
+    "bottom": 9,
+    "top": 39,
+    "discardChance": 0.0
+  },
+  "silver": {
+    "enabled": true,
+    "veinSize": 8,
+    "perChunk": 4,
+    "bottom": 16,
+    "top": 38,
+    "discardChance": 0.25
+  },
+  "starrite": {
+    "enabled": true,
+    "veinSize": 4,
+    "perChunk": 1,
+    "bottom": 50,
+    "top": 40,
+    "discardChance": 0.25,
+    "veinSizeVariant": 7,
+    "perChunkVariant": 2,
+    "bottomVariant": 40,
+    "topVariant": 20
+  },
+  "stormyx": {
+    "enabled": true,
+    "veinSize": 8,
+    "perChunk": 3,
+    "bottom": 4,
+    "top": 116,
+    "discardChance": 0.0
+  },
+  "unobtainium": {
+    "enabled": true,
+    "veinSize": 3,
+    "perChunk": 1,
+    "bottom": -60,
+    "top": 12,
+    "discardChance": 0.25
+  },
+  "tin": {
+    "enabled": true,
+    "veinSize": 8,
+    "perChunk": 4,
+    "bottom": 44,
+    "top": 72,
+    "discardChance": 0.25
+  },
+  "vermiculite": {
+    "enabled": true,
+    "veinSize": 8,
+    "perChunk": 4,
+    "bottom": 64,
+    "top": 108,
+    "discardChance": 0.25
+  },
+  "configVersion": 2,
+  "blacklist": []
+}
