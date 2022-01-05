@@ -21,7 +21,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 <h2 align="center">Mods Features</h2>
 
 <details> 
-    <summary align="center"><h3>List</h3></summary>
+    <summary align="center"><h3 align="center">List</h3></summary>
     
 - **Additional Additions** adds new use for useless items like copper, amethyst etc.
 - **Advenced Netherite** adds new use for netherite
