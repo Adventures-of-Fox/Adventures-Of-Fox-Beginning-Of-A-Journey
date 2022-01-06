@@ -18,10 +18,8 @@
 
 Welcome to my modpack! It was created for **Adventure** and **Exploring** with **Quests**. It adds **bunch of structures** and new **massive updated nether** with **updated end** making them worth to explore. It has bunch of **new weapons** to use with **new mobs mechanics** making them interesting and harder giving **little challenge** to player. For people that want use **texturepacks (you need convert them into MCPatcher format) or shaders**, we have support for that! You just need download your **shaders/texturepack** and put into right folder. And for people who love **building** there are mods that add bunch of **new blocks for building and decorative**! Oh, and i could forgot, there are **quests** that will make your adventure not worthless showing you everysingle corner in modpack. Modpack is also optimized in aspect of **rendering chunks, light, mobs etc.** All mods features of modpack you can find bellow. Modpack adds +170 mods and It's for fabric 1.18.1.
 
-<h2 align="center">Mods Features</h2>
-
 <details> 
-    <summary align="center"><h3 align="center">List</h3></summary>
+    <summary align="center"><h2 align="center">Mods Features</h2></summary>
     
 - **Additional Additions** adds new use for useless items like copper, amethyst etc.
 - **Advenced Netherite** adds new use for netherite
