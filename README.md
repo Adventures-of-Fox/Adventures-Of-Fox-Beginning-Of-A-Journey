@@ -59,6 +59,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Crying Portals** makes possibility to make portal from crying obsidian
 - **Culinaire** expands foodstuff in the game
 - **Cull Leaves** adds culling into leaf block
+- **Custom Splash Screen** allows changing splash screen
 - **CEM** allows loading custom entity models by texturepack
 - **Dark Enchanting** gives possibility to choose own enchantments by cost of more XP
 - **Dark Paintings** adds more paintings
@@ -91,6 +92,9 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **FerriteCore** memory usage optimizations
 - **Fix Experience Bug** fixes XP when dimension hopping
 - **Forgotten Recipes** adds recipes that should be in Caves & Cliffs update
+- **FTB Teams** adds teams to game
+- **FTB Quests** adds quests
+- **FTB Chunks** gives ability for players to claim chunks
 - **GUI Clock** adds GUI/HUD to clock
 - **Giant Spawn** makes giants spawn naturally
 - **Goblin Traders** adds goblin traders into game
