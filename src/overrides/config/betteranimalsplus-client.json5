@@ -1,8 +1,0 @@
-{
-	"entities": {
-		"reindeer": {
-			// Generates snow particles around reindeer.
-			"create_snow": true
-		}
-	}
-}
