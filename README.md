@@ -57,6 +57,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Controlling** adds search bar for keybinds
 - **Crawl** allows you to crawl
 - **Crying Portals** makes possibility to make portal from crying obsidian
+- **CraftPresence** discord presence
 - **Culinaire** expands foodstuff in the game
 - **Cull Leaves** adds culling into leaf block
 - **Custom Splash Screen** allows changing splash screen
@@ -82,6 +83,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **End Goblin Traders** adds goblins into end
 - **EnvironmentZ** adds temperature into game
 - **Equipment Compare** adds easy system to compare armor
+- **Explorer's Compass** adds compass to search for structures
 - **FPS Reducer** if player don't makes any interactions it reduces GPU and CPU use
 - **Fabric Capes** adds support of capes from OptiFine, LabyMod etc
 - **Fabrication** adds huge collection of small tweaks into game
@@ -106,6 +108,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Inventory HUD+** makes inventory better
 - **Inventory Sorting** adds sorting into inventory
 - **Iris** adds shaders support
+- **Illuminaties** adds new light into gamr
 - **Item Model Fix** fixes models of items
 - **Just an End Anchor** adds anchor to end
 - **Krypton** optimize networking stacking
