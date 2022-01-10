@@ -7,7 +7,7 @@
 <a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-fox-beggining-of-jurney">
 <img src="https://img.shields.io/badge/distribution-CurseForge-6441A4?style=for-the-badge&logo=curseforge">
 </a>
-<img src="https://cf.way2muchnoise.eu/short_adventure-of-fox-beggining-of-jurney.svg?badge_style=for_the_badge">
+<img src="https://cf.way2muchnoise.eu/full_564326_downloads.svg?badge_style=for_the_badge">
 </p>
 
 <p align="center">
