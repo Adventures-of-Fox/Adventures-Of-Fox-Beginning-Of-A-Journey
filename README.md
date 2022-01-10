@@ -108,7 +108,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Inventory HUD+** makes inventory better
 - **Inventory Sorting** adds sorting into inventory
 - **Iris** adds shaders support
-- **Illuminaties** adds new light into gamr
+- **Illuminations 🔥** adds new light into gamr
 - **Item Model Fix** fixes models of items
 - **Just an End Anchor** adds anchor to end
 - **Krypton** optimize networking stacking
