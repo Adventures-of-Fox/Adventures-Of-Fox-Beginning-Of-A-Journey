@@ -33,6 +33,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Armor Sound Tweak** plays sounds when (un)equip armor
 - **AttributeFix** removes attributes limits
 - **Awesome Dungeon** adds new structures/dungeons into the world
+- **Awesome Dungeon Edition Ocean** addon into Awesome Dungeon
 - **Basic Shields** adds new shields into the game
 - **Better Animal Plus** adds bunch of new mobs, with armor/food/blocks
 - **Better Compatibility Checker** adds compatibility check for modpack versions
@@ -44,6 +45,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **BLockus** adds new blocks into the game
 - **CIT Resewn** Re-implements MCPatcher's CIT
 - **Cammie's Combat Tweaks** updates PVP and PvE
+- **Castle Dungeons** adds castles into world
 - **Chat Heads** adds heads into chat
 - **Cherished Worlds** makes possibility to pin your favorite world
 - **Chunky Pregenerator** pre-generates world (very useful mod)
@@ -52,6 +54,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Clumps** clumps XP reducing lags
 - **Colormatic** custumize hardcoded colors with texturepack
 - **Compact Status Effects** reduces size of status effect
+- **Comforts** adds new comfy places to sleep
 - **C2ME** optimize chunk rendering
 - **Continuity** allows connecting textures
 - **Controlling** adds search bar for keybinds
@@ -103,6 +106,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Grass Bypass** makes grass less annoying when fighting 
 - **Grim's Transportables** adds new possibilities to transportion
 - **Help Wanted** attracts villagers for work
+- **Health Levels** new health based off xp
 - **Hover Pets** adds craftable pets into game <3
 - **Indium** provides fabric rendering support for sodium
 - **Inventory HUD+** makes inventory better
@@ -145,6 +149,12 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Rat's Mischief** adds cute rats into game
 - **Reroll** reroll enchants
 - **Right-Click-Harvest** gives ability to harvest by right click
+- **Ring of the Enderchest** adds ring to open enderchest
+- **Ring of the Miner** adds ring to mine
+- **Rings of Ascension** adds other rings
+- **Ring of Growth** adds ring to growth
+- **Ring of Attraction** ring that makes items stick to you
+- **Ring Of Teleport** adds ring to teleport
 - **REI** recipes browser
 - **RER** worldgen support for REI
 - **Ruined Equipment** when your tools breaks they turn into ruined forms
@@ -160,12 +170,14 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Sodium** optimization mod 
 - **Sodium Extra** adds features into sodium
 - **Spider Produce Webs** now spiders can produce webs 
+- **Simple Backpack** adds new backpacks into game
 - **Starlight** rewrite of light
 - **StichedSnow** makes snow stacks
 - **Stoneholm, Underground Villages** adds underground villages
 - **SurvivalPlus** enhances survival experience
 - **This Rocks!** adds little things on ground to feel more natural
 - **Towers of the Wild** adds wild-like towers
+- **Towers of the Wild: Additions** adds new towers
 - **Trees Do Not Float** breaks tree if there is no support blocks
 - **Trinkets** adds accessories 
 - **Universal Ores** adds ore variants to other blocks that spawn on stone level
