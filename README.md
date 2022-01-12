@@ -125,6 +125,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Lovely Snails** adds snails
 - **MC Dungeons Artifacts** brings artifacts from dungeons into java
 - **MC Dungeons Weapons** bring weapons from dungeons into java
+- **MedievalWeapons** adds new medieval-like weapons
 - **Mo' Structures** adds structures into game
 - **Mod Menu** adds mod menu
 - **More Axolotl Variants** adds more axolotls
@@ -192,6 +193,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Xaerp's Minimap** adds minimap
 - **You're in Grave Danger** adds graves
 - **Zombie Horse Spawn** spawns zombie horses with zombies
+- **Zombified** adds new types of zombies to game
 - **Disable Custom Worlds Advice** name self explanatory
 
 </details>
