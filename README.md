@@ -63,7 +63,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **CraftPresence** discord presence
 - **Culinaire** expands foodstuff in the game
 - **Cull Leaves** adds culling into leaf block
-- **Custom Splash Screen** allows changing splash screen
+- **Drippy Loading Screen** allows changing splash screen
 - **CEM** allows loading custom entity models by texturepack
 - **Dark Enchanting** gives possibility to choose own enchantments by cost of more XP
 - **Dark Paintings** adds more paintings
@@ -184,7 +184,8 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Universal Ores** adds ore variants to other blocks that spawn on stone level
 - **Unvoted & Shelved** adds mobs that were unvoted
 - **VanillaTweaks** tweaks to vanilla
-- **VoidZ** Adds new dimension and bosses to AdventureZ
+- **ValleyCraft** adds new natural things
+- **VoidZ** adds new dimension and bosses to AdventureZ
 - **WTHIT** shows tips about blocks/mobs you are looking at
 - **When Dungeons Arise** adds roguelike dungeons
 - **Wildfire's Female Gender** adds gender
