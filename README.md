@@ -52,7 +52,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Clear Skies** matches horizon and fog with sky color
 - **Client Tweaks** fixing minecraft with small tweaks to the game
 - **Clumps** clumps XP reducing lags
-- **Colormatic** custumize hardcoded colors with texturepack
+- **Colormatic** custumize hardcoded colors with texturepack (disabled)
 - **Compact Status Effects** reduces size of status effect
 - **Comforts** adds new comfy places to sleep
 - **C2ME** optimize chunk rendering
@@ -116,7 +116,6 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Item Model Fix** fixes models of items
 - **Just an End Anchor** adds anchor to end
 - **Krypton** optimize networking stacking
-- **LambdaBetterGrass** adds better grass and better snow
 - **Language Reload** makes changing language instant
 - **Lapis Reserve** makes lapis stay in enchanting table
 - **LazyDFU** makes game starting faster
@@ -171,6 +170,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Sodium** optimization mod 
 - **Sodium Extra** adds features into sodium
 - **Spider Produce Webs** now spiders can produce webs 
+- **Spark** shows why client/server lags
 - **Simple Backpack** adds new backpacks into game
 - **Starlight** rewrite of light
 - **StichedSnow** makes snow stacks
