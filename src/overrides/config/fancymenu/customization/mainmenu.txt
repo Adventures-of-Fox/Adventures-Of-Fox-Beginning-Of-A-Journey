@@ -18,3 +18,140 @@ customization {
   action = backgroundoptions
 }
 
+customization {
+  identifier = %id=400310%
+  orientation = mid-left
+  x = 7
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=400310%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-left
+  x = 7
+  action = movebutton
+  y = 7
+}
+
+customization {
+  identifier = %id=400358%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-left
+  x = 7
+  action = movebutton
+  y = -48
+}
+
+customization {
+  identifier = %id=400286%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-left
+  x = 7
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-left
+  x = 7
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=400394%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400394%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = bottom-centered
+  x = -49
+  action = movebutton
+  y = -29
+}
+
+customization {
+  identifier = %id=502394%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
+customization {
+  path = resources/menu/mainmenu/foxgif.gif
+  orientation = bottom-left
+  x = 0
+  width = 100
+  action = addtexture
+  actionid = 51d04c1b-40ec-4843-8401-25c5fbd79dff1642622431306
+  y = -100
+  height = 100
+}
+
+customization {
+  path = resources/menu/mainmenu/title.png
+  orientation = mid-right
+  x = -394
+  width = 380
+  action = addtexture
+  actionid = 3ae8ce53-6596-454b-ada8-a93518b036be1642623004727
+  y = -20
+  height = 40
+}
+
