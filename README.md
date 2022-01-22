@@ -165,6 +165,7 @@ Welcome to my modpack! It was created for **Adventure** and **Exploring** with *
 - **Smooth Swapping** makes swapping very smooooth
 - **Smoke Suppression** suppress smoke from campfire
 - **Snow! Real Magic!** snow gravity, accumulation, snow-covered blocks, tweaks snow
+- **Snow Mercy** adds new snowy mobs, minibosses and bosses with some strcutures
 - **Snowballs Freeze Mobs** when u shoot mob a snowball, it froze them
 - **So i heard you were talking crap about Minecraft's difficulty?** updates hostile mods
 - **Sodium** optimization mod 
