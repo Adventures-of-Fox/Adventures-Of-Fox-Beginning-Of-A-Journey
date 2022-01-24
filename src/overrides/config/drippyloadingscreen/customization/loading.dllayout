@@ -10,7 +10,79 @@ customization-meta {
 }
 
 customization {
+  visible = false
+  x = 0
   action = editprogressbar
+  y = -50
   barcolor = 
+}
+
+customization {
+  visible = false
+  x = 1
+  action = editlogo
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  textcolor = #ffffff
+  action = addtext
+  actionid = 4eb111b6-6e44-4fd3-9b3d-be3282bf08821642941862349
+  y = -21
+  scale = 2.0
+  alignment = left
+  value = %loadingprogress%%
+}
+
+customization {
+  path = resources/splashscreen/loadingicon.gif
+  orientation = bottom-centered
+  x = 0
+  width = 100
+  action = addtexture
+  actionid = 05d52f1f-9a43-4a0d-b869-551750caecbe1642942678837
+  y = -82
+  height = 100
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  x = -4
+  textcolor = #ffffff
+  action = addtext
+  actionid = 02aac837-ddeb-49e2-b41b-2e06ffb593f61642942847394
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = (RAM) %usedram%MB/%maxram%MB %percentram%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  textcolor = #ffffff
+  action = addtext
+  actionid = a43b2d7f-ea2f-4b4e-947b-32846c24c1c21642943074601
+  y = -9
+  scale = 1.0
+  alignment = left
+  value = Loading %loadedmods% mods...
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = false
+  x = 0
+  textcolor = #ffffff
+  action = addtext
+  actionid = cbda9510-93d6-4a7f-8a44-4b99c2598ab91642943310560
+  y = -74
+  scale = 1.0
+  alignment = left
+  value = Welcome %playername%!
 }
 

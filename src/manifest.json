@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "AOFBOJ a0.2.3",
+  "name": "AOFBOJ a0.2.4",
   "version": "1.18.1",
   "author": "justfoxxo",
   "files": [
@@ -322,11 +322,6 @@
     {
       "projectID": 277668,
       "fileID": 3561813,
-      "required": true
-    },
-    {
-      "projectID": 532610,
-      "fileID": 3591891,
       "required": true
     },
     {
@@ -645,11 +640,6 @@
       "required": true
     },
     {
-      "projectID": 314579,
-      "fileID": 3600898,
-      "required": true
-    },
-    {
       "projectID": 410830,
       "fileID": 3595832,
       "required": true
@@ -752,11 +742,6 @@
     {
       "projectID": 515172,
       "fileID": 3556836,
-      "required": true
-    },
-    {
-      "projectID": 527942,
-      "fileID": 3571118,
       "required": true
     },
     {
@@ -885,11 +870,6 @@
       "required": true
     },
     {
-      "projectID": 391366,
-      "fileID": 3614154,
-      "required": true
-    },
-    {
       "projectID": 310111,
       "fileID": 3611115,
       "required": true
@@ -927,11 +907,6 @@
     {
       "projectID": 544912,
       "fileID": 3612588,
-      "required": true
-    },
-    {
-      "projectID": 429949,
-      "fileID": 3618398,
       "required": true
     },
     {
@@ -1025,13 +1000,58 @@
       "required": true
     },
     {
-      "projectID": 432427,
-      "fileID": 3577594,
+      "projectID": 252042,
+      "fileID": 3604673,
       "required": true
     },
     {
-      "projectID": 252042,
-      "fileID": 3604673,
+      "projectID": 333287,
+      "fileID": 3523461,
+      "required": true
+    },
+    {
+      "projectID": 317590,
+      "fileID": 3602086,
+      "required": true
+    },
+    {
+      "projectID": 566005,
+      "fileID": 3615333,
+      "required": true
+    },
+    {
+      "projectID": 560323,
+      "fileID": 3618462,
+      "required": true
+    },
+    {
+      "projectID": 391366,
+      "fileID": 3620523,
+      "required": true
+    },
+    {
+      "projectID": 429949,
+      "fileID": 3620331,
+      "required": true
+    },
+    {
+      "projectID": 432427,
+      "fileID": 3616820,
+      "required": true
+    },
+    {
+      "projectID": 527942,
+      "fileID": 3617103,
+      "required": true
+    },
+    {
+      "projectID": 532610,
+      "fileID": 3614813,
+      "required": true
+    },
+    {
+      "projectID": 314579,
+      "fileID": 3621981,
       "required": true
     }
   ],
