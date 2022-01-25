@@ -40,7 +40,7 @@ customization {
   orientation = mid-left
   x = 7
   action = movebutton
-  y = 7
+  y = 6
 }
 
 customization {
@@ -88,6 +88,11 @@ customization {
 }
 
 customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=400394%
   orientation = mid-left
   x = 7
@@ -109,6 +114,23 @@ customization {
   fadein = true
   fadeinspeed = 3.0
   action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=89517%
+  orientation = bottom-right
+  x = -112
+  action = movebutton
+  y = -29
+}
+
+customization {
+  identifier = %id=87517%
+  orientation = element
+  orientation_element = vanillabtn:89517
+  x = -20
+  action = movebutton
+  y = 0
 }
 
 customization {
