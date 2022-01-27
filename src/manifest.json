@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "AOFBOJ a0.2.6",
+  "name": "AOFBOJ a0.2.7",
   "version": "1.18.1",
   "author": "justfoxxo",
   "files": [
@@ -825,11 +825,6 @@
       "required": true
     },
     {
-      "projectID": 310111,
-      "fileID": 3611115,
-      "required": true
-    },
-    {
       "projectID": 383999,
       "fileID": 3611583,
       "required": true
@@ -965,11 +960,6 @@
       "required": true
     },
     {
-      "projectID": 527942,
-      "fileID": 3617103,
-      "required": true
-    },
-    {
       "projectID": 314579,
       "fileID": 3621981,
       "required": true
@@ -1015,11 +1005,6 @@
       "required": true
     },
     {
-      "projectID": 560441,
-      "fileID": 3623481,
-      "required": true
-    },
-    {
       "projectID": 544912,
       "fileID": 3623249,
       "required": true
@@ -1042,6 +1027,21 @@
     {
       "projectID": 537079,
       "fileID": 3523464,
+      "required": true
+    },
+    {
+      "projectID": 310111,
+      "fileID": 3625553,
+      "required": true
+    },
+    {
+      "projectID": 560441,
+      "fileID": 3625464,
+      "required": true
+    },
+    {
+      "projectID": 527942,
+      "fileID": 3625265,
       "required": true
     }
   ],
