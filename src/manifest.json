@@ -10,15 +10,10 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "AOFBOJ a0.2.7",
+  "name": "Adventures of Fox",
   "version": "1.18.1",
   "author": "justfoxxo",
   "files": [
-    {
-      "projectID": 248787,
-      "fileID": 3544502,
-      "required": true
-    },
     {
       "projectID": 419697,
       "fileID": 3587337,
@@ -660,11 +655,6 @@
       "required": true
     },
     {
-      "projectID": 433539,
-      "fileID": 3551346,
-      "required": true
-    },
-    {
       "projectID": 560091,
       "fileID": 3579695,
       "required": true
@@ -832,11 +822,6 @@
     {
       "projectID": 510262,
       "fileID": 3612819,
-      "required": true
-    },
-    {
-      "projectID": 263420,
-      "fileID": 3613286,
       "required": true
     },
     {
@@ -1010,11 +995,6 @@
       "required": true
     },
     {
-      "projectID": 444498,
-      "fileID": 3624276,
-      "required": true
-    },
-    {
       "projectID": 447673,
       "fileID": 3623805,
       "required": true
@@ -1030,11 +1010,6 @@
       "required": true
     },
     {
-      "projectID": 310111,
-      "fileID": 3625553,
-      "required": true
-    },
-    {
       "projectID": 560441,
       "fileID": 3625464,
       "required": true
@@ -1042,6 +1017,36 @@
     {
       "projectID": 527942,
       "fileID": 3625265,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3626708,
+      "required": true
+    },
+    {
+      "projectID": 433539,
+      "fileID": 3626578,
+      "required": true
+    },
+    {
+      "projectID": 444498,
+      "fileID": 3626322,
+      "required": true
+    },
+    {
+      "projectID": 310111,
+      "fileID": 3625853,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 3626663,
+      "required": true
+    },
+    {
+      "projectID": 547694,
+      "fileID": 3549418,
       "required": true
     }
   ],
