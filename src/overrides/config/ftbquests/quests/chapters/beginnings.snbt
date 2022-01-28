@@ -1,0 +1,35 @@
+{
+	id: "5EEE8C9FCC0E43F5"
+	group: ""
+	order_index: 0
+	filename: "beginnings"
+	title: "Beginnings"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 1.0d
+		y: -0.5d
+		id: "60CEA2A42934F893"
+		tasks: [{
+			id: "651DE4E46800D3D7"
+			type: "custom"
+			title: "W.I.P"
+			icon: "minecraft:raw_gold_block"
+		}]
+		rewards: [
+			{
+				id: "76AD630CEA2B52A9"
+				type: "item"
+			}
+			{
+				id: "6634663F4831A60C"
+				type: "item"
+			}
+			{
+				id: "7C3CF1D8AA7557CF"
+				type: "item"
+				item: "minecraft:stone"
+			}
+		]
+	}]
+}
