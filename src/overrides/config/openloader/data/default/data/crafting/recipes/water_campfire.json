@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "potion" : "water"
+    },
+    "result": {
+        "potion" : "purified_water"
+    },
+    "experience": 0.1,
+    "cookingtime": 150
+}
