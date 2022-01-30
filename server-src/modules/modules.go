@@ -119,7 +119,18 @@ func unzipFile(f *zip.File, destination string) error {
     return nil
 }
 
-func RunCmd(cmdRun string, cmdArgs ...string) string {
+func RunCmdLive(cmdRun string, cmdArgs ...string) {
+	cmd := exec.Command(cmdRun, cmdArgs...)
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+	cmd.Stdin = os.Stdin
+	err := cmd.Run()
+	if err, errMsg := g.CheckError(err, "Running failed"); err != nil {
+		log.Fatalf(errMsg)
+	}
+}
+
+func RunCmdGet(cmdRun string, cmdArgs ...string) string {
 	cmd := exec.Command(cmdRun, cmdArgs...)
 	returned, err := cmd.Output()
 	if err, errMsg := g.CheckError(err, "Running failed"); err != nil {

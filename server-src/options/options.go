@@ -9,7 +9,16 @@ import (
 	"os"
 	"server/global"
 	"server/modules"
+	"strings"
 )
+
+func S(text string, args ...interface{}) string {
+	return fmt.Sprintf(text, args...)
+}
+
+func R(text string, arg string) string {
+	return strings.ReplaceAll(text, arg, "")
+}
 
 func Download() {
 	modules.Download("https://meta.fabricmc.net/v2/versions/loader/1.18.1/0.12.12/0.10.2/server/jar", "Downloading server jar", "server.jar")
@@ -20,11 +29,22 @@ func Unzip() {
 	modules.Unziping(".tpm/server-mods.zip", "mods")
 }
 
-func Install() {
+func Start() {
+	global.Logs("Starting server")
+	commad :=  S(
+		`%v -Xmx%vM -Xms%vM -jar server.jar nogui`, 
+		ConfigRun().Java, 
+		ConfigRun().RamMaxMB,
+		ConfigRun().RamMinMB,
+	)
 	if _, unix := global.CheckOS(); unix {
-		a := modules.RunCmd(ConfigRun().Shell, "-c", `which java`)
-		fmt.Println(a)
+		global.Logs(commad)
+		modules.RunCmdLive(ConfigRun().Shell, "-c", commad)
+	} else {
+		global.Logs(commad)
+		modules.RunCmdLive(commad)
 	}
+	global.Done("Server has been stopped")
 }
 
 type ConfigJSON struct {
@@ -40,18 +60,19 @@ func ConfigRun() ConfigJSON {
 	if err != nil {
 		global.Logs("Creating config file")
 		if _, unix := global.CheckOS(); unix {
+			cmd := modules.RunCmdGet(os.Getenv("SHELL"), "-c", `which java`)
 			config = ConfigJSON{
-				Java:     modules.RunCmd(os.Getenv("SHELL"), "-c", `which java`),
+				Java:     R(cmd, "\n"),
 				RamMinMB: 4096,
 				RamMaxMB: 4096,
 				Shell:    os.Getenv("SHELL"),
 			}
 		} else {
+			cmd := modules.RunCmdGet("where", "java")
 			config = ConfigJSON{
-				Java:     modules.RunCmd("where", "java"),
+				Java:     R(cmd, "\n"),
 				RamMinMB: 4096,
 				RamMaxMB: 4096,
-				Shell:    modules.RunCmd("where", "cmd.exe"),
 			}
 		}
 		jsonMarshall, err := json.Marshal(config)

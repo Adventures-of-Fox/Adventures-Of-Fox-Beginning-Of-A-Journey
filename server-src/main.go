@@ -2,6 +2,7 @@ package main
 
 import (
 	"log"
+	"os"
 	"server/global"
 	"server/options"
 )
@@ -12,7 +13,9 @@ func main() {
 		log.Fatalf(errMsg)
 	}
 	options.ConfigRun()
-	options.Download()
-	options.Unzip()
-	options.Install()
+	if _, err := os.Stat("server.jar"); err != nil {
+		options.Download()
+		options.Unzip()
+	}
+	options.Start()
 }
