@@ -7,10 +7,9 @@
 <a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-fox-beggining-of-jurney">
 <img src="https://img.shields.io/badge/distribution-CurseForge-6441A4?style=for-the-badge&logo=curseforge">
 </a>
-<a href="https://www.curseforge.com/minecraft/modpacks/adventure-of-fox-beggining-of-jurney">
-<img src="https://img.shields.io/badge/distribution-CurseForge-6441A4?style=for-the-badge&logo=curseforge">
-</a href="https://discord.gg/e668hCBGK4">
+<a href="https://discord.gg/e668hCBGK4">
 <img src="https://img.shields.io/discord/910192650576085033?label=discord&style=for-the-badge">
+</a>
 </p>
 
 <p align="center">
