@@ -16,9 +16,17 @@
 			shape: "square"
 			id: "637442739058EF8E"
 			tasks: [{
-				id: "3B8AD87E0CE573E6"
-				type: "checkmark"
-				title: "Click me!"
+				id: "5F23D7037F744AC5"
+				type: "item"
+				title: "Any #minecraft:logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				count: 4L
 			}]
 			rewards: [
 				{
@@ -40,22 +48,47 @@
 			]
 		}
 		{
-			title: "Mining time!"
-			x: 2.0d
-			y: 0.5d
+			title: "Mining time"
+			icon: {
+				id: "minecraft:wooden_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 3.0d
+			y: 1.0d
+			description: [
+				"Craft from them pickaxe, hoe, shovel, sword, axe and furnace"
+				""
+			]
 			dependencies: ["637442739058EF8E"]
-			id: "3B3AB4CC01327820"
-			tasks: [
+			id: "6E501BB3B63F9D4D"
+			tasks: [{
+				id: "18BAC9CFF2DF258F"
+				type: "item"
+				title: "Any #minecraft:stone_tool_materials"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:stone_tool_materials"
+					}
+				}
+				count: 19L
+			}]
+			rewards: [
 				{
-					id: "233D21B9637ECF69"
+					id: "5D0D48D8A7B47A82"
 					type: "item"
-					item: "minecraft:furnace"
+					item: "valley:apple_sapling"
+					count: 3
 				}
 				{
-					id: "74240CFE670C7FCB"
+					id: "6CBBE5AE9CAB4C00"
 					type: "item"
 					item: {
-						id: "minecraft:stone_pickaxe"
+						id: "minecraft:chainmail_boots"
 						Count: 1b
 						tag: {
 							Damage: 0
@@ -63,497 +96,866 @@
 					}
 				}
 			]
-			rewards: [{
-				id: "0AE30DFDCE33660B"
-				type: "choice"
-				title: "Choose what you want"
-				icon: "minecraft:compass"
-				table_id: 3703428263846073277L
-			}]
 		}
 		{
-			title: "Real life"
-			x: 3.5d
-			y: 0.5d
-			dependencies: ["3B3AB4CC01327820"]
-			id: "5AC3331FF69DC806"
+			title: "Dehydrated"
+			icon: "minecraft:water_bucket"
+			x: 4.5d
+			y: 0.0d
+			description: ["Smelt water and get purified water to drink"]
+			dependencies: ["6E501BB3B63F9D4D"]
+			id: "7C185D6C75FE335B"
 			tasks: [
 				{
-					id: "19A39137AF8A08C8"
+					id: "28654FFB24B415C0"
 					type: "item"
 					item: {
 						id: "minecraft:potion"
 						Count: 1b
 						tag: {
-							Potion: "minecraft:purified_water"
+							Potion: "minecraft:water"
 						}
 					}
+					count: 3L
 				}
 				{
-					id: "39A662946AD0827B"
+					id: "7CB2792E1F4532F8"
 					type: "item"
+					title: "Any #minecraft:sand"
 					item: {
-						id: "environmentz:heated_stones"
+						id: "itemfilters:tag"
 						Count: 1b
 						tag: {
-							Damage: 0
+							value: "minecraft:sand"
 						}
 					}
+					count: 12L
 				}
 			]
 			rewards: [{
-				id: "1B5D16B76181E3AA"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
-		}
-		{
-			title: "Sharpening!"
-			x: 4.5d
-			y: -0.5d
-			dependencies: ["5AC3331FF69DC806"]
-			id: "275DCE93F59B4E14"
-			tasks: [
-				{
-					id: "7C7FD2C7D0EF7145"
-					type: "item"
-					item: "minecraft:smithing_table"
-				}
-				{
-					id: "2D1373618A302CF3"
-					type: "item"
-					item: "expert_weapons:whetstone_granite_iron"
-				}
-			]
-			rewards: [{
-				id: "22D0E81E4C8C92B8"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
-		}
-		{
-			title: "Foxxo pet"
-			x: 6.0d
-			y: -0.5d
-			dependencies: ["275DCE93F59B4E14"]
-			optional: true
-			id: "0002A55DF110C510"
-			tasks: [{
-				id: "10DA8E5685BF664D"
+				id: "21EFF33C1D716BA8"
 				type: "item"
-				item: "hoverpets:fox_pet"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:purified_water"
+					}
+				}
+				count: 3
 			}]
 		}
 		{
-			title: "Iron time!"
-			x: 5.5d
-			y: 1.0d
-			dependencies: ["275DCE93F59B4E14"]
-			id: "0DC1B4D09E5C8AAB"
-			tasks: [
-				{
-					id: "3C6B0122D34DD086"
-					type: "item"
-					item: {
-						id: "minecraft:iron_sword"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
+			title: "Butcher"
+			icon: {
+				id: "minecraft:iron_axe"
+				Count: 1b
+				tag: {
+					Damage: 0
 				}
-				{
-					id: "04C78F639A421047"
-					type: "item"
-					item: {
-						id: "minecraft:iron_helmet"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "3AB0E629C4E6D39D"
-					type: "item"
-					item: {
-						id: "minecraft:iron_leggings"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "7A21558D1A297855"
-					type: "item"
-					item: {
-						id: "minecraft:iron_chestplate"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "256287EB4ADD8822"
-					type: "item"
-					item: {
-						id: "minecraft:iron_boots"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-			]
-			rewards: [{
-				id: "13BA6DD61B137A94"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
-		}
-		{
-			title: "Too many items"
-			x: 7.0d
-			y: 1.0d
-			dependencies: ["0DC1B4D09E5C8AAB"]
-			id: "2EF503DA29CA62A8"
-			tasks: [{
-				id: "1D8969B308284B7B"
-				type: "item"
-				item: "simple_backpack:backpack"
-			}]
-			rewards: [{
-				id: "1FD36D879EBA416F"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
-		}
-		{
-			title: "Water bottles are not the best"
+			}
 			x: 6.5d
-			y: 2.5d
-			dependencies: ["2EF503DA29CA62A8"]
-			id: "406B85A15524FE28"
+			y: 0.0d
+			dependencies: ["7C185D6C75FE335B"]
+			id: "77392A17F8D205FA"
 			tasks: [
 				{
-					id: "3CE6CB56F7D94D71"
+					id: "36165DFBBDDCBD9F"
 					type: "item"
-					item: "dehydration:campfire_cauldron"
+					title: "Any #minecraft:wool"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:wool"
+						}
+					}
+					count: 3L
 				}
 				{
-					id: "6158EF62DBE3DA17"
+					id: "2DC04E71E9DB4FA6"
+					type: "item"
+					item: "minecraft:leather"
+					count: 4L
+				}
+			]
+			rewards: [
+				{
+					id: "316C9461AD61D00A"
+					type: "item"
+					item: "earthtojavamobs:rainbow_wool"
+					count: 3
+				}
+				{
+					id: "221FCC07CB4C4F62"
+					type: "item"
+					item: "minecraft:coal"
+				}
+			]
+		}
+		{
+			title: "Sleeping time!"
+			x: 8.0d
+			y: 0.5d
+			description: ["Craft sleeping bag from 3 wools"]
+			dependencies: ["77392A17F8D205FA"]
+			id: "6E4ECE42E8846A00"
+			tasks: [{
+				id: "635F30A454E08881"
+				type: "item"
+				item: "comforts:sleeping_bag_white"
+			}]
+			rewards: [{
+				id: "593F1C0579B14BEE"
+				type: "item"
+				item: "minecraft:torch"
+				count: 16
+			}]
+		}
+		{
+			title: "Again to mine"
+			icon: {
+				id: "minecraft:stone_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 10.0d
+			y: 0.5d
+			dependencies: ["6E4ECE42E8846A00"]
+			id: "6C6EC4DD142F9F31"
+			tasks: [
+				{
+					id: "231F3B8A067AFE67"
+					type: "item"
+					item: "minecraft:copper_ingot"
+					count: 7L
+				}
+				{
+					id: "705F20DC604C2841"
+					type: "item"
+					item: "minecraft:iron_ingot"
+					count: 2L
+				}
+			]
+			rewards: [{
+				id: "4A206F141D07F73B"
+				type: "item"
+				item: "minecraft:golden_apple"
+			}]
+		}
+		{
+			title: "Not Enough Water"
+			icon: "minecraft:red_sandstone"
+			x: 11.5d
+			y: -1.0d
+			description: [
+				"Put campfire caldron on top campfire"
+				"Using flask be able to carry around more water"
+			]
+			dependencies: ["6C6EC4DD142F9F31"]
+			id: "7BEA589143EC0713"
+			tasks: [
+				{
+					id: "7008D3970E640B91"
 					type: "item"
 					item: "minecraft:campfire"
 				}
 				{
-					id: "658D3600DC971571"
+					id: "6E41C9184C3243ED"
 					type: "item"
-					item: "dehydration:iron_leather_flask"
+					item: "dehydration:leather_flask"
 				}
 			]
 			rewards: [{
-				id: "42D9CE1DBFC73F72"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
-		}
-		{
-			title: "It`s kinda lonely"
-			icon: "helpwanted:villagerpost"
-			x: 8.5d
-			y: 1.5d
-			dependencies: ["406B85A15524FE28"]
-			id: "444F2E4674B49F43"
-			tasks: [{
-				id: "6C63FAFD9083DEAC"
-				type: "structure"
-				structure: "minecraft:village"
-			}]
-			rewards: [{
-				id: "40E62AEF2E90C63E"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
-		}
-		{
-			title: "We are rich!"
-			x: 8.5d
-			y: 0.0d
-			dependencies: ["444F2E4674B49F43"]
-			optional: true
-			id: "6BA4AD97B2E9AB90"
-			tasks: [{
-				id: "4FB2DECE3EB4359B"
+				id: "731AD6175308540A"
 				type: "item"
-				item: "minecraft:emerald_block"
-			}]
-			rewards: [{
-				id: "650092331570CE53"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
+				item: "ringsofascension:ring_water_breathing"
 			}]
 		}
 		{
-			title: "Hero of the village"
+			title: "Build iron"
+			icon: "ruined_equipment:ruined_iron_leggings"
 			x: 10.0d
-			y: 0.0d
-			dependencies: ["6BA4AD97B2E9AB90"]
-			optional: true
-			id: "1004E6509FFEA792"
-			tasks: [{
-				id: "027ABB698FB2F640"
-				type: "kill"
-				icon: "valley:rarecrow_zombie"
-				entity: "minecraft:zombie"
-				value: 3L
-			}]
-			rewards: [{
-				id: "3103D9D46606F105"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
+			y: 3.0d
+			dependencies: ["6C6EC4DD142F9F31"]
+			id: "725634C051632BDA"
+			tasks: [
+				{
+					id: "0E757C99DB3036F8"
+					type: "item"
+					item: "expert_weapons:whetstone_granite_iron"
+				}
+				{
+					id: "63FD967FE1CD58FC"
+					type: "item"
+					item: "minecraft:smithing_table"
+				}
+			]
+			rewards: [
+				{
+					id: "50B691854D87C639"
+					type: "item"
+					item: "decorative_blocks:chain"
+					count: 6
+				}
+				{
+					id: "73217F8D1D86F4F1"
+					type: "item"
+					item: "additionaladditions:honeyed_apple"
+				}
+			]
 		}
 		{
-			title: "Villain"
-			x: 11.0d
-			y: 0.5d
-			dependencies: ["1004E6509FFEA792"]
-			optional: true
-			id: "0AFC660FB3A9533E"
+			title: "Base of tools"
+			x: 14.5d
+			y: 3.0d
+			dependencies: ["725634C051632BDA"]
+			id: "76DA4910C9C54067"
 			tasks: [{
-				id: "7B1FD3A36303E663"
-				type: "kill"
-				icon: "minecraft:iron_block"
-				entity: "minecraft:iron_golem"
-				value: 1L
+				id: "5823E2EED6C4DA01"
+				type: "item"
+				item: "expert_weapons:tool_handle"
+				count: 4L
 			}]
-			rewards: [{
-				id: "335CBB0AE36D64FF"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
-			}]
+			rewards: [
+				{
+					id: "21093A0FC0FF9428"
+					type: "item"
+					item: "valley:large_pancake_breakfast"
+				}
+				{
+					id: "7E393D3164D3273B"
+					type: "item"
+					item: "valley:golden_chain"
+				}
+			]
 		}
 		{
-			title: "Adventure `o water"
+			title: "Base of weapons"
 			x: 10.0d
+			y: 4.5d
+			dependencies: ["725634C051632BDA"]
+			id: "76C4CE1A4A9E94C8"
+			tasks: [{
+				id: "618714BA19F642DC"
+				type: "item"
+				item: "expert_weapons:sword_hilt"
+			}]
+			rewards: [
+				{
+					id: "1C5E413DA421838E"
+					type: "item"
+					item: "valley:crabcake"
+				}
+				{
+					id: "020C9972FEEE4AF4"
+					type: "item"
+					item: "valley:copper_chain"
+					count: 3
+				}
+			]
+		}
+		{
+			title: "Base of armor"
+			x: 6.5d
+			y: 3.0d
+			dependencies: ["725634C051632BDA"]
+			id: "2B730F8CB8780CB9"
+			tasks: [{
+				id: "11BC4EFF14116D4A"
+				type: "item"
+				item: "expert_armor:iron_plate"
+			}]
+			rewards: [
+				{
+					id: "3B53F60543753D61"
+					type: "item"
+					item: "valley:pancake"
+					count: 3
+				}
+				{
+					id: "1513D3134210EE44"
+					type: "item"
+					item: "minecraft:chain"
+					count: 3
+				}
+			]
+		}
+		{
+			x: 13.5d
+			y: 3.5d
+			dependencies: ["76DA4910C9C54067"]
+			id: "6451F0673B4CF73D"
+			tasks: [{
+				id: "33562420560C7B62"
+				type: "item"
+				item: {
+					id: "minecraft:iron_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "3FF6B2DCFE183C24"
+					type: "item"
+					item: "valley:honeycomb_chunk"
+				}
+				{
+					id: "645BDA200747A116"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_pickaxe"
+				}
+			]
+		}
+		{
+			x: 15.5d
+			y: 3.5d
+			dependencies: ["76DA4910C9C54067"]
+			id: "79056D1D85555A13"
+			tasks: [{
+				id: "03FE2E564F96F6D9"
+				type: "item"
+				item: {
+					id: "minecraft:iron_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "75BB0C906F0DD8AD"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_axe"
+				}
+				{
+					id: "78CFA58BEF2DF9E3"
+					type: "item"
+					item: "valley:honeycomb_chunk"
+				}
+			]
+		}
+		{
+			x: 15.5d
 			y: 2.5d
-			dependencies: ["444F2E4674B49F43"]
-			optional: true
-			id: "7574C2AE9C8D0E02"
+			dependencies: ["76DA4910C9C54067"]
+			id: "0C0470115B753138"
 			tasks: [{
-				id: "67CC845BE68A7E1C"
-				type: "stat"
-				icon: "minecraft:oak_boat"
-				stat: "minecraft:boat_one_cm"
-				value: 1000
+				id: "0CB4A12AF076EF0A"
+				type: "item"
+				item: {
+					id: "minecraft:iron_shovel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "403C1E8021E89EF0"
+					type: "item"
+					item: "valley:honeycomb_chunk"
+				}
+				{
+					id: "0F046EDD5A6B6DE8"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_shovel"
+				}
+			]
+		}
+		{
+			x: 13.5d
+			y: 2.5d
+			dependencies: ["76DA4910C9C54067"]
+			id: "71B6FAE5C7A7245A"
+			tasks: [{
+				id: "02A2A2D297E0CA13"
+				type: "item"
+				item: {
+					id: "minecraft:iron_hoe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "5AE74A62718E5786"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_hoe"
+				}
+				{
+					id: "58DA0FEC18799F3F"
+					type: "item"
+					item: "valley:honeycomb_chunk"
+				}
+			]
+		}
+		{
+			x: 7.0d
+			y: 2.0d
+			dependencies: ["2B730F8CB8780CB9"]
+			id: "07BF1CC66CFF5E41"
+			tasks: [{
+				id: "6AC918F23388FEDC"
+				type: "item"
+				item: {
+					id: "minecraft:iron_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "0FCC659061630AAD"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_helmet"
+				}
+				{
+					id: "5303A617CB9EC7C0"
+					type: "item"
+					item: "valley:apple_dough"
+					count: 2
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 2.0d
+			dependencies: ["2B730F8CB8780CB9"]
+			id: "4480F05D5CE1ED9F"
+			tasks: [{
+				id: "1CA3A024EF5F7FAA"
+				type: "item"
+				item: {
+					id: "minecraft:iron_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "18942F6C7D7DCD11"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_chestplate"
+				}
+				{
+					id: "6B04D1B987694C0E"
+					type: "item"
+					item: "valley:apple_dough"
+					count: 2
+				}
+			]
+		}
+		{
+			x: 7.0d
+			y: 4.0d
+			dependencies: ["2B730F8CB8780CB9"]
+			id: "5FCF25DF53F17CB9"
+			tasks: [{
+				id: "411EC4B34AF36E77"
+				type: "item"
+				item: {
+					id: "minecraft:iron_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "321DE8FFFF4D0254"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_leggings"
+				}
+				{
+					id: "7B504CDCB9546D39"
+					type: "item"
+					item: "valley:apple_dough"
+					count: 2
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 4.0d
+			dependencies: ["2B730F8CB8780CB9"]
+			id: "7FBE5501365DBA54"
+			tasks: [{
+				id: "26969A2E463F222A"
+				type: "item"
+				item: {
+					id: "minecraft:iron_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "50D5FC0FF8784832"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_boots"
+				}
+				{
+					id: "323D916BB39DDAD7"
+					type: "item"
+					item: "valley:apple_dough"
+					count: 2
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 5.5d
+			dependencies: ["76C4CE1A4A9E94C8"]
+			id: "1E769B05C7050228"
+			tasks: [{
+				id: "68CD2B149B0B6B80"
+				type: "item"
+				item: {
+					id: "minecraft:iron_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "373398D36622554A"
+					type: "item"
+					item: "valley:apple_juice"
+				}
+				{
+					id: "177C883DDD0AA422"
+					type: "item"
+					item: "ruined_equipment:ruined_iron_sword"
+				}
+			]
+		}
+		{
+			title: "Its soo cold"
+			icon: "minecraft:ice"
+			x: 13.5d
+			y: -1.0d
+			description: ["By having those rocks in inventory, you will no longer be frozen"]
+			dependencies: ["7BEA589143EC0713"]
+			id: "33167E6087711DC4"
+			tasks: [{
+				id: "7F944ECF01D4A846"
+				type: "item"
+				item: {
+					id: "environmentz:heated_stones"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
 			}]
 			rewards: [{
-				id: "01254E3A73BDD3A8"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
+				id: "16A2565347067B8C"
+				type: "item"
+				item: "environmentz:wolf_pelt"
+				count: 4
+			}]
+		}
+		{
+			title: "Bow master"
+			icon: {
+				id: "minecraft:bow"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 11.0d
+			y: 2.0d
+			dependencies: ["725634C051632BDA"]
+			id: "57F6FF3DD1286970"
+			tasks: [
+				{
+					id: "72FFFBE23A33B217"
+					type: "item"
+					item: {
+						id: "mcdw:bow_trickbow"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "63BDB8D2F2DF9D9B"
+					type: "item"
+					item: "minecraft:arrow"
+					count: 16L
+				}
+			]
+			rewards: [{
+				id: "5C39AA0169F44B7B"
+				type: "item"
+				item: "valley:arrow_bundle"
+				count: 2
+			}]
+		}
+		{
+			title: "Explore time"
+			icon: "minecraft:filled_map"
+			x: 13.5d
+			y: 0.5d
+			dependencies: [
+				"6C6EC4DD142F9F31"
+				"725634C051632BDA"
+				"7BEA589143EC0713"
+			]
+			id: "5C73ED09C18A828A"
+			tasks: [
+				{
+					id: "4D602E5BD3F03609"
+					type: "structure"
+					title: "Village"
+					structure: "minecraft:village"
+				}
+				{
+					id: "7E496C60E55BA269"
+					type: "item"
+					item: "hoverpets:fox_pet"
+				}
+			]
+			rewards: [
+				{
+					id: "4C6DA5415F9748E3"
+					type: "item"
+					item: "valley:fox_food"
+				}
+				{
+					id: "75BD3E018B085EF8"
+					type: "item"
+					item: {
+						id: "explorerscompass:explorerscompass"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			title: "Doom"
+			icon: {
+				id: "valley:lumber_axe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 16.0d
+			y: 0.5d
+			dependencies: ["5C73ED09C18A828A"]
+			id: "3B4C8D878F3E6D14"
+			tasks: [
+				{
+					id: "50D619BD91C86539"
+					type: "kill"
+					entity: "minecraft:zombie"
+					value: 3L
+				}
+				{
+					id: "201ADB7FDC849F79"
+					type: "kill"
+					entity: "minecraft:creeper"
+					value: 3L
+				}
+				{
+					id: "32759172663B86C9"
+					type: "kill"
+					entity: "minecraft:skeleton"
+					value: 3L
+				}
+				{
+					id: "12C961EA861239E5"
+					type: "kill"
+					entity: "minecraft:spider"
+					value: 3L
+				}
+			]
+			rewards: [{
+				id: "31597C24416EEBE2"
+				type: "item"
+				item: "ringsofascension:ring_experience"
 			}]
 		}
 		{
 			title: "Another heart"
-			x: 12.0d
-			y: 1.5d
-			dependencies: ["444F2E4674B49F43"]
-			id: "1734B7C0976DE6CB"
+			icon: "adventurez:stone_golem_heart"
+			x: 17.0d
+			y: -0.5d
+			dependencies: ["3B4C8D878F3E6D14"]
+			id: "1561E62CB0400DC5"
 			tasks: [{
-				id: "24813129DE5B7E21"
+				id: "37E1DCE3533DFECC"
 				type: "xp"
 				value: 26L
 				points: false
 			}]
 			rewards: [{
-				id: "6E30842C08B19A1B"
-				type: "random"
-				title: "Level 1"
-				icon: "minecraft:oak_log"
-				table_id: 6604220373141941832L
+				id: "09CCBFAC671EF32A"
+				type: "item"
+				item: "valley:creamy_heart_stew"
 			}]
 		}
 		{
-			title: "Back to mining"
-			x: 13.5d
+			title: "Miner of the richest"
+			icon: {
+				id: "minecraft:iron_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 18.0d
 			y: 0.5d
-			dependencies: ["1734B7C0976DE6CB"]
-			id: "0757BF9AA61A7B10"
+			dependencies: ["1561E62CB0400DC5"]
+			id: "0338F71800AADB29"
+			tasks: [{
+				id: "351E5B66699E40A9"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 5L
+			}]
+			rewards: [
+				{
+					id: "0CC81040C0623F40"
+					type: "item"
+					item: "valley:apple_cyser"
+				}
+				{
+					id: "4EFAFF45183A4FB1"
+					type: "item"
+					item: "betteranimalsplus:fried_egg"
+				}
+				{
+					id: "694BE29425699768"
+					type: "item"
+					item: "minecraft:sugar_cane"
+					count: 3
+				}
+			]
+		}
+		{
+			title: "Black magic"
+			icon: "valley:sea_creature_eye"
+			x: 19.0d
+			y: 2.0d
+			dependencies: ["0338F71800AADB29"]
+			id: "192D3F7F00FD1BAA"
 			tasks: [
 				{
-					id: "2072ADCD74BB73FB"
+					id: "7EF774E6D7B5F6C2"
+					type: "item"
+					item: "minecraft:enchanting_table"
+				}
+				{
+					id: "50EFF865D4FD5967"
+					type: "item"
+					item: "minecraft:bookshelf"
+					count: 12L
+				}
+			]
+			rewards: [
+				{
+					id: "73959E28282E9437"
+					type: "item"
+					item: "minecraft:experience_bottle"
+					count: 5
+				}
+				{
+					id: "1496E983A9E5D006"
 					type: "item"
 					item: {
-						id: "minecraft:diamond_pickaxe"
+						id: "mcdar:enchanted_grass"
 						Count: 1b
 						tag: {
 							Damage: 0
 						}
 					}
 				}
-				{
-					id: "69909BB214A0FC11"
-					type: "item"
-					item: "searchlight:searchlight"
-				}
 			]
-			rewards: [{
-				id: "064000C80A9CDA28"
-				type: "random"
-				title: "Level 2"
-				icon: "minecraft:iron_block"
-				table_id: 6368302043933665461L
-			}]
 		}
 		{
-			title: "Under world, above bedrock"
-			x: 15.5d
-			y: 0.5d
-			dependencies: ["0757BF9AA61A7B10"]
-			id: "368C2C9431CD39FB"
-			tasks: [{
-				id: "5FE21539A9164C31"
-				type: "location"
-				title: "Y: -60"
-				icon: "minecraft:bedrock"
-				dimension: "minecraft:overworld"
-				ignore_dimension: false
-				position: [I;
-					0
-					-60
-					0
-				]
-				size: [I;
-					1
-					1
-					1
-				]
-			}]
-			rewards: [{
-				id: "334F934B45D4518D"
-				type: "random"
-				title: "Level 2"
-				icon: "minecraft:iron_block"
-				table_id: 6368302043933665461L
-			}]
-		}
-		{
-			title: "Amethyst world"
-			x: 14.0d
-			y: 2.5d
-			dependencies: ["368C2C9431CD39FB"]
-			id: "2D2EFA9EBE9C7347"
-			tasks: [
-				{
-					id: "6B0A3D9BD9A83BB3"
-					type: "item"
-					item: "minecraft:amethyst_shard"
-				}
-				{
-					id: "249AA2F4FF3F8927"
-					type: "item"
-					item: "minecraft:amethyst_block"
-				}
-			]
-			rewards: [{
-				id: "3F2798541976EB99"
-				type: "random"
-				title: "Level 2"
-				icon: "minecraft:iron_block"
-				table_id: 6368302043933665461L
-			}]
-		}
-		{
-			title: "Wizard"
-			x: 16.0d
-			y: 2.5d
-			dependencies: ["2D2EFA9EBE9C7347"]
-			id: "531058D939F5E189"
-			tasks: [
-				{
-					id: "37D13AE4454CD81E"
-					type: "item"
-					item: "minecraft:obsidian"
-					count: 4L
-				}
-				{
-					id: "39C0B744E0C03655"
-					type: "item"
-					item: "minecraft:diamond"
-					count: 2L
-				}
-				{
-					id: "34F9ACEDAD66B87B"
-					type: "item"
-					item: "minecraft:book"
-				}
-			]
-			rewards: [{
-				id: "47D515E6607C3F4F"
-				type: "random"
-				title: "Level 2"
-				icon: "minecraft:iron_block"
-				table_id: 6368302043933665461L
-			}]
-		}
-		{
-			title: "Demon of Snow"
-			x: 18.0d
+			title: "Undying of Totem"
+			x: 17.5d
 			y: 2.0d
-			dependencies: ["531058D939F5E189"]
-			id: "16A851163530BCB3"
+			dependencies: ["192D3F7F00FD1BAA"]
+			id: "35EFFE5C3F2D9C4C"
+			tasks: [{
+				id: "6806C26F704C2EAE"
+				type: "item"
+				item: "valley:growth_totem"
+			}]
+			rewards: [{
+				id: "32E3136EE53A2C68"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
+			}]
+		}
+		{
+			title: "Snow demons"
+			icon: "valley:snow"
+			x: 21.0d
+			y: 1.0d
+			dependencies: ["192D3F7F00FD1BAA"]
+			id: "4E3651728E8658ED"
 			tasks: [
 				{
-					id: "33805EF1CFFE6047"
+					id: "6D8DDF4343E3082E"
 					type: "item"
 					item: "minecraft:blue_ice"
 					count: 24L
 				}
 				{
-					id: "216BC4E04EF05FFA"
+					id: "7E73E41E835B3817"
 					type: "item"
 					item: "minecraft:powder_snow_bucket"
 					count: 3L
 				}
 			]
+			rewards: [{
+				id: "5D1CB6564EAE3F55"
+				type: "item"
+				item: "ringsofascension:ring_water_walking"
+			}]
 		}
 		{
-			title: "Demon of Hell"
-			x: 18.0d
+			title: "Fire demons"
+			icon: "hoverpets:blaze_pet"
+			x: 21.0d
 			y: 3.0d
-			dependencies: ["531058D939F5E189"]
-			id: "317B9CE91B084DDB"
+			dependencies: ["192D3F7F00FD1BAA"]
+			id: "17240BA7CBF0B75A"
 			tasks: [
 				{
-					id: "4036F4FABDF850C7"
+					id: "73974497BA47BE81"
 					type: "item"
 					item: "minecraft:obsidian"
 					count: 10L
 				}
 				{
-					id: "26C4E613ED65044D"
+					id: "449307957B5AA4FA"
 					type: "item"
 					item: {
 						id: "minecraft:flint_and_steel"
@@ -564,31 +966,36 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "0E0271EA36F774EF"
+				type: "item"
+				item: "ringsofascension:ring_fire_resistance"
+			}]
 		}
 		{
-			title: "Hell of Snow"
+			title: "Murder land"
 			icon: "valley:rain_totem"
-			x: 19.5d
-			y: 1.5d
-			shape: "gear"
-			dependencies: ["16A851163530BCB3"]
-			id: "49A00271A6D1815F"
+			x: 23.0d
+			y: 1.0d
+			shape: "rsquare"
+			dependencies: ["4E3651728E8658ED"]
+			id: "76A89F1C57F23647"
 			tasks: [{
-				id: "66B9EEF2AD503767"
+				id: "593CCE913394F26A"
 				type: "dimension"
 				dimension: "snowmercy:winter_murderland"
 			}]
 		}
 		{
-			title: "Home of Demons"
-			icon: "valley:fire_pepper"
-			x: 19.5d
-			y: 3.5d
-			shape: "gear"
-			dependencies: ["317B9CE91B084DDB"]
-			id: "6333EFBA19C3C853"
+			title: "Hell over here"
+			icon: "valley:storm_totem"
+			x: 23.0d
+			y: 3.0d
+			shape: "rsquare"
+			dependencies: ["17240BA7CBF0B75A"]
+			id: "4BB373DED3958490"
 			tasks: [{
-				id: "64D024A25F9206E2"
+				id: "00DF147081059941"
 				type: "dimension"
 				dimension: "minecraft:the_nether"
 			}]
