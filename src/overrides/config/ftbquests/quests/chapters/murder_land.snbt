@@ -1,0 +1,39 @@
+{
+	id: "47D59EDFDF693CBF"
+	group: ""
+	order_index: 1
+	filename: "murder_land"
+	title: "Murder land"
+	icon: "valley:rain_totem"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "Enter the murder land"
+		icon: "valley:rain_totem"
+		x: 0.0d
+		y: 0.0d
+		shape: "square"
+		description: ["Enter murder land"]
+		dependencies: ["76A89F1C57F23647"]
+		size: 2.0d
+		id: "43E04AE5844751E1"
+		tasks: [{
+			id: "4CEF2B4304A9145F"
+			type: "dimension"
+			dimension: "snowmercy:winter_murderland"
+		}]
+		rewards: [
+			{
+				id: "746DB88540A0BAB4"
+				type: "item"
+				item: "valley:glistering_snow_yam"
+				count: 8
+			}
+			{
+				id: "511E6625B7FC4103"
+				type: "item"
+				item: "minecraft:spruce_sapling"
+			}
+		]
+	}]
+}

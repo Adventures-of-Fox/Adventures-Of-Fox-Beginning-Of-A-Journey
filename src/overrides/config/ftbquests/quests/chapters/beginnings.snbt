@@ -14,20 +14,32 @@
 			x: 0.5d
 			y: 0.5d
 			shape: "square"
+			description: [
+				"Enter overworld"
+				""
+			]
+			size: 2.0d
 			id: "637442739058EF8E"
-			tasks: [{
-				id: "5F23D7037F744AC5"
-				type: "item"
-				title: "Any #minecraft:logs"
-				item: {
-					id: "itemfilters:tag"
-					Count: 1b
-					tag: {
-						value: "minecraft:logs"
+			tasks: [
+				{
+					id: "5F23D7037F744AC5"
+					type: "item"
+					title: "Any #minecraft:logs"
+					item: {
+						id: "itemfilters:tag"
+						Count: 1b
+						tag: {
+							value: "minecraft:logs"
+						}
 					}
+					count: 4L
 				}
-				count: 4L
-			}]
+				{
+					id: "0D54A63274DCBD69"
+					type: "dimension"
+					dimension: "minecraft:overworld"
+				}
+			]
 			rewards: [
 				{
 					id: "33D447A73A32013B"
@@ -59,8 +71,8 @@
 			x: 3.0d
 			y: 1.0d
 			description: [
+				"Mine 19 cobblestones"
 				"Craft from them pickaxe, hoe, shovel, sword, axe and furnace"
-				""
 			]
 			dependencies: ["637442739058EF8E"]
 			id: "6E501BB3B63F9D4D"
@@ -102,7 +114,10 @@
 			icon: "minecraft:water_bucket"
 			x: 4.5d
 			y: 0.0d
-			description: ["Smelt water and get purified water to drink"]
+			description: [
+				"Mine 12 sands and craft bottles from them and get water inside bottles"
+				"Smelt water and get purified water to drink"
+			]
 			dependencies: ["6E501BB3B63F9D4D"]
 			id: "7C185D6C75FE335B"
 			tasks: [
@@ -156,6 +171,7 @@
 			}
 			x: 6.5d
 			y: 0.0d
+			description: ["Will be useful in other quests"]
 			dependencies: ["7C185D6C75FE335B"]
 			id: "77392A17F8D205FA"
 			tasks: [
@@ -223,6 +239,7 @@
 			}
 			x: 10.0d
 			y: 0.5d
+			description: ["Mine iron and copper for other quests"]
 			dependencies: ["6E4ECE42E8846A00"]
 			id: "6C6EC4DD142F9F31"
 			tasks: [
@@ -279,6 +296,7 @@
 			icon: "ruined_equipment:ruined_iron_leggings"
 			x: 10.0d
 			y: 3.0d
+			description: ["Items used to make tools \\& armor \\& weapons"]
 			dependencies: ["6C6EC4DD142F9F31"]
 			id: "725634C051632BDA"
 			tasks: [
@@ -311,6 +329,7 @@
 			title: "Base of tools"
 			x: 14.5d
 			y: 3.0d
+			description: ["Used to create tools"]
 			dependencies: ["725634C051632BDA"]
 			id: "76DA4910C9C54067"
 			tasks: [{
@@ -336,6 +355,7 @@
 			title: "Base of weapons"
 			x: 10.0d
 			y: 4.5d
+			description: ["Used to create sword"]
 			dependencies: ["725634C051632BDA"]
 			id: "76C4CE1A4A9E94C8"
 			tasks: [{
@@ -361,6 +381,7 @@
 			title: "Base of armor"
 			x: 6.5d
 			y: 3.0d
+			description: ["Used to create iron armor"]
 			dependencies: ["725634C051632BDA"]
 			id: "2B730F8CB8780CB9"
 			tasks: [{
@@ -386,6 +407,7 @@
 		{
 			x: 13.5d
 			y: 3.5d
+			description: ["For mining more iron and diamonds"]
 			dependencies: ["76DA4910C9C54067"]
 			id: "6451F0673B4CF73D"
 			tasks: [{
@@ -415,6 +437,7 @@
 		{
 			x: 15.5d
 			y: 3.5d
+			description: ["For wood"]
 			dependencies: ["76DA4910C9C54067"]
 			id: "79056D1D85555A13"
 			tasks: [{
@@ -444,6 +467,7 @@
 		{
 			x: 15.5d
 			y: 2.5d
+			description: ["To mine dirt and sand"]
 			dependencies: ["76DA4910C9C54067"]
 			id: "0C0470115B753138"
 			tasks: [{
@@ -473,6 +497,7 @@
 		{
 			x: 13.5d
 			y: 2.5d
+			description: ["To make farms"]
 			dependencies: ["76DA4910C9C54067"]
 			id: "71B6FAE5C7A7245A"
 			tasks: [{
@@ -622,6 +647,7 @@
 		{
 			x: 10.0d
 			y: 5.5d
+			description: ["Sword for killing everything"]
 			dependencies: ["76C4CE1A4A9E94C8"]
 			id: "1E769B05C7050228"
 			tasks: [{
@@ -685,6 +711,7 @@
 			}
 			x: 11.0d
 			y: 2.0d
+			description: ["Bow to make you better at bow :3"]
 			dependencies: ["725634C051632BDA"]
 			id: "57F6FF3DD1286970"
 			tasks: [
@@ -718,6 +745,7 @@
 			icon: "minecraft:filled_map"
 			x: 13.5d
 			y: 0.5d
+			description: ["Don't sit in one place, do something"]
 			dependencies: [
 				"6C6EC4DD142F9F31"
 				"725634C051632BDA"
@@ -765,6 +793,7 @@
 			}
 			x: 16.0d
 			y: 0.5d
+			description: ["Kill mobs for xp"]
 			dependencies: ["5C73ED09C18A828A"]
 			id: "3B4C8D878F3E6D14"
 			tasks: [
@@ -804,6 +833,10 @@
 			icon: "adventurez:stone_golem_heart"
 			x: 17.0d
 			y: -0.5d
+			description: [
+				"Get 27 level just for another heart!"
+				"You get heart every 1000 xp"
+			]
 			dependencies: ["3B4C8D878F3E6D14"]
 			id: "1561E62CB0400DC5"
 			tasks: [{
@@ -829,6 +862,20 @@
 			}
 			x: 18.0d
 			y: 0.5d
+			subtitle: "MINE DIAMONDS | miNECRAFT PARODY OF TAKE ON ME"
+			description: [
+				"Alright guys, I'm doing \"Take On Me\" now"
+				"Alright, ha-pa-ba-ba-ba"
+				"I, I really, I really like this song, it sounds good"
+				"Minin' away, I don't know what to mine"
+				"I'll mine this anyway in this Minecraft day"
+				"So beautiful, mine further down"
+				"What's that I found?"
+				"Mine diamonds (take on me)"
+				"Mine diamonds (take on me)"
+				"I'll mine them"
+				"So far I've got two..."
+			]
 			dependencies: ["1561E62CB0400DC5"]
 			id: "0338F71800AADB29"
 			tasks: [{
@@ -846,7 +893,7 @@
 				{
 					id: "4EFAFF45183A4FB1"
 					type: "item"
-					item: "betteranimalsplus:fried_egg"
+					item: "additionaladditions:fried_egg"
 				}
 				{
 					id: "694BE29425699768"
@@ -861,6 +908,11 @@
 			icon: "valley:sea_creature_eye"
 			x: 19.0d
 			y: 2.0d
+			subtitle: "⊣ᔑꖎᔑᓵℸ ̣ ╎ᓵ ᔑꖎ!¡⍑ᔑʖᒷℸ ̣"
+			description: [
+				"!¡⚍ℸ ̣  ʖ𝙹𝙹ꖌᓭ⍑ᒷꖎ⎓ᓭ ᔑ∷𝙹⚍リ↸ ᒷリᓵ⍑ᔑリℸ ̣ ╎リ⊣ ℸ ̣ ᔑʖꖎᒷ ℸ ̣ 𝙹 ⊣ᒷℸ ̣  ᒲᔑ ̇/ ᒷリᓵ⍑ᔑリℸ ̣  ꖎᒷ⍊ᒷꖎ"
+				"ᒷリᓵ⍑ᔑリℸ ̣ ╎リ⊣ ℸ ̣ ᔑʖꖎᒷ ╎ᓭ ⚍ᓭᒷ↸ ⎓𝙹∷ ᒷリᓵ⍑ᔑリℸ ̣ ╎リ⊣ ╎ℸ ̣ ᒷᒲ"
+			]
 			dependencies: ["0338F71800AADB29"]
 			id: "192D3F7F00FD1BAA"
 			tasks: [
@@ -918,6 +970,7 @@
 			icon: "valley:snow"
 			x: 21.0d
 			y: 1.0d
+			description: ["Using those snow you can teleport to snow hell"]
 			dependencies: ["192D3F7F00FD1BAA"]
 			id: "4E3651728E8658ED"
 			tasks: [
@@ -945,6 +998,7 @@
 			icon: "hoverpets:blaze_pet"
 			x: 21.0d
 			y: 3.0d
+			description: ["Use obsidian and flint \\& steal for teleporting to nether"]
 			dependencies: ["192D3F7F00FD1BAA"]
 			id: "17240BA7CBF0B75A"
 			tasks: [
@@ -978,12 +1032,20 @@
 			x: 23.0d
 			y: 1.0d
 			shape: "rsquare"
+			description: ["Create portal by placing pilar from 3 powder snow and around it place blue ice and freeze inside powder snow"]
 			dependencies: ["4E3651728E8658ED"]
+			size: 1.5d
 			id: "76A89F1C57F23647"
 			tasks: [{
 				id: "593CCE913394F26A"
 				type: "dimension"
 				dimension: "snowmercy:winter_murderland"
+			}]
+			rewards: [{
+				id: "78955FFA14880D8F"
+				type: "item"
+				item: "valley:snow_yam_item"
+				count: 12
 			}]
 		}
 		{
@@ -992,12 +1054,20 @@
 			x: 23.0d
 			y: 3.0d
 			shape: "rsquare"
+			description: ["Using 14 obsidian create portal with width 4 blocks and height 5 and use flint \\& steal to open portal"]
 			dependencies: ["17240BA7CBF0B75A"]
+			size: 1.5d
 			id: "4BB373DED3958490"
 			tasks: [{
 				id: "00DF147081059941"
 				type: "dimension"
 				dimension: "minecraft:the_nether"
+			}]
+			rewards: [{
+				id: "260383462733D7AB"
+				type: "item"
+				item: "valley:fire_pepper"
+				count: 12
 			}]
 		}
 	]

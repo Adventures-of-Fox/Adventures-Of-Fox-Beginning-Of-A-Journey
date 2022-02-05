@@ -1,0 +1,39 @@
+{
+	id: "06498A36E22D8AF1"
+	group: ""
+	order_index: 2
+	filename: "nether"
+	title: "Nether"
+	icon: "valley:storm_totem"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "Enter the hell"
+		icon: "valley:storm_totem"
+		x: 0.0d
+		y: 0.0d
+		shape: "square"
+		description: ["Enter nether"]
+		dependencies: ["4BB373DED3958490"]
+		size: 2.0d
+		id: "4337AF5974A81AD5"
+		tasks: [{
+			id: "1EE98AA7BF06AC68"
+			type: "dimension"
+			dimension: "minecraft:the_nether"
+		}]
+		rewards: [
+			{
+				id: "62D2E0008FC98205"
+				type: "item"
+				item: "valley:glistering_pepper"
+				count: 8
+			}
+			{
+				id: "50F57FF2EA74F48C"
+				type: "item"
+				item: "betternether:willow_sapling"
+			}
+		]
+	}]
+}

@@ -1,0 +1,4044 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 5, 2022, 2:38:33 PM
+
+#dragonloot:explosion_resistant
+- dragonloot:dragon_scale
+- dragonloot:dragon_helmet
+- dragonloot:dragon_chestplate
+- dragonloot:dragon_leggings
+- dragonloot:dragon_boots
+- dragonloot:upgraded_dragon_chestplate
+- dragonloot:dragon_pickaxe
+- dragonloot:dragon_shovel
+- dragonloot:dragon_axe
+- dragonloot:dragon_hoe
+- dragonloot:dragon_sword
+- dragonloot:dragon_bow
+- dragonloot:dragon_crossbow
+- medievalweapons:dragon_small_axe
+- medievalweapons:dragon_long_sword
+- medievalweapons:dragon_dagger
+- medievalweapons:dragon_big_axe
+- medievalweapons:dragon_lance
+- medievalweapons:dragon_healing_staff
+- medievalweapons:dragon_mace
+- medievalweapons:dragon_francisca
+- medievalweapons:dragon_javelin
+
+#c:miners_lettuce
+- valley:miners_lettuce
+
+#c:tea_ingredients/salty/normal
+- minecraft:warped_roots
+- minecraft:seagrass
+- minecraft:kelp
+- culinaire:tomato
+
+#mythicmetals:kyber_blocks
+- mythicmetals:kyber_block
+
+#mythicmetals:midas_gold_ores
+- mythicmetals:midas_gold_ore
+
+#xtraarrows:golden_arrows
+- xtraarrows:golden_arrow
+- xtraarrows:golden_explosive_arrow
+- xtraarrows:golden_torch_arrow
+- xtraarrows:golden_lightning_arrow
+- xtraarrows:golden_ender_arrow
+- xtraarrows:golden_tracking_arrow
+
+#advancednetherite:axes/netherite_iron
+- advancednetherite:netherite_iron_axe
+
+#c:orichalcum_nuggets
+- mythicmetals:orichalcum_nugget
+
+#c:carpets
+- earthtojavamobs:rainbow_carpet
+
+#minecraft:occludes_vibration_signals
+- #minecraft:wool
+
+#mythicmetals:carmot_blocks
+- mythicmetals:carmot_block
+
+#mythicmetals:runite_ores
+- mythicmetals:runite_ore
+
+#fabric:pickaxes
+- additionaladditions:rose_gold_pickaxe?
+- additionaladditions:gilded_netherite_pickaxe?
+- advancednetherite:netherite_iron_pickaxe
+- advancednetherite:netherite_gold_pickaxe
+- advancednetherite:netherite_emerald_pickaxe
+- advancednetherite:netherite_diamond_pickaxe
+- dragonloot:dragon_pickaxe
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:netherite_pickaxe
+- mcdw:pick_diamond_pickaxe_var
+- mcdw:pick_mountaineer_pick
+- mcdw:pick_howling_pick
+- mcdw:pick_hailing_pinnacle
+- mythicmetals:adamantite_pickaxe
+- mythicmetals:aquarium_pickaxe
+- mythicmetals:banglum_pickaxe
+- mythicmetals:bronze_pickaxe
+- mythicmetals:carmot_pickaxe
+- mythicmetals:celestium_pickaxe
+- mythicmetals:copper_pickaxe
+- mythicmetals:durasteel_pickaxe
+- mythicmetals:hallowed_pickaxe
+- mythicmetals:kyber_pickaxe
+- mythicmetals:metallurgium_pickaxe
+- mythicmetals:mythril_pickaxe
+- mythicmetals:orichalcum_pickaxe
+- mythicmetals:osmium_pickaxe
+- mythicmetals:palladium_pickaxe
+- mythicmetals:prometheum_pickaxe
+- mythicmetals:quadrillum_pickaxe
+- mythicmetals:runite_pickaxe
+- mythicmetals:star_platinum_pickaxe
+- mythicmetals:stormyx_pickaxe
+
+#advancednetherite:pickaxes/netherite_iron
+- advancednetherite:netherite_iron_pickaxe
+
+#c:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#mythicmetals:star_platinum
+- mythicmetals:star_platinum
+
+#c:gold_nuggets
+- minecraft:gold_nugget
+
+#c:beds
+- earthtojavamobs:rainbow_bed
+
+#mythicmetals:metallurgium_ingots
+- mythicmetals:metallurgium_ingot
+
+#mythicmetals:runite_ingots
+- mythicmetals:runite_ingot
+
+#c:sickles
+- valley:wood_sickle
+- valley:stone_sickle
+- valley:iron_sickle
+- valley:golden_sickle
+- valley:rg_sickle
+- valley:diamond_sickle
+- valley:netherite_sickle
+
+#advancednetherite:shovels/upgrade_to_netherite_iron
+- #advancednetherite:shovels/netherite
+
+#c:orichalcum_ores
+- mythicmetals:orichalcum_ore
+- mythicmetals:deepslate_orichalcum_ore
+- mythicmetals:smooth_basalt_orichalcum_ore
+- mythicmetals:tuff_orichalcum_ore
+
+#mythicmetals:carmot_armor
+- mythicmetals:carmot_helmet
+- mythicmetals:carmot_chestplate
+- mythicmetals:carmot_leggings
+- mythicmetals:carmot_boots
+
+#fabric:axes
+- additionaladditions:rose_gold_axe?
+- additionaladditions:gilded_netherite_axe?
+- advancednetherite:netherite_iron_axe
+- advancednetherite:netherite_gold_axe
+- advancednetherite:netherite_emerald_axe
+- advancednetherite:netherite_diamond_axe
+- dragonloot:dragon_axe
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:golden_axe
+- minecraft:diamond_axe
+- minecraft:netherite_axe
+- mcdw:axe
+- mcdw:axe_firebrand
+- mcdw:axe_highland
+- mcdw:axe_cursed
+- mcdw:axe_double
+- mcdw:axe_whirlwind
+- mcdw:axe_anchor
+- mcdw:axe_encrusted_anchor
+- mcdw:spear_spear
+- mcdw:spear_whispering_spear
+- mcdw:spear_fortune
+- mcdw:staff_battlestaff
+- mcdw:staff_growing_staff
+- mcdw:staff_battlestaff_of_terror
+- mcdw:whip_whip
+- mcdw:whip_vine_whip
+- mythicmetals:adamantite_axe
+- mythicmetals:aquarium_axe
+- mythicmetals:banglum_axe
+- mythicmetals:bronze_axe
+- mythicmetals:carmot_axe
+- mythicmetals:celestium_axe
+- mythicmetals:copper_axe
+- mythicmetals:durasteel_axe
+- mythicmetals:hallowed_axe
+- mythicmetals:kyber_axe
+- mythicmetals:metallurgium_axe
+- mythicmetals:mythril_axe
+- mythicmetals:orichalcum_axe
+- mythicmetals:osmium_axe
+- mythicmetals:palladium_axe
+- mythicmetals:prometheum_axe
+- mythicmetals:quadrillum_axe
+- mythicmetals:runite_axe
+- mythicmetals:star_platinum_axe
+- mythicmetals:stormyx_axe
+
+#starmute:tools_armor
+- minecraft:stone_axe
+- minecraft:stone_hoe
+- minecraft:stone_pickaxe
+- minecraft:stone_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:iron_axe
+- minecraft:iron_hoe
+- minecraft:iron_pickaxe
+- minecraft:iron_shovel
+- minecraft:diamond_axe
+- minecraft:diamond_hoe
+- minecraft:diamond_pickaxe
+- minecraft:diamond_shovel
+- minecraft:chainmail_boots
+- minecraft:chainmail_leggings
+- minecraft:chainmail_chestplate
+- minecraft:chainmail_helmet
+- minecraft:diamond_boots
+- minecraft:diamond_leggings
+- minecraft:diamond_chestplate
+- minecraft:diamond_helmet
+- minecraft:golden_boots
+- minecraft:golden_leggings
+- minecraft:golden_chestplate
+- minecraft:golden_helmet
+- minecraft:iron_boots
+- minecraft:iron_leggings
+- minecraft:iron_chestplate
+- minecraft:iron_helmet
+- minecraft:golden_sword
+- minecraft:iron_sword
+- minecraft:diamond_sword
+- minecraft:bow
+- minecraft:crossbow
+- minecraft:netherite_chestplate
+
+#advancednetherite:boots/netherite_iron
+- advancednetherite:netherite_iron_boots
+
+#c:tin_ores
+- mythicmetals:tin_ore
+
+#universal_ores:ores/iron
+- universal_ores:andesite_iron_ore
+- universal_ores:diorite_iron_ore
+- universal_ores:granite_iron_ore
+- universal_ores:tuff_iron_ore
+- universal_ores:calcite_iron_ore
+
+#advancednetherite:shovels/netherite_diamond
+- advancednetherite:netherite_diamond_shovel
+
+#advancednetherite:upgrade_to_netherite_iron
+- #advancednetherite:ingots/netherites_iron
+
+#c:brown_dyes
+- minecraft:brown_dye
+
+#advancednetherite:ingots/netherites_diamond
+- advancednetherite:netherite_diamond_ingot
+
+#advancednetherite:leggings/netherite_iron
+- advancednetherite:netherite_iron_leggings
+
+#minecraft:glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#balm:yellow_dyes
+- #c:yellow_dyes?
+- minecraft:yellow_dye
+
+#universal_ores:ores/copper
+- universal_ores:andesite_copper_ore
+- universal_ores:diorite_copper_ore
+- universal_ores:granite_copper_ore
+- universal_ores:tuff_copper_ore
+- universal_ores:calcite_copper_ore
+
+#c:steel_blocks
+- mythicmetals:steel_block
+
+#advancednetherite:leggings/netherite_diamond
+- advancednetherite:netherite_diamond_leggings
+
+#advancednetherite:chestplates/upgrade_to_netherite_diamond
+- #advancednetherite:chestplates/netherite_emerald
+
+#c:tomato
+- valley:tomato_bush
+
+#advancednetherite:boots/upgrade_to_netherite_gold
+- #advancednetherite:boots/netherite_iron
+
+#balm:cyan_dyes
+- #c:cyan_dyes?
+- minecraft:cyan_dye
+
+#variantcraftingtables:crafting_tables
+- variantcraftingtables:acacia_crafting_table
+- variantcraftingtables:birch_crafting_table
+- variantcraftingtables:dark_oak_crafting_table
+- variantcraftingtables:jungle_crafting_table
+- variantcraftingtables:spruce_crafting_table
+- variantcraftingtables:rubber_crafting_table?
+- variantcraftingtables:warped_crafting_table?
+- variantcraftingtables:crimson_crafting_table?
+- variantcraftingtables:dark_amaranth_crafting_table?
+- variantcraftingtables:cherry_oak_crafting_table?
+- variantcraftingtables:palm_crafting_table?
+- variantcraftingtables:bamboo_crafting_table?
+- variantcraftingtables:charred_crafting_table?
+- variantcraftingtables:legacy_crafting_table?
+- variantcraftingtables:white_oak_crafting_table?
+- variantcraftingtables:juniper_crafting_table?
+- variantcraftingtables:cypress_crafting_table?
+- variantcraftingtables:elder_crafting_table?
+- variantcraftingtables:dragons_blood_crafting_table?
+- variantcraftingtables:shimmerwood_crafting_table?
+- variantcraftingtables:dreamwood_crafting_table?
+- variantcraftingtables:mossy_dreamwood_crafting_table?
+- variantcraftingtables:mossy_livingwood_crafting_table?
+- variantcraftingtables:livingwood_crafting_table?
+- variantcraftingtables:livingwood_crafting_table?
+- variantcraftingtables:mossy_livingwood_crafting_table?
+- variantcraftingtables:mossy_dreamwood_crafting_table?
+- variantcraftingtables:dreamwood_crafting_table?
+- variantcraftingtables:shimmerwood_crafting_table?
+- variantcraftingtables:wisteria_crafting_table?
+- variantcraftingtables:white_crafting_table?
+- variantcraftingtables:orange_crafting_table?
+- variantcraftingtables:magenta_crafting_table?
+- variantcraftingtables:light_blue_crafting_table?
+- variantcraftingtables:yellow_crafting_table?
+- variantcraftingtables:lime_crafting_table?
+- variantcraftingtables:pink_crafting_table?
+- variantcraftingtables:gray_crafting_table?
+- variantcraftingtables:light_gray_crafting_table?
+- variantcraftingtables:cyan_crafting_table?
+- variantcraftingtables:purple_crafting_table?
+- variantcraftingtables:blue_crafting_table?
+- variantcraftingtables:brown_crafting_table?
+- variantcraftingtables:green_crafting_table?
+- variantcraftingtables:red_crafting_table?
+- variantcraftingtables:black_crafting_table?
+- variantcraftingtables:blighted_balsa_crafting_table?
+- variantcraftingtables:willow_crafting_table?
+- variantcraftingtables:swamp_cypress_crafting_table?
+- variantcraftingtables:ancient_oak_crafting_table?
+- variantcraftingtables:mango_crafting_table?
+- variantcraftingtables:bamboo_crafting_table_ve?
+- variantcraftingtables:redwood_crafting_table?
+
+#forge:cooked_pheasant
+- betteranimalsplus:pheasantcooked
+
+#yigd:force_item_slot
+- camsbackpacks:white_backpack?
+- camsbackpacks:orange_backpack?
+- camsbackpacks:magenta_backpack?
+- camsbackpacks:light_blue_backpack?
+- camsbackpacks:yellow_backpack?
+- camsbackpacks:lime_backpack?
+- camsbackpacks:pink_backpack?
+- camsbackpacks:gray_backpack?
+- camsbackpacks:light_gray_backpack?
+- camsbackpacks:cyan_backpack?
+- camsbackpacks:purple_backpack?
+- camsbackpacks:blue_backpack?
+- camsbackpacks:brown_backpack?
+- camsbackpacks:green_backpack?
+- camsbackpacks:red_backpack?
+- camsbackpacks:black_backpack?
+- camsbackpacks:gay_pride_backpack?
+- camsbackpacks:lesbian_pride_backpack?
+- camsbackpacks:qpoc_pride_backpack?
+- camsbackpacks:bi_pride_backpack?
+- camsbackpacks:pan_pride_backpack?
+- camsbackpacks:trans_pride_backpack?
+- camsbackpacks:genderqueer_pride_backpack?
+- camsbackpacks:genderfluid_pride_backpack?
+- camsbackpacks:enby_pride_backpack?
+- camsbackpacks:ace_pride_backpack?
+- camsbackpacks:demi_pride_backpack?
+- camsbackpacks:aro_pride_backpack?
+- camsbackpacks:agender_pride_backpack?
+
+#forge:cookedsquid
+- betteranimalsplus:calamari_cooked
+
+#ftbchunks:right_click_whitelist
+- minecraft:shield
+- minecraft:firework_rocket
+- minecraft:map
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#advancednetherite:axes/upgrade_to_netherite_emerald
+- #advancednetherite:axes/netherite_gold
+
+#mythicmetals:quadrillum_ores
+- mythicmetals:quadrillum_ore
+
+#minecraft:piglin_food
+- minecraft:porkchop
+- minecraft:cooked_porkchop
+- valley:spicy_berries
+- valley:duck_egg
+- valley:fire_pepper
+
+#mythicmetals:quadrillum_nuggets
+- mythicmetals:quadrillum_nugget
+
+#advancednetherite:chestplates/upgrade_to_netherite_iron
+- #advancednetherite:chestplates/netherite
+
+#c:sandstones
+- minecraft:sandstone
+- minecraft:smooth_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:cut_sandstone
+
+#forge:raw_fishes
+- betteranimalsplus:eel_meat_raw
+
+#forge:cookedeel
+- betteranimalsplus:eel_meat_cooked
+
+#decorative_blocks:seats
+- decorative_blocks:spruce_seat
+- decorative_blocks:acacia_seat
+- decorative_blocks:dark_oak_seat
+- decorative_blocks:warped_seat
+- decorative_blocks:birch_seat
+- decorative_blocks:jungle_seat
+- decorative_blocks:oak_seat
+- decorative_blocks:crimson_seat
+
+#advancednetherite:leggings/upgrade_to_netherite_gold
+- #advancednetherite:leggings/netherite_iron
+
+#advancednetherite:axes/netherite_gold
+- advancednetherite:netherite_gold_axe
+
+#mythicmetals:celestium_nuggets
+- mythicmetals:celestium_nugget
+
+#advancednetherite:swords/netherite_gold
+- advancednetherite:netherite_gold_sword
+
+#c:salt
+- valley:salt
+
+#c:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#blockus:patterned_wool
+- blockus:white_patterned_wool
+- blockus:orange_patterned_wool
+- blockus:magenta_patterned_wool
+- blockus:light_blue_patterned_wool
+- blockus:yellow_patterned_wool
+- blockus:lime_patterned_wool
+- blockus:pink_patterned_wool
+- blockus:gray_patterned_wool
+- blockus:light_gray_patterned_wool
+- blockus:cyan_patterned_wool
+- blockus:purple_patterned_wool
+- blockus:blue_patterned_wool
+- blockus:brown_patterned_wool
+- blockus:green_patterned_wool
+- blockus:red_patterned_wool
+- blockus:black_patterned_wool
+
+#forge:raweel
+- betteranimalsplus:eel_meat_raw
+
+#c:green_dyes
+- minecraft:green_dye
+
+#c:yellow_sandstones
+- blockus:sandstone_bricks
+- blockus:small_sandstone_bricks
+- blockus:rough_sandstone
+- blockus:gold_decorated_sandstone
+- blockus:lapis_decorated_sandstone
+- blockus:sandstone_pillar
+
+#blockus:small_hedges
+- blockus:oak_small_hedge
+- blockus:spruce_small_hedge
+- blockus:birch_small_hedge
+- blockus:jungle_small_hedge
+- blockus:acacia_small_hedge
+- blockus:dark_oak_small_hedge
+- blockus:white_oak_small_hedge
+- blockus:crimson_small_hedge
+- blockus:warped_small_hedge
+- blockus:azalea_small_hedge
+- blockus:azalea_small_hedge_flowers
+- blockus:moss_small_hedge
+- blockus:autumn_oak_small_hedge
+- blockus:autumn_birch_small_hedge
+- blockus:pink_cherry_oak_small_hedge
+- blockus:white_cherry_oak_small_hedge
+- blockus:palm_small_hedge
+- blockus:dark_amaranth_small_hedge
+
+#c:tea_ingredients/umami/weak
+- minecraft:carrot
+- minecraft:crimson_fungus
+- culinaire:lettuce_seeds
+
+#environmentz:warm_armor
+- minecraft:leather_helmet
+- minecraft:leather_chestplate
+- minecraft:leather_leggings
+- minecraft:leather_boots
+- environmentz:wolf_helmet
+- environmentz:wolf_chestplate
+- environmentz:wolf_leggings
+- environmentz:wolf_boots
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+- earthtojavamobs:rainbow_bed
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- blockus:paper_door
+- blockus:obsidian_reinforced_door
+- blockus:stone_door
+- blockus:blackstone_door
+
+#adventurez:holder_items
+- adventurez:gilded_stone
+
+#c:adamantite_nuggets
+- mythicmetals:adamantite_nugget
+
+#mythicmetals:durasteel_blocks
+- mythicmetals:durasteel_block
+
+#forge:rawturkey
+- betteranimalsplus:turkey_leg_raw
+
+#starmute:tools
+- minecraft:stone_axe
+- minecraft:stone_hoe
+- minecraft:stone_pickaxe
+- minecraft:stone_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:iron_axe
+- minecraft:iron_hoe
+- minecraft:iron_pickaxe
+- minecraft:iron_shovel
+- minecraft:diamond_axe
+- minecraft:diamond_hoe
+- minecraft:diamond_pickaxe
+- minecraft:diamond_shovel
+- minecraft:shears
+- minecraft:flint_and_steel
+- minecraft:fishing_rod
+
+#advancednetherite:pickaxes/netherite_emerald
+- advancednetherite:netherite_emerald_pickaxe
+
+#advancednetherite:axes/netherite_diamond
+- advancednetherite:netherite_diamond_axe
+
+#dehydration:hydrating_food
+- minecraft:melon_slice
+
+#c:adamantite_blocks
+- mythicmetals:adamantite_block
+
+#advancednetherite:shovels/netherite_iron
+- advancednetherite:netherite_iron_shovel
+
+#advancednetherite:helmets/upgrade_to_netherite_gold
+- #advancednetherite:helmets/netherite_iron
+
+#advancednetherite:leggings/netherite_gold
+- advancednetherite:netherite_gold_leggings
+
+#advancednetherite:axes/upgrade_to_netherite_diamond
+- #advancednetherite:axes/netherite_emerald
+
+#forge:cooked_turkey
+- betteranimalsplus:turkey_leg_cooked
+
+#betteranimalsplus:feral_wolf_tame_armor
+- minecraft:dragon_head
+
+#advancednetherite:shovels/upgrade_to_netherite_emerald
+- #advancednetherite:shovels/netherite_gold
+
+#minecraft:redstones_ores
+- #universal_ores:ores/redstone
+
+#mythicmetals:carmot_nuggets
+- mythicmetals:carmot_nugget
+
+#c:tin_ingots
+- mythicmetals:tin_ingot
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:cooked_beef
+- betteranimalsplus:venisoncooked
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+- valley:perch
+- valley:lionfish
+- valley:sardine
+- valley:stoneroller_minnow
+- valley:crab_red
+- valley:masking_crab
+- valley:lobster
+- valley:slime_fish
+- valley:pridefin
+- valley:rainbow_wrasse
+- valley:glistering_anglerfish
+- valley:octopus
+- valley:hairy_frog_fish
+- valley:fire_eel
+- valley:ghost_fish
+- valley:abyss_watcher
+- valley:bonefin
+- valley:red_porgy
+
+#advancednetherite:chestplates/upgrade_to_netherite_gold
+- #advancednetherite:chestplates/netherite_iron
+
+#mythicmetals:banglum_ingots
+- mythicmetals:banglum_ingot
+
+#balm:white_dyes
+- #c:white_dyes?
+- minecraft:white_dye
+
+#betteranimalsplus:pelts
+- betteranimalsplus:bear_skin_black
+- betteranimalsplus:bear_skin_brown
+- betteranimalsplus:bear_skin_kermode
+- betteranimalsplus:wolf_pelt_arctic
+- betteranimalsplus:wolf_pelt_black
+- betteranimalsplus:wolf_pelt_snowy
+- betteranimalsplus:wolf_pelt_timber
+- betteranimalsplus:wolf_pelt_red
+- betteranimalsplus:wolf_pelt_brown
+
+#mythicmetals:aquarium_nuggets
+- mythicmetals:aquarium_nugget
+
+#c:sandwich/bread
+- minecraft:bread
+
+#c:mythril_nuggets
+- mythicmetals:mythril_nugget
+
+#forge:cookedpheasant
+- betteranimalsplus:pheasantcooked
+
+#origins:shields
+- mcdw:shield_royal_guard
+- mcdw:shield_vanguard
+
+#c:gray_dyes
+- minecraft:gray_dye
+
+#universal_ores:ores/gold
+- universal_ores:andesite_gold_ore
+- universal_ores:diorite_gold_ore
+- universal_ores:granite_gold_ore
+- universal_ores:tuff_gold_ore
+- universal_ores:calcite_gold_ore
+
+#mythicmetals:prometheum_ingots
+- mythicmetals:prometheum_ingot
+
+#promenade:dark_amaranth_stems
+- blockus:dark_amaranth_small_stems
+- promenade:dark_amaranth_stem
+- promenade:stripped_dark_amaranth_stem
+- promenade:dark_amaranth_hyphae
+- promenade:stripped_dark_amaranth_hyphae
+
+#decorative_blocks:supports
+- decorative_blocks:spruce_support
+- decorative_blocks:acacia_support
+- decorative_blocks:dark_oak_support
+- decorative_blocks:warped_support
+- decorative_blocks:birch_support
+- decorative_blocks:jungle_support
+- decorative_blocks:oak_support
+- decorative_blocks:crimson_support
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#forge:cookedturkey
+- betteranimalsplus:turkey_leg_cooked
+
+#advancednetherite:boots/netherite
+- minecraft:netherite_boots
+
+#c:palladium_ingots
+- mythicmetals:palladium_ingot
+
+#c:manganese_ingots
+- mythicmetals:manganese_ingot
+
+#forge:rawfish
+- betteranimalsplus:eel_meat_raw
+
+#columns:columns
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+- blockus:blaze_brick_wall
+- blockus:lava_brick_wall
+- blockus:soul_sandstone_wall
+- blockus:charred_nether_brick_wall
+- blockus:soaked_brick_wall
+- blockus:magma_brick_wall
+- blockus:netherrack_brick_wall
+- blockus:small_magma_brick_wall
+- blockus:limestone_brick_wall
+- blockus:small_limestone_brick_wall
+- blockus:obsidian_brick_wall
+- blockus:small_obsidian_brick_wall
+- blockus:rainbow_brick_wall
+- blockus:water_brick_wall
+- blockus:marble_brick_wall
+- blockus:small_marble_brick_wall
+- blockus:honeycomb_brick_wall
+- blockus:sandy_brick_wall
+- blockus:charred_brick_wall
+- blockus:teal_nether_brick_wall
+- blockus:lava_polished_blackstone_wall
+- blockus:crimson_warty_blackstone_brick_wall
+- blockus:warped_warty_blackstone_brick_wall
+- blockus:snow_brick_wall
+- blockus:ice_brick_wall
+- blockus:polished_basalt_brick_wall
+- blockus:bluestone_brick_wall
+- blockus:small_bluestone_brick_wall
+- blockus:purpur_brick_wall
+- blockus:small_purpur_brick_wall
+- blockus:andesite_brick_wall
+- blockus:diorite_brick_wall
+- blockus:granite_brick_wall
+- blockus:limestone_wall
+- blockus:limestone_tile_wall
+- blockus:marble_wall
+- blockus:marble_tile_wall
+- blockus:bluestone_wall
+- blockus:bluestone_tile_wall
+- blockus:sandstone_brick_wall
+- blockus:small_sandstone_brick_wall
+- blockus:red_sandstone_brick_wall
+- blockus:small_red_sandstone_brick_wall
+- blockus:soul_sandstone_brick_wall
+- blockus:small_soul_sandstone_brick_wall
+- blockus:purpur_brick_wall
+- blockus:phantom_purpur_brick_wall
+- blockus:small_phantom_purpur_brick_wall
+- blockus:quartz_tile_wall
+- blockus:large_brick_wall
+- blockus:mossy_deepslate_brick_wall
+- blockus:dripstone_brick_wall
+- blockus:tuff_brick_wall
+- blockus:small_end_stone_brick_wall
+- blockus:white_stone_brick_wall
+- blockus:orange_stone_brick_wall
+- blockus:magenta_stone_brick_wall
+- blockus:light_blue_stone_brick_wall
+- blockus:yellow_stone_brick_wall
+- blockus:lime_stone_brick_wall
+- blockus:pink_stone_brick_wall
+- blockus:gray_stone_brick_wall
+- blockus:cyan_stone_brick_wall
+- blockus:purple_stone_brick_wall
+- blockus:blue_stone_brick_wall
+- blockus:brown_stone_brick_wall
+- blockus:green_stone_brick_wall
+- blockus:red_stone_brick_wall
+- blockus:black_stone_brick_wall
+- #blockus:barriers
+- mossierdeepslate:mossy_deepslate_brick_wall
+- mossierdeepslate:mossy_deepslate_tile_wall
+- promenade:blunite_wall
+- promenade:carbonite_wall
+
+#mythicmetals:hallowed_blocks
+- mythicmetals:hallowed_block
+
+#c:cooked_meat
+- betteranimalsplus:venisoncooked
+- betteranimalsplus:pheasantcooked
+- betteranimalsplus:crab_meat_cooked
+- betteranimalsplus:turkey_leg_cooked
+- betteranimalsplus:eel_meat_cooked
+- betteranimalsplus:calamari_cooked
+
+#balm:green_dyes
+- #c:green_dyes?
+- minecraft:green_dye
+
+#itemfilters:filters
+- itemfilters:always_true
+- itemfilters:always_false
+- itemfilters:or
+- itemfilters:and
+- itemfilters:not
+- itemfilters:xor
+- itemfilters:tag
+- itemfilters:mod
+- itemfilters:item_group
+- itemfilters:id_regex
+- itemfilters:damage
+- itemfilters:block
+- itemfilters:max_count
+- itemfilters:strong_nbt
+- itemfilters:weak_nbt
+- itemfilters:custom
+
+#balm:gray_dyes
+- #c:gray_dyes?
+- minecraft:gray_dye
+
+#c:vermiculite_blocks
+- mythicmetals:vermiculite_block
+
+#advancednetherite:swords/netherite_diamond
+- advancednetherite:netherite_diamond_sword
+
+#advancednetherite:swords/netherite
+- minecraft:netherite_sword
+
+#c:vermiculite
+- mythicmetals:vermiculite
+
+#c:rice
+- valley:rice_item
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+- minecraft:music_disc_otherside
+
+#forge:cookedmeats
+- betteranimalsplus:venisoncooked
+- betteranimalsplus:pheasantcooked
+- betteranimalsplus:crab_meat_cooked
+- betteranimalsplus:turkey_leg_cooked
+- betteranimalsplus:eel_meat_cooked
+- betteranimalsplus:calamari_cooked
+
+#advancednetherite:leggings/upgrade_to_netherite_diamond
+- #advancednetherite:leggings/netherite_emerald
+
+#forge:cooked_meats
+- betteranimalsplus:venisoncooked
+- betteranimalsplus:pheasantcooked
+- betteranimalsplus:crab_meat_cooked
+- betteranimalsplus:turkey_leg_cooked
+- betteranimalsplus:eel_meat_cooked
+- betteranimalsplus:calamari_cooked
+
+#advancednetherite:ingots/netherites_emerald
+- advancednetherite:netherite_emerald_ingot
+
+#c:blue_dyes
+- minecraft:blue_dye
+
+#c:sandwich/blacklist
+- #c:sandwich/bread
+- culinaire:sandwich
+- minecraft:mushroom_stew
+- minecraft:rabbit_stew
+- minecraft:beetroot_soup
+- culinaire:apple_pie
+- culinaire:sweet_berry_pie
+- culinaire:dark_chocolate_pie
+- culinaire:milk_chocolate_pie
+- culinaire:white_chocolate_pie
+- culinaire:salad
+- culinaire:mashed_potatoes
+
+#c:veges
+- valley:mandrake
+- valley:maize_crop
+- valley:snow_yam_item
+- valley:onion
+- valley:eggplant
+- valley:tomato_bush
+- valley:fire_pepper
+- valley:green_bean
+- minecraft:carrot
+- minecraft:potato
+- minecraft:pumpkin
+
+#fabric:bows
+- mcdw:bow_ancient_bow
+- mcdw:bow_bonebow
+- mcdw:bow_burst_gale_bow
+- mcdw:bow_echo_of_the_valley
+- mcdw:bow_elite_power_bow
+- mcdw:bow_green_menace
+- mcdw:bow_guardian_bow
+- mcdw:bow_haunted_bow
+- mcdw:bow_hunters_promise
+- mcdw:bow_hunting_bow
+- mcdw:bow_longbow
+- mcdw:bow_lost_souls
+- mcdw:bow_masters_bow
+- mcdw:bow_nocturnal_bow
+- mcdw:bow_pink_scoundrel
+- mcdw:bow_power_bow
+- mcdw:bow_sabrewing
+- mcdw:bow_shivering_bow
+- mcdw:bow_soul_bow
+- mcdw:bow_trickbow
+- mcdw:bow_wind_bow
+- mcdw:bow_snow_bow
+- mcdw:bow_winters_touch
+- mcdw:bow_love_spell_bow
+- mcdw:bow_shortbow
+- mcdw:bow_mechanical_shortbow
+- mcdw:bow_purple_storm
+- mcdw:bow_red_snake
+- mcdw:bow_void_bow
+- mcdw:bow_call_of_the_void
+- mcdw:bow_phantom_bow
+- mcdw:bow_web_bow
+
+#c:sulfur_dusts
+- zombified:sulfur_dust
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:raw_chicken
+- betteranimalsplus:pheasantraw
+- betteranimalsplus:turkey_leg_raw
+
+#extraorigins:golden_tools
+- medievalweapons:golden_small_axe
+- medievalweapons:golden_long_sword
+- medievalweapons:golden_dagger
+- medievalweapons:golden_francisca
+- medievalweapons:golden_big_axe
+- medievalweapons:golden_javelin
+- medievalweapons:golden_lance
+- medievalweapons:golden_healing_staff
+- medievalweapons:golden_mace
+
+#c:mythril_ingots
+- mythicmetals:mythril_ingot
+
+#advancednetherite:pickaxes/netherite_gold
+- advancednetherite:netherite_gold_pickaxe
+
+#advancednetherite:leggings/upgrade_to_netherite_iron
+- #advancednetherite:leggings/netherite
+
+#advancednetherite:helmets/upgrade_to_netherite_iron
+- #advancednetherite:helmets/netherite
+
+#fabric:hoes
+- additionaladditions:rose_gold_hoe?
+- additionaladditions:gilded_netherite_hoe?
+- advancednetherite:netherite_iron_hoe
+- advancednetherite:netherite_gold_hoe
+- advancednetherite:netherite_emerald_hoe
+- advancednetherite:netherite_diamond_hoe
+- dragonloot:dragon_hoe
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:iron_hoe
+- minecraft:golden_hoe
+- minecraft:diamond_hoe
+- minecraft:netherite_hoe
+- mythicmetals:adamantite_hoe
+- mythicmetals:aquarium_hoe
+- mythicmetals:banglum_hoe
+- mythicmetals:bronze_hoe
+- mythicmetals:carmot_hoe
+- mythicmetals:celestium_hoe
+- mythicmetals:copper_hoe
+- mythicmetals:durasteel_hoe
+- mythicmetals:hallowed_hoe
+- mythicmetals:kyber_hoe
+- mythicmetals:metallurgium_hoe
+- mythicmetals:mythril_hoe
+- mythicmetals:orichalcum_hoe
+- mythicmetals:osmium_hoe
+- mythicmetals:palladium_hoe
+- mythicmetals:prometheum_hoe
+- mythicmetals:quadrillum_hoe
+- mythicmetals:runite_hoe
+- mythicmetals:star_platinum_hoe
+- mythicmetals:stormyx_hoe
+
+#forge:rawsquid
+- betteranimalsplus:calamari_raw
+
+#c:planks_that_burn
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- blockus:bamboo_planks
+- blockus:white_oak_planks
+
+#forge:raw_squid
+- betteranimalsplus:calamari_raw
+
+#c:tin_blocks
+- mythicmetals:tin_block
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- #advancednetherite:netherite_ingots
+
+#trinkets:chest/cape
+- betteranimalsplus:bear_cape_black
+- betteranimalsplus:bear_cape_brown
+- betteranimalsplus:bear_cape_kermode
+- betteranimalsplus:wolf_cape_arctic
+- betteranimalsplus:wolf_cape_black
+- betteranimalsplus:wolf_cape_classic
+- betteranimalsplus:wolf_cape_timber
+- betteranimalsplus:wolf_cape_red
+- betteranimalsplus:wolf_cape_brown
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#c:palladium_nuggets
+- mythicmetals:palladium_nugget
+
+#minecraft:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- #universal_ores:ores/coal
+
+#c:osmium_ingots
+- mythicmetals:osmium_ingot
+
+#forge:raw_beef
+- betteranimalsplus:venisonraw
+
+#tooltiprareness:rare_item
+- dehydration:diamond_leather_flask
+- medievalweapons:diamond_small_axe
+- medievalweapons:diamond_long_sword
+- medievalweapons:diamond_dagger
+- medievalweapons:diamond_francisca
+- medievalweapons:diamond_big_axe
+- medievalweapons:diamond_javelin
+- medievalweapons:diamond_lance
+- medievalweapons:diamond_healing_staff
+- medievalweapons:diamond_mace
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- blockus:bamboo_trapdoor
+- blockus:charred_trapdoor
+- blockus:white_oak_trapdoor
+- promenade:cherry_oak_trapdoor
+- promenade:palm_trapdoor
+- promenade:dark_amaranth_trapdoor
+
+#mythicmetals:metals
+- mythicmetals:adamantite_ingot
+- mythicmetals:aquarium_ingot
+- mythicmetals:banglum_ingot
+- mythicmetals:bronze_ingot
+- mythicmetals:carmot_ingot
+- mythicmetals:celestium_ingot
+- mythicmetals:durasteel_ingot
+- mythicmetals:hallowed_ingot
+- mythicmetals:kyber_ingot
+- mythicmetals:manganese_ingot
+- mythicmetals:metallurgium_ingot
+- mythicmetals:midas_gold_ingot
+- mythicmetals:mythril_ingot
+- mythicmetals:orichalcum_ingot
+- mythicmetals:osmium_ingot
+- mythicmetals:palladium_ingot
+- mythicmetals:platinum_ingot
+- mythicmetals:prometheum_ingot
+- mythicmetals:quadrillum_ingot
+- mythicmetals:runite_ingot
+- mythicmetals:silver_ingot
+- mythicmetals:starrite
+- mythicmetals:star_platinum
+- mythicmetals:steel_ingot
+- mythicmetals:stormyx_ingot
+- mythicmetals:tin_ingot
+- mythicmetals:unobtainium
+- mythicmetals:vermiculite
+- mythicmetals:raw_adamantite
+- mythicmetals:raw_aquarium
+- mythicmetals:raw_banglum
+- mythicmetals:raw_carmot
+- mythicmetals:raw_kyber
+- mythicmetals:raw_manganese
+- mythicmetals:raw_midas_gold
+- mythicmetals:raw_mythril
+- mythicmetals:raw_orichalcum
+- mythicmetals:raw_osmium
+- mythicmetals:raw_palladium
+- mythicmetals:raw_platinum
+- mythicmetals:raw_prometheum
+- mythicmetals:raw_quadrillum
+- mythicmetals:raw_runite
+- mythicmetals:raw_silver
+- mythicmetals:raw_stormyx
+- mythicmetals:raw_tin
+- mythicmetals:adamantite_nugget
+- mythicmetals:aquarium_nugget
+- mythicmetals:banglum_nugget
+- mythicmetals:bronze_nugget
+- mythicmetals:carmot_nugget
+- mythicmetals:celestium_nugget
+- mythicmetals:copper_nugget
+- mythicmetals:durasteel_nugget
+- mythicmetals:hallowed_nugget
+- mythicmetals:kyber_nugget
+- mythicmetals:manganese_nugget
+- mythicmetals:metallurgium_nugget
+- mythicmetals:midas_gold_nugget
+- mythicmetals:mythril_nugget
+- mythicmetals:orichalcum_nugget
+- mythicmetals:osmium_nugget
+- mythicmetals:palladium_nugget
+- mythicmetals:platinum_nugget
+- mythicmetals:prometheum_nugget
+- mythicmetals:quadrillum_nugget
+- mythicmetals:runite_nugget
+- mythicmetals:silver_nugget
+- mythicmetals:star_platinum_nugget
+- mythicmetals:steel_nugget
+- mythicmetals:stormyx_nugget
+- mythicmetals:tin_nugget
+
+#c:gold_ores
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+
+#c:pink_dyes
+- minecraft:pink_dye
+
+#advancednetherite:helmets/netherite_gold
+- advancednetherite:netherite_gold_helmet
+
+#c:flour
+- valley:flour_bag
+
+#advancednetherite:helmets/netherite_emerald
+- advancednetherite:netherite_emerald_helmet
+
+#decorative_blocks:chandeliers
+- decorative_blocks:chandelier
+- decorative_blocks:soul_chandelier
+
+#forge:egg
+- betteranimalsplus:pheasant_egg
+- betteranimalsplus:turkey_egg
+- betteranimalsplus:goose_egg
+
+#c:quartz_blocks
+- blockus:quartz_tiles
+- blockus:quartz_circle_pavement
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+- mossierdeepslate:mossy_deepslate_brick_stairs
+- mossierdeepslate:mossy_deepslate_tile_stairs
+- promenade:blunite_stairs
+- promenade:polished_blunite_stairs
+- promenade:carbonite_stairs
+- promenade:polished_carbonite_stairs
+
+#c:eggs
+- minecraft:egg
+- betteranimalsplus:pheasant_egg
+- betteranimalsplus:turkey_egg
+- betteranimalsplus:goose_egg
+- valley:duck_egg
+- minecraft:egg
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #promenade:dark_amaranth_stems
+
+#advancednetherite:shovels/netherite
+- minecraft:netherite_shovel
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+- adventurez:ivory_arrow
+- xtraarrows:iron_arrow
+- xtraarrows:diamond_arrow
+- xtraarrows:golden_arrow
+- xtraarrows:netherite_arrow
+- xtraarrows:headless_arrow
+- xtraarrows:padded_arrow
+- xtraarrows:diamond_explosive_arrow
+- xtraarrows:golden_explosive_arrow
+- xtraarrows:netherite_explosive_arrow
+- xtraarrows:iron_explosive_arrow
+- xtraarrows:flint_explosive_arrow
+- xtraarrows:diamond_lightning_arrow
+- xtraarrows:netherite_lightning_arrow
+- xtraarrows:iron_lightning_arrow
+- xtraarrows:golden_lightning_arrow
+- xtraarrows:flint_lightning_arrow
+- xtraarrows:diamond_torch_arrow
+- xtraarrows:golden_torch_arrow
+- xtraarrows:iron_torch_arrow
+- xtraarrows:netherite_torch_arrow
+- xtraarrows:flint_torch_arrow
+- xtraarrows:diamond_slime_arrow
+- xtraarrows:netherite_slime_arrow
+- xtraarrows:iron_slime_arrow
+- xtraarrows:golden_slime_arrow
+- xtraarrows:flint_slime_arrow
+- xtraarrows:diamond_ender_arrow
+- xtraarrows:netherite_ender_arrow
+- xtraarrows:golden_ender_arrow
+- xtraarrows:iron_ender_arrow
+- xtraarrows:flint_ender_arrow
+- xtraarrows:diamond_tracking_arrow
+- xtraarrows:netherite_tracking_arrow
+- xtraarrows:golden_tracking_arrow
+- xtraarrows:iron_tracking_arrow
+- xtraarrows:flint_tracking_arrow
+- xtraarrows:diamond_vexing_arrow
+- xtraarrows:netherite_vexing_arrow
+- xtraarrows:iron_vexing_arrow
+- xtraarrows:golden_vexing_arrow
+- xtraarrows:flint_vexing_arrow
+
+#advancednetherite:swords/upgrade_to_netherite_iron
+- #advancednetherite:swords/netherite
+
+#advancednetherite:upgrade_to_netherite_diamond
+- #advancednetherite:ingots/netherites_diamond
+
+#c:gravel
+- minecraft:gravel
+
+#c:white_dyes
+- minecraft:white_dye
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- blockus:bamboo_door
+- blockus:charred_door
+- blockus:white_oak_door
+- promenade:cherry_oak_door
+- promenade:palm_door
+- promenade:dark_amaranth_door
+
+#mythicmetals:aquarium_ingots
+- mythicmetals:aquarium_ingot
+
+#c:wooden_barrels
+- #blockus:barrels
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+- #universal_ores:ores/emerald
+
+#c:bronze_nuggets
+- mythicmetals:bronze_nugget
+
+#blockus:soul_soils
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- blockus:crimson_small_stems
+- decorative_blocks:crimson_beam
+
+#balm:wooden_rods
+- #c:wooden_rods?
+- minecraft:stick
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather
+
+#forge:cooked_venison
+- betteranimalsplus:venisoncooked
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:tuff
+- promenade:blunite
+- promenade:carbonite
+- valley:jungle_cobble
+- valley:rocks
+- valley:volc_stone
+
+#minecraft:terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#c:tropical_fish
+- minecraft:tropical_fish
+- valley:lionfish
+- valley:pridefin
+- valley:red_porgy
+
+#mythicmetals:prometheum_ores
+- mythicmetals:prometheum_ore
+- mythicmetals:deepslate_prometheum_ore
+
+#c:nether_bricks
+- minecraft:nether_bricks
+- minecraft:chiseled_nether_bricks
+- minecraft:cracked_nether_bricks
+
+#blockus:white_oak_logs
+- blockus:white_oak_log
+- blockus:white_oak_wood
+- blockus:stripped_white_oak_log
+- blockus:stripped_white_oak_wood
+- blockus:white_oak_small_logs
+
+#forge:rawcrab
+- betteranimalsplus:crab_meat_raw
+
+#c:ferns
+- minecraft:fern
+- valley:sea_fern
+
+#advancednetherite:swords/upgrade_to_netherite_gold
+- #advancednetherite:swords/netherite_iron
+
+#c:bitter_berries
+- valley:bitter_berries
+
+#advancednetherite:pickaxes/netherite
+- minecraft:netherite_pickaxe
+
+#advancednetherite:boots/upgrade_to_netherite_emerald
+- #advancednetherite:boots/netherite_gold
+
+#curios:ring
+- ring_of_attraction:ring_of_attraction
+
+#c:holly
+- valley:holly
+
+#forge:cookedfish
+- betteranimalsplus:eel_meat_cooked
+
+#advancednetherite:helmets/upgrade_to_netherite_emerald
+- #advancednetherite:helmets/netherite_gold
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#decorative_blocks:palisades
+- decorative_blocks:spruce_palisade
+- decorative_blocks:acacia_palisade
+- decorative_blocks:dark_oak_palisade
+- decorative_blocks:warped_palisade
+- decorative_blocks:birch_palisade
+- decorative_blocks:jungle_palisade
+- decorative_blocks:oak_palisade
+- decorative_blocks:crimson_palisade
+
+#ftbchunks:right_click_blacklist
+- minecraft:bucket
+- minecraft:water_bucket
+- minecraft:lava_bucket
+- minecraft:lead
+- minecraft:name_tag
+- minecraft:splash_potion
+- minecraft:lingering_potion
+
+#promenade:palm_logs
+- blockus:palm_small_logs
+- promenade:palm_log
+- promenade:stripped_palm_log
+- promenade:palm_wood
+- promenade:stripped_palm_wood
+
+#forge:stock_ingredients
+- betteranimalsplus:venisonraw
+- betteranimalsplus:pheasantraw
+- betteranimalsplus:crab_meat_raw
+- betteranimalsplus:turkey_leg_raw
+- betteranimalsplus:eel_meat_raw
+- betteranimalsplus:calamari_raw
+
+#minecraft:piglin_loved_items
+- mythicmetals:midas_gold_helmet
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:midas_gold_leggings
+- mythicmetals:midas_gold_boots
+- mythicmetals:midas_gold_ingot
+- mythicmetals:raw_midas_gold
+
+#mythicmetals:celestium_blocks
+- mythicmetals:celestium_block
+
+#c:platinum_ingots
+- mythicmetals:platinum_ingot
+
+#advancednetherite:chestplates/netherite_iron
+- advancednetherite:netherite_iron_chestplate
+
+#starmute:armor
+- minecraft:chainmail_boots
+- minecraft:chainmail_leggings
+- minecraft:chainmail_chestplate
+- minecraft:chainmail_helmet
+- minecraft:diamond_boots
+- minecraft:diamond_leggings
+- minecraft:diamond_chestplate
+- minecraft:diamond_helmet
+- minecraft:golden_boots
+- minecraft:golden_leggings
+- minecraft:golden_chestplate
+- minecraft:golden_helmet
+- minecraft:iron_boots
+- minecraft:iron_leggings
+- minecraft:iron_chestplate
+- minecraft:iron_helmet
+
+#minecraft:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+- #universal_ores:ores/iron
+
+#c:worms
+- valley:worm
+
+#advancednetherite:ingots/upgrade_to_netherite_gold
+- #advancednetherite:ingots/netherites_iron
+
+#c:tea_ingredients/bitter/normal
+- minecraft:cocoa_beans
+- minecraft:dead_bush
+
+#libzoomer:spyglasses
+- minecraft:spyglass
+
+#c:orange_dyes
+- minecraft:orange_dye
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:tuff
+- promenade:blunite
+- promenade:carbonite
+- valley:jungle_cobble
+- valley:rocks
+- valley:volc_stone
+
+#mythicmetals:starrite_ores
+- mythicmetals:starrite_ore
+- mythicmetals:calcite_starrite_ore
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- blockus:soul_lantern_block
+- blockus:soul_o_lantern
+
+#forge:cooked_eggs
+- betteranimalsplus:fried_egg
+
+#c:player_choice_fish
+- valley:fire_eel_cooked
+- valley:cooked_tropical_fish
+- valley:sardine_cooked
+- minecraft:cooked_salmon
+- minecraft:cooked_cod
+- valley:glistering_anglerfish
+- valley:cooked_perch
+- valley:cooked_stonespinner_minnow
+- valley:cooked_pridefin
+- valley:cooked_red_porgy
+
+#universal_ores:ores/redstone
+- universal_ores:andesite_redstone_ore
+- universal_ores:diorite_redstone_ore
+- universal_ores:granite_redstone_ore
+- universal_ores:tuff_redstone_ore
+- universal_ores:calcite_redstone_ore
+
+#c:silver_ores
+- mythicmetals:silver_ore
+
+#c:copper_blocks
+- minecraft:copper_block
+
+#mythicmetals:carmot_ingots
+- mythicmetals:carmot_ingot
+
+#forge:cookedcalamari
+- betteranimalsplus:calamari_cooked
+
+#mythicmetals:quadrillum_blocks
+- mythicmetals:quadrillum_block
+
+#c:tea_ingredients/umami/normal
+- minecraft:crimson_roots
+
+#c:tin_nuggets
+- mythicmetals:tin_nugget
+
+#balm:brown_dyes
+- #c:brown_dyes?
+- minecraft:brown_dye
+
+#advancednetherite:shovels/upgrade_to_netherite_diamond
+- #advancednetherite:shovels/netherite_emerald
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- blockus:bamboo_stairs
+- blockus:charred_stairs
+- blockus:white_oak_stairs
+- promenade:cherry_oak_stairs
+- promenade:palm_stairs
+- promenade:dark_amaranth_stairs
+
+#advancednetherite:boots/upgrade_to_netherite_diamond
+- #advancednetherite:boots/netherite_emerald
+
+#forge:rawvenison
+- betteranimalsplus:venisonraw
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+- earthtojavamobs:rainbow_carpet
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- blockus:bamboo_button
+- blockus:charred_button
+- blockus:white_oak_button
+- promenade:cherry_oak_button
+- promenade:palm_button
+- promenade:dark_amaranth_button
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#mythicmetals:weapons
+- mythicmetals:adamantite_sword
+- mythicmetals:aquarium_sword
+- mythicmetals:banglum_sword
+- mythicmetals:bronze_sword
+- mythicmetals:carmot_sword
+- mythicmetals:celestium_sword
+- mythicmetals:copper_sword
+- mythicmetals:durasteel_sword
+- mythicmetals:hallowed_sword
+- mythicmetals:kyber_sword
+- mythicmetals:metallurgium_sword
+- mythicmetals:mythril_sword
+- mythicmetals:orichalcum_sword
+- mythicmetals:osmium_sword
+- mythicmetals:palladium_sword
+- mythicmetals:prometheum_sword
+- mythicmetals:quadrillum_sword
+- mythicmetals:runite_sword
+- mythicmetals:star_platinum_sword
+- mythicmetals:stormyx_sword
+- mythicmetals:adamantite_pickaxe
+- mythicmetals:aquarium_pickaxe
+- mythicmetals:banglum_pickaxe
+- mythicmetals:bronze_pickaxe
+- mythicmetals:carmot_pickaxe
+- mythicmetals:celestium_pickaxe
+- mythicmetals:copper_pickaxe
+- mythicmetals:durasteel_pickaxe
+- mythicmetals:hallowed_pickaxe
+- mythicmetals:kyber_pickaxe
+- mythicmetals:metallurgium_pickaxe
+- mythicmetals:mythril_pickaxe
+- mythicmetals:orichalcum_pickaxe
+- mythicmetals:osmium_pickaxe
+- mythicmetals:palladium_pickaxe
+- mythicmetals:prometheum_pickaxe
+- mythicmetals:quadrillum_pickaxe
+- mythicmetals:runite_pickaxe
+- mythicmetals:star_platinum_pickaxe
+- mythicmetals:stormyx_pickaxe
+- mythicmetals:adamantite_axe
+- mythicmetals:aquarium_axe
+- mythicmetals:banglum_axe
+- mythicmetals:bronze_axe
+- mythicmetals:carmot_axe
+- mythicmetals:celestium_axe
+- mythicmetals:copper_axe
+- mythicmetals:durasteel_axe
+- mythicmetals:hallowed_axe
+- mythicmetals:kyber_axe
+- mythicmetals:metallurgium_axe
+- mythicmetals:mythril_axe
+- mythicmetals:orichalcum_axe
+- mythicmetals:osmium_axe
+- mythicmetals:palladium_axe
+- mythicmetals:prometheum_axe
+- mythicmetals:quadrillum_axe
+- mythicmetals:runite_axe
+- mythicmetals:star_platinum_axe
+- mythicmetals:stormyx_axe
+- mythicmetals:adamantite_shovel
+- mythicmetals:aquarium_shovel
+- mythicmetals:banglum_shovel
+- mythicmetals:bronze_shovel
+- mythicmetals:carmot_shovel
+- mythicmetals:celestium_shovel
+- mythicmetals:copper_shovel
+- mythicmetals:durasteel_shovel
+- mythicmetals:hallowed_shovel
+- mythicmetals:kyber_shovel
+- mythicmetals:metallurgium_shovel
+- mythicmetals:mythril_shovel
+- mythicmetals:orichalcum_shovel
+- mythicmetals:osmium_shovel
+- mythicmetals:palladium_shovel
+- mythicmetals:prometheum_shovel
+- mythicmetals:quadrillum_shovel
+- mythicmetals:runite_shovel
+- mythicmetals:star_platinum_shovel
+- mythicmetals:stormyx_shovel
+- mythicmetals:adamantite_hoe
+- mythicmetals:aquarium_hoe
+- mythicmetals:banglum_hoe
+- mythicmetals:bronze_hoe
+- mythicmetals:carmot_hoe
+- mythicmetals:celestium_hoe
+- mythicmetals:copper_hoe
+- mythicmetals:durasteel_hoe
+- mythicmetals:hallowed_hoe
+- mythicmetals:kyber_hoe
+- mythicmetals:metallurgium_hoe
+- mythicmetals:mythril_hoe
+- mythicmetals:orichalcum_hoe
+- mythicmetals:osmium_hoe
+- mythicmetals:palladium_hoe
+- mythicmetals:prometheum_hoe
+- mythicmetals:quadrillum_hoe
+- mythicmetals:runite_hoe
+- mythicmetals:star_platinum_hoe
+- mythicmetals:stormyx_hoe
+- mythicmetals:red_aegis_sword
+- mythicmetals:white_aegis_sword
+
+#mythicmetals:banglum_ores
+- mythicmetals:banglum_ore
+
+#balm:black_dyes
+- minecraft:black_dye
+- #c:black_dyes?
+
+#minecraft:piglin_ignored_by_babies
+- mythicmetals:raw_midas_gold
+
+#c:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#advancednetherite:chestplates/netherite
+- minecraft:netherite_chestplate
+
+#advancednetherite:pickaxes/netherite_diamond
+- advancednetherite:netherite_diamond_pickaxe
+
+#advancednetherite:upgrade_to_netherite_gold
+- #advancednetherite:ingots/netherites_gold
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+- mossierdeepslate:mossy_deepslate_brick_slab
+- mossierdeepslate:mossy_deepslate_tile_slab
+- promenade:blunite_slab
+- promenade:polished_blunite_slab
+- promenade:carbonite_slab
+- promenade:polished_carbonite_slab
+
+#c:red_sandstones
+- blockus:red_sandstone_bricks
+- blockus:small_red_sandstone_bricks
+- blockus:rough_red_sandstone
+- blockus:gold_decorated_red_sandstone
+- blockus:red_sandstone_pillar
+- minecraft:red_sandstone
+- minecraft:smooth_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:cut_red_sandstone
+
+#advancednetherite:helmets/netherite_iron
+- advancednetherite:netherite_iron_helmet
+
+#balm:lime_dyes
+- #c:lime_dyes?
+- minecraft:lime_dye
+
+#forge:cooked_eel
+- betteranimalsplus:eel_meat_cooked
+
+#blockus:barriers
+- blockus:caution_barrier
+- blockus:road_barrier
+
+#c:gold_blocks
+- minecraft:gold_block
+
+#mythicmetals:metallurgium_nuggets
+- mythicmetals:metallurgium_nugget
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- blockus:polished_andesite_button
+- blockus:polished_diorite_button
+- blockus:polished_granite_button
+- blockus:limestone_button
+- blockus:marble_button
+- blockus:bluestone_button
+- blockus:polished_netherrack_button
+- blockus:polished_end_stone_button
+
+#advancednetherite:swords/netherite_iron
+- advancednetherite:netherite_iron_sword
+
+#advancednetherite:ingots/netherites
+- minecraft:netherite_ingot
+
+#c:wooden_rods
+- minecraft:stick
+
+#c:silver_blocks
+- mythicmetals:silver_block
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#mythicmetals:stormyx_nuggets
+- mythicmetals:stormyx_nugget
+
+#c:yellow_dyes
+- minecraft:yellow_dye
+
+#c:deepslate_bricks
+- minecraft:deepslate_bricks
+- minecraft:cracked_deepslate_bricks
+
+#c:soul_ground
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#advancednetherite:swords/netherite_emerald
+- advancednetherite:netherite_emerald_sword
+
+#c:osmium_ores
+- mythicmetals:osmium_ore
+
+#advancednetherite:leggings/upgrade_to_netherite_emerald
+- #advancednetherite:leggings/netherite_gold
+
+#advancednetherite:leggings/netherite
+- minecraft:netherite_leggings
+
+#c:polished_blackstones
+- minecraft:chiseled_polished_blackstone
+- minecraft:polished_blackstone
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- blockus:bamboo_pressure_plate
+- blockus:charred_pressure_plate
+- blockus:white_oak_pressure_plate
+- promenade:cherry_oak_pressure_plate
+- promenade:palm_pressure_plate
+- promenade:dark_amaranth_pressure_plate
+
+#medievalweapons:double_handed_items
+- medievalweapons:thalleous_sword
+
+#advancednetherite:ingots/upgrade_to_netherite_iron
+- #advancednetherite:ingots/netherites
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#c:mythril_ores
+- mythicmetals:mythril_ore
+- mythicmetals:deepslate_mythril_ore
+
+#mythicmetals:unobtainium_blocks
+- mythicmetals:unobtainium_block
+
+#balm:orange_dyes
+- #c:orange_dyes?
+- minecraft:orange_dye
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+- minecraft:deepslate_gold_ore
+- #universal_ores:ores/gold
+
+#c:adamantite_ores
+- mythicmetals:adamantite_ore
+- mythicmetals:deepslate_adamantite_ore
+
+#forge:cooked_crab
+- betteranimalsplus:crab_meat_cooked
+
+#minecraft:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- minecraft:rooted_dirt
+- minecraft:moss_block
+
+#advancednetherite:hoes/upgrade_to_netherite_emerald
+- #advancednetherite:hoes/netherite_gold
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:netherite_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:wooden_pickaxe
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#rpgz:rare_items
+- #minecraft:music_discs
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:gold_nugget
+- minecraft:lapis_lazuli
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:iron_ingot
+- minecraft:iron_nugget
+- minecraft:prismarine_crystals
+- minecraft:prismarine_shard
+- minecraft:totem_of_undying
+- minecraft:nether_star
+- minecraft:netherite_scrap
+
+#advancednetherite:axes/upgrade_to_netherite_iron
+- #advancednetherite:axes/netherite
+
+#promenade:mushrooms
+- promenade:white_mushroom
+- promenade:light_gray_mushroom
+- promenade:gray_mushroom
+- promenade:black_mushroom
+- promenade:orange_mushroom
+- promenade:yellow_mushroom
+- promenade:yellow_mushroom
+- promenade:lime_mushroom
+- promenade:green_mushroom
+- promenade:cyan_mushroom
+- promenade:light_blue_mushroom
+- promenade:blue_mushroom
+- promenade:purple_mushroom
+- promenade:magenta_mushroom
+- promenade:pink_mushroom
+
+#c:tall_flowers
+
+#universal_ores:ores/lapis
+- universal_ores:andesite_lapis_ore
+- universal_ores:diorite_lapis_ore
+- universal_ores:granite_lapis_ore
+- universal_ores:tuff_lapis_ore
+- universal_ores:calcite_lapis_ore
+
+#forge:eggs
+- betteranimalsplus:pheasant_egg
+- betteranimalsplus:turkey_egg
+- betteranimalsplus:goose_egg
+
+#fabric:crossbows
+- mcdw:crossbow_the_slicer
+- mcdw:crossbow_azure_seeker
+- mcdw:crossbow_exploding_crossbow
+- mcdw:crossbow_imploding_crossbow
+- mcdw:crossbow_firebolt_thrower
+- mcdw:crossbow_heavy_crossbow
+- mcdw:crossbow_doom_crossbow
+- mcdw:crossbow_slayer_crossbow
+- mcdw:crossbow_rapid_crossbow
+- mcdw:crossbow_butterfly_crossbow
+- mcdw:crossbow_auto_crossbow
+- mcdw:crossbow_scatter_crossbow
+- mcdw:crossbow_harp_crossbow
+- mcdw:crossbow_lightning_harp_crossbow
+- mcdw:crossbow_soul_crossbow
+- mcdw:crossbow_feral_soul_crossbow
+- mcdw:crossbow_voidcaller_crossbow
+- mcdw:crossbow_dual_crossbow
+- mcdw:crossbow_spellbound_crossbow
+- mcdw:crossbow_baby_crossbow
+- mcdw:crossbow_burst_crossbow
+- mcdw:crossbow_soul_hunter_crossbow
+- mcdw:crossbow_corrupted_crossbow
+- mcdw:crossbow_cog_crossbow
+- mcdw:crossbow_pride_of_the_piglins
+- mcdw:crossbow_harpoon_crossbow
+- mcdw:crossbow_nautical_crossbow
+- mcdw:crossbow_veiled_crossbow
+- mcdw:crossbow_voidcaller_crossbow
+
+#advancednetherite:chestplates/netherite_diamond
+- advancednetherite:netherite_diamond_chestplate
+
+#c:crustaceans
+- valley:crab_red
+- valley:lobster
+- valley:masking_crab
+
+#c:blackstone_bricks
+- minecraft:polished_blackstone_bricks
+- minecraft:cracked_polished_blackstone_bricks
+
+#mythicmetals:midas_gold_nuggets
+- mythicmetals:midas_gold_nugget
+
+#c:magenta_dyes
+- minecraft:magenta_dye
+
+#mythicmetals:copper_armor
+- mythicmetals:copper_helmet
+- mythicmetals:copper_chestplate
+- mythicmetals:copper_leggings
+- mythicmetals:copper_boots
+
+#mythicmetals:raw_ores
+- minecraft:raw_iron
+- minecraft:raw_copper
+- mythicmetals:raw_adamantite
+- mythicmetals:raw_aquarium
+- mythicmetals:raw_banglum
+- mythicmetals:raw_carmot
+- mythicmetals:raw_kyber
+- mythicmetals:raw_manganese
+- mythicmetals:raw_mythril
+- mythicmetals:raw_orichalcum
+- mythicmetals:raw_osmium
+- mythicmetals:raw_platinum
+- mythicmetals:raw_prometheum
+- mythicmetals:raw_quadrillum
+- mythicmetals:raw_runite
+- mythicmetals:raw_silver
+- mythicmetals:raw_stormyx
+- mythicmetals:raw_tin
+- mythicmetals:raw_palladium
+
+#promenade:cherry_oak_logs
+- blockus:cherry_oak_small_logs
+- promenade:cherry_oak_log
+- promenade:stripped_cherry_oak_log
+- promenade:cherry_oak_wood
+- promenade:stripped_cherry_oak_wood
+
+#advancednetherite:swords/upgrade_to_netherite_emerald
+- #advancednetherite:swords/netherite_gold
+
+#c:tea_ingredients/sweet/strong
+- minecraft:honeycomb
+- culinaire:cheese
+- culinaire:white_chocolate_bar
+- culinaire:milk_chocolate_bar
+- culinaire:dark_chocolate_bar
+
+#dehydration:hydrating_stew
+- minecraft:suspicious_stew
+- minecraft:mushroom_stew
+- minecraft:rabbit_stew
+
+#c:black_dyes
+- minecraft:black_dye
+
+#c:purpur_blocks
+- blockus:purpur_bricks
+- blockus:polished_purpur
+- blockus:purpur_squares
+- blockus:small_purpur_bricks
+- blockus:chiseled_purpur
+- blockus:purpur_lines
+- blockus:phantom_purpur_block
+- blockus:phantom_purpur_pillar
+- blockus:phantom_purpur_bricks
+- blockus:polished_phantom_purpur
+- blockus:phantom_purpur_squares
+- blockus:small_phantom_purpur_bricks
+- blockus:chiseled_phantom_purpur
+- blockus:phantom_purpur_lines
+
+#c:player_choice_base
+- valley:bone_broth
+- valley:milk_bottle
+
+#tooltiprareness:legendary_item
+- adventurez:source_stone
+- medievalweapons:thalleous_sword
+
+#mythicmetals:celestium_ingots
+- mythicmetals:celestium_ingot
+
+#c:dough
+- valley:bread_dough
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+- #blockus:patterned_wool
+- earthtojavamobs:rainbow_wool
+
+#universal_ores:ores/diamond
+- universal_ores:andesite_diamond_ore
+- universal_ores:diorite_diamond_ore
+- universal_ores:granite_diamond_ore
+- universal_ores:tuff_diamond_ore
+- universal_ores:calcite_diamond_ore
+
+#mythicmetals:quadrillum_ingots
+- mythicmetals:quadrillum_ingot
+
+#forge:raw_venison
+- betteranimalsplus:venisonraw
+
+#advancednetherite:hoes/upgrade_to_netherite_iron
+- #advancednetherite:hoes/netherite
+
+#mythicmetals:unobtainium
+- mythicmetals:unobtainium
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+
+#c:lime_dyes
+- minecraft:lime_dye
+
+#mythicmetals:kyber_nuggets
+- mythicmetals:kyber_nugget
+
+#c:manganese_blocks
+- mythicmetals:manganese_block
+
+#enhancedcelestials:harvest_moon_crops
+- minecraft:beetroot
+- minecraft:carrot
+- minecraft:nether_wart
+- minecraft:potato
+- minecraft:wheat
+- minecraft:melon_slice
+
+#mythicmetals:banglum_blocks
+- mythicmetals:banglum_block
+
+#mythicmetals:gear
+- mythicmetals:adamantite_helmet
+- mythicmetals:aquarium_helmet
+- mythicmetals:banglum_helmet
+- mythicmetals:bronze_helmet
+- mythicmetals:carmot_helmet
+- mythicmetals:celestium_helmet
+- mythicmetals:copper_helmet
+- mythicmetals:durasteel_helmet
+- mythicmetals:hallowed_helmet
+- mythicmetals:kyber_helmet
+- mythicmetals:metallurgium_helmet
+- mythicmetals:midas_gold_helmet
+- mythicmetals:mythril_helmet
+- mythicmetals:orichalcum_helmet
+- mythicmetals:osmium_helmet
+- mythicmetals:palladium_helmet
+- mythicmetals:prometheum_helmet
+- mythicmetals:runite_helmet
+- mythicmetals:silver_helmet
+- mythicmetals:star_platinum_helmet
+- mythicmetals:stormyx_helmet
+- mythicmetals:adamantite_chestplate
+- mythicmetals:aquarium_chestplate
+- mythicmetals:banglum_chestplate
+- mythicmetals:bronze_chestplate
+- mythicmetals:carmot_chestplate
+- mythicmetals:celestium_chestplate
+- mythicmetals:copper_chestplate
+- mythicmetals:durasteel_chestplate
+- mythicmetals:hallowed_chestplate
+- mythicmetals:kyber_chestplate
+- mythicmetals:metallurgium_chestplate
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:mythril_chestplate
+- mythicmetals:orichalcum_chestplate
+- mythicmetals:osmium_chestplate
+- mythicmetals:palladium_chestplate
+- mythicmetals:prometheum_chestplate
+- mythicmetals:runite_chestplate
+- mythicmetals:silver_chestplate
+- mythicmetals:star_platinum_chestplate
+- mythicmetals:stormyx_chestplate
+- mythicmetals:adamantite_leggings
+- mythicmetals:aquarium_leggings
+- mythicmetals:banglum_leggings
+- mythicmetals:bronze_leggings
+- mythicmetals:carmot_leggings
+- mythicmetals:celestium_leggings
+- mythicmetals:copper_leggings
+- mythicmetals:durasteel_leggings
+- mythicmetals:hallowed_leggings
+- mythicmetals:kyber_leggings
+- mythicmetals:metallurgium_leggings
+- mythicmetals:midas_gold_leggings
+- mythicmetals:mythril_leggings
+- mythicmetals:orichalcum_leggings
+- mythicmetals:osmium_leggings
+- mythicmetals:palladium_leggings
+- mythicmetals:prometheum_leggings
+- mythicmetals:runite_leggings
+- mythicmetals:silver_leggings
+- mythicmetals:star_platinum_leggings
+- mythicmetals:stormyx_leggings
+- mythicmetals:adamantite_boots
+- mythicmetals:aquarium_boots
+- mythicmetals:banglum_boots
+- mythicmetals:bronze_boots
+- mythicmetals:carmot_boots
+- mythicmetals:celestium_boots
+- mythicmetals:copper_boots
+- mythicmetals:durasteel_boots
+- mythicmetals:hallowed_boots
+- mythicmetals:kyber_boots
+- mythicmetals:metallurgium_boots
+- mythicmetals:midas_gold_boots
+- mythicmetals:mythril_boots
+- mythicmetals:orichalcum_boots
+- mythicmetals:osmium_boots
+- mythicmetals:palladium_boots
+- mythicmetals:prometheum_boots
+- mythicmetals:runite_boots
+- mythicmetals:silver_boots
+- mythicmetals:star_platinum_boots
+- mythicmetals:stormyx_boots
+
+#advancednetherite:pickaxes/upgrade_to_netherite_diamond
+- #advancednetherite:pickaxes/netherite_emerald
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- blockus:warped_small_stems
+- decorative_blocks:warped_beam
+
+#forge:rawcalamari
+- betteranimalsplus:calamari_raw
+
+#fabric:shovels
+- additionaladditions:rose_gold_shovel?
+- additionaladditions:gilded_netherite_shovel?
+- advancednetherite:netherite_iron_shovel
+- advancednetherite:netherite_gold_shovel
+- advancednetherite:netherite_emerald_shovel
+- advancednetherite:netherite_diamond_shovel
+- dragonloot:dragon_shovel
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:golden_shovel
+- minecraft:diamond_shovel
+- minecraft:netherite_shovel
+- mythicmetals:adamantite_shovel
+- mythicmetals:aquarium_shovel
+- mythicmetals:banglum_shovel
+- mythicmetals:bronze_shovel
+- mythicmetals:carmot_shovel
+- mythicmetals:celestium_shovel
+- mythicmetals:copper_shovel
+- mythicmetals:durasteel_shovel
+- mythicmetals:hallowed_shovel
+- mythicmetals:kyber_shovel
+- mythicmetals:metallurgium_shovel
+- mythicmetals:mythril_shovel
+- mythicmetals:orichalcum_shovel
+- mythicmetals:osmium_shovel
+- mythicmetals:palladium_shovel
+- mythicmetals:prometheum_shovel
+- mythicmetals:quadrillum_shovel
+- mythicmetals:runite_shovel
+- mythicmetals:star_platinum_shovel
+- mythicmetals:stormyx_shovel
+
+#advancednetherite:helmets/upgrade_to_netherite_diamond
+- #advancednetherite:helmets/netherite_emerald
+
+#forge:cooked_squid
+- betteranimalsplus:calamari_cooked
+
+#mythicmetals:aquarium_ores
+- mythicmetals:aquarium_ore
+
+#balm:red_dyes
+- #c:red_dyes?
+- minecraft:red_dye
+
+#curios:cosmetic_helmet
+- adventurez:stone_golem_helmet
+
+#mythicmetals:carmot_ores
+- mythicmetals:carmot_ore
+- mythicmetals:deepslate_carmot_ore
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- blockus:dark_oak_small_logs
+- decorative_blocks:dark_oak_beam
+
+#c:silver_ingots
+- mythicmetals:silver_ingot
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- blockus:charred_planks
+- blockus:charred_slab
+- blockus:charred_pressure_plate
+- blockus:charred_fence
+- blockus:charred_trapdoor
+- blockus:charred_fence_gate
+- blockus:charred_stairs
+- blockus:charred_button
+- blockus:charred_door
+- blockus:warped_small_stems
+- blockus:crimson_small_stems
+- decorative_blocks:warped_beam
+- decorative_blocks:warped_palisade
+- decorative_blocks:warped_seat
+- decorative_blocks:warped_support
+- decorative_blocks:crimson_beam
+- decorative_blocks:crimson_palisade
+- decorative_blocks:crimson_seat
+- decorative_blocks:crimson_support
+- #promenade:dark_amaranth_stems
+- promenade:dark_amaranth_planks
+- promenade:dark_amaranth_slab
+- promenade:dark_amaranth_pressure_plate
+- promenade:dark_amaranth_fence
+- promenade:dark_amaranth_trapdoor
+- promenade:dark_amaranth_fence_gate
+- promenade:dark_amaranth_stairs
+- promenade:dark_amaranth_button
+- promenade:dark_amaranth_door
+
+#mythicmetals:stormyx_ores
+- mythicmetals:stormyx_ore
+- mythicmetals:blackstone_stormyx_ore
+
+#c:mythril_blocks
+- mythicmetals:mythril_block
+
+#c:fruits
+- valley:spicy_berries
+- valley:bitter_berries
+- minecraft:sweet_berries
+- minecraft:glow_berries
+- minecraft:apple
+- minecraft:melon_slice
+- valley:sour_berries
+
+#advancednetherite:helmets/netherite_diamond
+- advancednetherite:netherite_diamond_helmet
+
+#c:tea_ingredients/gloopy/weak
+- minecraft:chorus_fruit
+
+#mythicmetals:runite_nuggets
+- mythicmetals:runite_nugget
+
+#forge:raw_crab
+- betteranimalsplus:crab_meat_raw
+
+#c:tea_ingredients/sour/normal
+- minecraft:fern
+- minecraft:large_fern
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+- #universal_ores:ores/lapis
+
+#c:emeralds
+- minecraft:emerald
+
+#advancednetherite:hoes/netherite_emerald
+- advancednetherite:netherite_emerald_hoe
+
+#environmentz:insolating_item
+- adventurez:mammoth_fur
+- environmentz:polar_bear_fur
+
+#mythicmetals:hallowed_ingots
+- mythicmetals:hallowed_ingot
+
+#silky_spawners:allowed_tools
+- dragonloot:dragon_pickaxe
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- blockus:white_oak_sapling
+- promenade:autumn_oak_sapling
+- promenade:autumn_birch_sapling
+- promenade:pink_cherry_oak_sapling
+- promenade:white_cherry_oak_sapling
+- promenade:palm_sapling
+- valley:apple_sapling
+
+#advancednetherite:upgrade_to_netherite_emerald
+- #advancednetherite:ingots/netherites_emerald
+
+#c:orichalcum_blocks
+- mythicmetals:orichalcum_block
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#starmute:iron_stackable
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:powered_rail
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+
+#advancednetherite:ingots/netherites_iron
+- advancednetherite:netherite_iron_ingot
+
+#c:wool
+- earthtojavamobs:rainbow_wool
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- blockus:bamboo_fence
+- blockus:charred_fence
+- blockus:white_oak_fence
+- promenade:cherry_oak_fence
+- promenade:palm_fence
+- promenade:dark_amaranth_fence
+
+#forge:cooked_calamari
+- betteranimalsplus:calamari_cooked
+
+#lovely_snails:snail_food_items
+- #lovely_snails:snail_breeding_items
+- minecraft:fern
+- minecraft:grass
+- minecraft:kelp
+
+#advancednetherite:hoes/upgrade_to_netherite_gold
+- #advancednetherite:hoes/netherite_iron
+
+#c:bronze_blocks
+- mythicmetals:bronze_block
+
+#forge:cooked_fishes
+- betteranimalsplus:eel_meat_cooked
+
+#c:steel_nuggets
+- mythicmetals:steel_nugget
+
+#mythicmetals:hallowed_nuggets
+- mythicmetals:hallowed_nugget
+
+#forge:cooked_chicken
+- betteranimalsplus:pheasantcooked
+- betteranimalsplus:turkey_leg_cooked
+
+#c:osmium_blocks
+- mythicmetals:osmium_block
+
+#trinkets:offhand/ring
+- ringsofascension:ring_fire_resistance
+- ringsofascension:ring_dolphin
+- ringsofascension:ring_invisibility
+- ringsofascension:ring_jump_boost
+- ringsofascension:ring_luck
+- ringsofascension:ring_mining
+- ringsofascension:ring_night_vision
+- ringsofascension:ring_regeneration
+- ringsofascension:ring_slow_falling
+- ringsofascension:ring_speed
+- ringsofascension:ring_strength
+- ringsofascension:ring_water_breathing
+- ringsofascension:ring_slow_resistance
+- ringsofascension:ring_poison_resistance
+- ringsofascension:ring_wither
+- ringsofascension:ring_magnetism
+- ringsofascension:ring_flight
+- ringsofascension:ring_hungerless
+- ringsofascension:ring_experience
+- ringsofascension:ring_growth
+- ringsofascension:ring_knockback_resistance
+- ringsofascension:ring_health
+- ringsofascension:ring_sponge
+- ringsofascension:ring_water_walking
+- ringsofascension:ring_undying
+
+#c:tea_ingredients/bitter/strong
+- minecraft:wither_rose
+- minecraft:gunpowder
+- minecraft:pufferfish
+- minecraft:fermented_spider_eye
+
+#mythicmetals:metallurgium_blocks
+- mythicmetals:metallurgium_block
+
+#mythicmetals:durasteel_nuggets
+- mythicmetals:durasteel_nugget
+
+#c:tea_ingredients/sweet/weak
+- minecraft:pumpkin_seeds
+- minecraft:beetroot_seeds
+- minecraft:sugar
+- culinaire:marshmallow
+
+#advancednetherite:pickaxes/upgrade_to_netherite_gold
+- #advancednetherite:pickaxes/netherite_iron
+
+#starmute:gold_unstackable
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+
+#advancednetherite:axes/netherite_emerald
+- advancednetherite:netherite_emerald_axe
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye
+- minecraft:blue_dye
+
+#forge:raw_turkey
+- betteranimalsplus:turkey_leg_raw
+
+#trinkets:hand/ring
+- ringsofascension:ring_fire_resistance
+- ringsofascension:ring_dolphin
+- ringsofascension:ring_invisibility
+- ringsofascension:ring_jump_boost
+- ringsofascension:ring_luck
+- ringsofascension:ring_mining
+- ringsofascension:ring_night_vision
+- ringsofascension:ring_regeneration
+- ringsofascension:ring_slow_falling
+- ringsofascension:ring_speed
+- ringsofascension:ring_strength
+- ringsofascension:ring_water_breathing
+- ringsofascension:ring_slow_resistance
+- ringsofascension:ring_poison_resistance
+- ringsofascension:ring_wither
+- ringsofascension:ring_magnetism
+- ringsofascension:ring_flight
+- ringsofascension:ring_hungerless
+- ringsofascension:ring_experience
+- ringsofascension:ring_growth
+- ringsofascension:ring_knockback_resistance
+- ringsofascension:ring_health
+- ringsofascension:ring_sponge
+- ringsofascension:ring_water_walking
+- ringsofascension:ring_undying
+
+#c:iron_ingots
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+
+#c:knives
+- valley:bone_knife
+- valley:wood_knife
+- valley:stone_knife
+- valley:iron_knife
+- valley:golden_knife
+- valley:rg_knife
+- valley:diamond_knife
+- valley:netherite_knife
+
+#c:refined_blackstones
+- #c:blackstone_bricks
+- #c:polished_blackstones
+
+#fabric:shears
+- minecraft:shears
+
+#yigd:soulbound_item
+
+#lovely_snails:snail_breeding_items
+- minecraft:brown_mushroom
+- minecraft:crimson_fungus
+- minecraft:red_mushroom
+- minecraft:warped_fungus
+
+#mythicmetals:runite_blocks
+- mythicmetals:runite_block
+
+#balm:magenta_dyes
+- #c:magenta_dyes?
+- minecraft:magenta_dye
+
+#advancednetherite:hoes/upgrade_to_netherite_diamond
+- #advancednetherite:hoes/netherite_emerald
+
+#blockus:warped_nether_grass
+- minecraft:nether_sprouts
+- minecraft:warped_roots
+
+#balm:light_gray_dyes
+- #c:light_gray_dyes?
+- minecraft:light_gray_dye
+
+#c:spicy_berries
+- valley:spicy_berries
+
+#mythicmetals:stormyx_blocks
+- mythicmetals:stormyx_block
+
+#c:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#c:steel_ingots
+- mythicmetals:steel_ingot
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- blockus:paper_trapdoor
+- blockus:obsidian_reinforced_trapdoor
+- blockus:stone_trapdoor
+- blockus:blackstone_trapdoor
+
+#c:tea_ingredients/shining/weak
+- minecraft:glowstone_dust
+- minecraft:amethyst_shard
+
+#forge:cookedvenison
+- betteranimalsplus:venisoncooked
+
+#dehydration:hydrating_drinks
+
+#mythicmetals:midas_gold_ingots
+- mythicmetals:midas_gold_ingot
+
+#balm:eggs
+- #c:eggs?
+- minecraft:egg
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+
+#adventurez:leather_items
+- adventurez:mammoth_fur
+- adventurez:rhino_leather
+- minecraft:leather
+
+#c:small_flowers
+- earthtojavamobs:buttercup
+- earthtojavamobs:pink_daisy
+
+#balm:light_blue_dyes
+- #c:light_blue_dyes?
+- minecraft:light_blue_dye
+
+#forge:raw_meats
+- betteranimalsplus:venisonraw
+- betteranimalsplus:pheasantraw
+- betteranimalsplus:crab_meat_raw
+- betteranimalsplus:turkey_leg_raw
+- betteranimalsplus:eel_meat_raw
+- betteranimalsplus:calamari_raw
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- blockus:white_oak_leaves
+- promenade:autumn_oak_leaves
+- promenade:autumn_birch_leaves
+- promenade:pink_cherry_oak_leaves
+- promenade:white_cherry_oak_leaves
+- promenade:palm_leaves
+
+#advancednetherite:chestplates/netherite_gold
+- advancednetherite:netherite_gold_chestplate
+
+#c:platinum_nuggets
+- mythicmetals:platinum_nugget
+
+#advancednetherite:ingots/upgrade_to_netherite_diamond
+- #advancednetherite:ingots/netherites_emerald
+
+#c:string
+- minecraft:string
+
+#curios:cosmetic_boots
+- adventurez:stone_golem_boots
+
+#c:tea_ingredients/bitter/weak
+- minecraft:bamboo
+- minecraft:cactus
+- minecraft:snowball
+
+#balm:pink_dyes
+- #c:pink_dyes?
+- minecraft:pink_dye
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- blockus:acacia_small_logs
+- decorative_blocks:acacia_beam
+
+#forge:rawbeef
+- betteranimalsplus:venisonraw
+
+#starmute:gold_stackable
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:powered_rail
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:raw_gold
+- minecraft:raw_gold_block
+- advancednetherite:netherite_gold_block
+- advancednetherite:netherite_gold_ingot
+- advancednetherite:netherite_gold_helmet
+- advancednetherite:netherite_gold_chestplate
+- advancednetherite:netherite_gold_leggings
+- advancednetherite:netherite_gold_boots
+- advancednetherite:netherite_gold_axe
+- advancednetherite:netherite_gold_hoe
+- advancednetherite:netherite_gold_pickaxe
+- advancednetherite:netherite_gold_shovel
+- advancednetherite:netherite_gold_sword
+- betteranimalsplus:golden_goose_egg
+- blockus:legacy_gold_block
+- blockus:legacy_explosion_proof_gold_block
+- blockus:golden_chain
+- blockus:golden_bars
+- blockus:golden_gate
+- blockus:gold_decorated_sandstone
+- blockus:gold_decorated_red_sandstone
+- blockus:gold_decorated_soul_sandstone
+- blockus:gold_decorated_polished_blackstone
+- blockus:gold_plating
+- blockus:gold_plating_stairs
+- blockus:gold_plating_slab
+- blockus:golden_apple_crate
+- blockus:golden_carrot_crate
+- valley:golden_sickle
+- valley:golden_knife
+- valley:golden_hatchet
+- valley:glistering_honeycomb
+- valley:glistering_bitter_berries
+- valley:glistering_sweet_berries
+- valley:glistering_spicy_berries
+- valley:glistering_kelp
+- valley:glistering_tomato
+- valley:glistering_onion
+- valley:glistering_potato
+- valley:glistering_beet
+- valley:glistering_juice
+- valley:glistering_green_bean
+- valley:glistering_mandrake
+- valley:glistering_corn
+- valley:glistering_snow_yam
+- valley:glistering_pepper
+- valley:glistering_eggplant
+- valley:glistering_glow_berries
+- valley:goblet
+- valley:golden_chain
+- valley:glistering_sour_berries
+- valley:glistering_anglerfish
+- valley:glistering_bait
+- valley:fire_eel
+- #xtraarrows:golden_arrows
+
+#advancednetherite:ingots/netherites_gold
+- advancednetherite:netherite_gold_ingot
+
+#c:stone
+- minecraft:stone
+
+#c:copper_ingots
+- minecraft:copper_ingot
+
+#advancednetherite:axes/upgrade_to_netherite_gold
+- #advancednetherite:axes/netherite_iron
+
+#c:platinum_blocks
+- mythicmetals:platinum_block
+
+#balm:emeralds
+- #c:emeralds?
+- minecraft:emerald
+
+#minecraft:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- #universal_ores:ores/copper
+
+#advancednetherite:pickaxes/upgrade_to_netherite_emerald
+- #advancednetherite:pickaxes/netherite_gold
+
+#mythicmetals:palladium_armor
+- mythicmetals:palladium_helmet
+- mythicmetals:palladium_chestplate
+- mythicmetals:palladium_leggings
+- mythicmetals:palladium_boots
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #blockus:white_oak_logs
+- #promenade:cherry_oak_logs
+- #promenade:palm_logs
+
+#curios:cosmetic_leggings
+- adventurez:stone_golem_leggings
+
+#blockus:stained_stone_bricks
+- blockus:white_stone_bricks
+- blockus:orange_stone_bricks
+- blockus:magenta_stone_bricks
+- blockus:light_blue_stone_bricks
+- blockus:yellow_stone_bricks
+- blockus:lime_stone_bricks
+- blockus:pink_stone_bricks
+- blockus:gray_stone_bricks
+- minecraft:stone_bricks
+- blockus:cyan_stone_bricks
+- blockus:purple_stone_bricks
+- blockus:blue_stone_bricks
+- blockus:brown_stone_bricks
+- blockus:green_stone_bricks
+- blockus:red_stone_bricks
+- blockus:black_stone_bricks
+
+#forge:rawpheasant
+- betteranimalsplus:pheasantraw
+
+#c:bronze_ingots
+- mythicmetals:bronze_ingot
+
+#c:silver_nuggets
+- mythicmetals:silver_nugget
+
+#mythicmetals:durasteel_ingots
+- mythicmetals:durasteel_ingot
+
+#universal_ores:ores/emerald
+- universal_ores:andesite_emerald_ore
+- universal_ores:diorite_emerald_ore
+- universal_ores:granite_emerald_ore
+- universal_ores:tuff_emerald_ore
+- universal_ores:calcite_emerald_ore
+
+#balm:blue_dyes
+- minecraft:blue_dye
+- #c:blue_dyes?
+
+#medievalweapons:accross_double_handed_items
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- blockus:bamboo_slab
+- blockus:charred_slab
+- blockus:white_oak_slab
+- promenade:cherry_oak_slab
+- promenade:palm_slab
+- promenade:dark_amaranth_slab
+
+#advancednetherite:pickaxes/upgrade_to_netherite_iron
+- #advancednetherite:pickaxes/netherite
+
+#c:palladium_ores
+- mythicmetals:palladium_ore
+
+#c:mollusks
+- valley:clam
+- valley:mussel
+- valley:brown_mussel
+- valley:cerith_snail
+- valley:marlin_spike_seashell
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- betteranimalsplus:trillium
+- blockus:rainbow_rose
+- earthtojavamobs:buttercup
+- earthtojavamobs:pink_daisy
+
+#advancednetherite:shovels/netherite_gold
+- advancednetherite:netherite_gold_shovel
+
+#c:tea_ingredients/sweet/normal
+- minecraft:melon_seeds
+- minecraft:sweet_berries
+- culinaire:chouquette
+
+#advancednetherite:hoes/netherite_diamond
+- advancednetherite:netherite_diamond_hoe
+
+#advancednetherite:hoes/netherite
+- minecraft:netherite_hoe
+
+#c:osmium_nuggets
+- mythicmetals:osmium_nugget
+
+#c:spicy_crops
+- valley:spicy_berries
+- valley:fire_pepper
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket
+
+#c:adamantite_ingots
+- mythicmetals:adamantite_ingot
+
+#c:vermiculite_ores
+- mythicmetals:vermiculite_ore
+
+#c:flesh
+- zombified:charred_flesh
+- zombified:frozen_flesh
+- minecraft:rotten_flesh
+
+#forge:rawchicken
+- betteranimalsplus:pheasantraw
+- betteranimalsplus:turkey_leg_raw
+
+#c:purple_dyes
+- minecraft:purple_dye
+
+#curios:cosmetic_chestplate
+- adventurez:stone_golem_chestplate
+
+#mythicmetals:starrite_blocks
+- mythicmetals:starrite_block
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+- additionaladditions:music_disc_0308?
+- additionaladditions:music_disc_1007?
+- additionaladditions:music_disc_1507?
+
+#c:pointy_things
+- valley:knapped_flint_arrowhead
+- valley:knapped_obsidian_arrowhead
+- valley:knapped_dripstone_arrowhead
+- minecraft:flint
+
+#mythicmetals:stormyx_ingots
+- mythicmetals:stormyx_ingot
+
+#tooltiprareness:common_item
+- adventurez:orc_skin
+- adventurez:dragon_saddle
+- dehydration:leather_flask
+- environmentz:heating_stones
+- environmentz:heated_stones
+- environmentz:wolf_pelt
+- environmentz:polar_bear_fur
+- environmentz:wolf_helmet
+- environmentz:wolf_chestplate
+- environmentz:wolf_leggings
+- environmentz:wolf_boots
+- medievalweapons:wooden_small_axe
+- medievalweapons:stone_small_axe
+- medievalweapons:wooden_long_sword
+- medievalweapons:stone_long_sword
+- medievalweapons:wooden_dagger
+- medievalweapons:stone_dagger
+- medievalweapons:wooden_francisca
+- medievalweapons:stone_francisca
+- medievalweapons:wooden_big_axe
+- medievalweapons:stone_big_axe
+- medievalweapons:wooden_javelin
+- medievalweapons:stone_javelin
+- medievalweapons:wooden_lance
+- medievalweapons:stone_lance
+- medievalweapons:wooden_healing_staff
+- medievalweapons:stone_healing_staff
+- medievalweapons:wooden_mace
+- medievalweapons:stone_mace
+- medievalweapons:long_bow
+- medievalweapons:recurve_bow
+
+#c:flowers
+- #c:small_flowers
+- #c:tall_flowers
+
+#piglib:piglin_bartering_items
+- mythicmetals:midas_gold_ingot
+
+#forge:cookedchicken
+- betteranimalsplus:pheasantcooked
+- betteranimalsplus:turkey_leg_cooked
+
+#starmute:blackstone_blocks
+- minecraft:polished_blackstone_pressure_plate
+- minecraft:polished_blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_button
+- minecraft:polished_blackstone
+- minecraft:polished_blackstone_slab
+- minecraft:polished_blackstone_stairs
+- minecraft:chiseled_polished_blackstone
+- minecraft:polished_blackstone_bricks
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:cracked_polished_blackstone_bricks
+- minecraft:blackstone_wall
+- minecraft:blackstone
+- minecraft:blackstone_slab
+- minecraft:blackstone_stairs
+- minecraft:gilded_blackstone
+
+#c:gold_ingots
+- minecraft:gold_ingot
+- minecraft:gold_ingot
+
+#forge:raw_pheasant
+- betteranimalsplus:pheasantraw
+
+#advancednetherite:netherite_ingots
+- advancednetherite:netherite_diamond_ingot
+- advancednetherite:netherite_emerald_ingot
+- advancednetherite:netherite_gold_ingot
+- advancednetherite:netherite_iron_ingot
+
+#advancednetherite:boots/netherite_diamond
+- advancednetherite:netherite_diamond_boots
+
+#mythicmetals:aquarium_blocks
+- mythicmetals:aquarium_block
+
+#tooltiprareness:uncommon_item
+- adventurez:gilded_stone
+- adventurez:warthog_shell_piece
+- dehydration:iron_leather_flask
+- dehydration:golden_leather_flask
+- dehydration:campfire_cauldron
+- medievalweapons:iron_small_axe
+- medievalweapons:golden_small_axe
+- medievalweapons:iron_long_sword
+- medievalweapons:golden_long_sword
+- medievalweapons:iron_dagger
+- medievalweapons:golden_dagger
+- medievalweapons:iron_francisca
+- medievalweapons:golden_francisca
+- medievalweapons:iron_big_axe
+- medievalweapons:golden_big_axe
+- medievalweapons:iron_javelin
+- medievalweapons:golden_javelin
+- medievalweapons:iron_lance
+- medievalweapons:golden_lance
+- medievalweapons:iron_healing_staff
+- medievalweapons:golden_healing_staff
+- medievalweapons:iron_mace
+- medievalweapons:golden_mace
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye
+
+#c:manganese_nuggets
+- mythicmetals:manganese_nugget
+
+#advancednetherite:swords/upgrade_to_netherite_diamond
+- #advancednetherite:swords/netherite_emerald
+
+#forge:cookedbeef
+- betteranimalsplus:venisoncooked
+
+#c:palladium_blocks
+- mythicmetals:palladium_block
+
+#advancednetherite:ingots/upgrade_to_netherite_emerald
+- #advancednetherite:ingots/netherites_gold
+
+#c:chest
+- minecraft:chest
+- minecraft:trapped_chest
+
+#c:manganese_ores
+- mythicmetals:manganese_ore
+
+#itemfilters:check_nbt
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:enchanted_book
+- minecraft:tipped_arrow
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- blockus:birch_small_logs
+- decorative_blocks:birch_beam
+
+#advancednetherite:hoes/netherite_iron
+- advancednetherite:netherite_iron_hoe
+
+#advancednetherite:shovels/netherite_emerald
+- advancednetherite:netherite_emerald_shovel
+
+#forge:rawmeats
+- betteranimalsplus:venisonraw
+- betteranimalsplus:pheasantraw
+- betteranimalsplus:crab_meat_raw
+- betteranimalsplus:turkey_leg_raw
+- betteranimalsplus:eel_meat_raw
+- betteranimalsplus:calamari_raw
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- blockus:oak_small_logs
+- decorative_blocks:oak_beam
+
+#betteranimalsplus:eggs_common
+- #forge:eggs
+- #c:eggs
+
+#forge:cooked_fish
+- betteranimalsplus:eel_meat_cooked
+
+#c:raw_meat
+- betteranimalsplus:venisonraw
+- betteranimalsplus:pheasantraw
+- betteranimalsplus:crab_meat_raw
+- betteranimalsplus:turkey_leg_raw
+- betteranimalsplus:eel_meat_raw
+- betteranimalsplus:calamari_raw
+
+#advancednetherite:shovels/upgrade_to_netherite_gold
+- #advancednetherite:shovels/netherite_iron
+
+#mythicmetals:kyber_ingots
+- mythicmetals:kyber_ingot
+
+#mythicmetals:unobtainium_ores
+- mythicmetals:unobtainium_ore
+- mythicmetals:deepslate_unobtainium_ore
+
+#environmentz:allowed_armor
+
+#c:onion
+- valley:onion
+
+#blockus:barrels
+- blockus:oak_barrel
+- minecraft:barrel
+- blockus:birch_barrel
+- blockus:jungle_barrel
+- blockus:acacia_barrel
+- blockus:dark_oak_barrel
+- blockus:crimson_barrel
+- blockus:warped_barrel
+- blockus:bamboo_barrel
+- blockus:charred_barrel
+- blockus:white_oak_barrel
+
+#forge:raw_eel
+- betteranimalsplus:eel_meat_raw
+
+#c:corn
+- valley:maize_crop
+
+#c:orichalcum_ingots
+- mythicmetals:orichalcum_ingot
+
+#fabric:shields
+- mcdw:shield_royal_guard
+- mcdw:shield_vanguard
+
+#balm:gold_nuggets
+- #c:gold_nuggets?
+- minecraft:gold_nugget
+
+#c:cooked_eggs
+- betteranimalsplus:fried_egg
+
+#advancednetherite:boots/netherite_gold
+- advancednetherite:netherite_gold_boots
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- blockus:jungle_small_logs
+- decorative_blocks:jungle_beam
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+
+#advancednetherite:boots/netherite_emerald
+- advancednetherite:netherite_emerald_boots
+
+#forge:raw_calamari
+- betteranimalsplus:calamari_raw
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- blockus:spruce_small_logs
+- decorative_blocks:spruce_beam
+
+#advancednetherite:axes/netherite
+- minecraft:netherite_axe
+
+#blockus:blockus_barrels
+- blockus:oak_barrel
+- blockus:birch_barrel
+- blockus:jungle_barrel
+- blockus:acacia_barrel
+- blockus:dark_oak_barrel
+- blockus:crimson_barrel
+- blockus:warped_barrel
+- blockus:bamboo_barrel
+- blockus:charred_barrel
+- blockus:white_oak_barrel
+
+#advancednetherite:helmets/netherite
+- minecraft:netherite_helmet
+
+#advancednetherite:leggings/netherite_emerald
+- advancednetherite:netherite_emerald_leggings
+
+#c:netherite_nuggets
+- valley:netherite_nugget
+
+#c:platinum_ores
+- mythicmetals:platinum_ore
+
+#balm:purple_dyes
+- #c:purple_dyes?
+- minecraft:purple_dye
+
+#c:bones
+- minecraft:bone
+
+#mossierdeepslate:moss_makers
+- minecraft:vine
+- minecraft:moss_block
+
+#c:wood_sticks
+- minecraft:stick
+- minecraft:stick
+
+#c:mud
+- zombified:mud_clump
+
+#tooltiprareness:epic_item
+- adventurez:stone_golem_heart
+- adventurez:stone_golem_arm
+- adventurez:gilded_netherite_fragment
+- adventurez:prime_eye
+- adventurez:stone_golem_helmet
+- adventurez:stone_golem_chestplate
+- adventurez:stone_golem_leggings
+- adventurez:stone_golem_boots
+- dehydration:netherite_leather_flask
+- dragonloot:dragon_scale
+- dragonloot:dragon_horse_armor
+- dragonloot:dragon_helmet
+- dragonloot:dragon_chestplate
+- dragonloot:dragon_leggings
+- dragonloot:dragon_boots
+- dragonloot:upgraded_dragon_chestplate
+- dragonloot:dragon_pickaxe
+- dragonloot:dragon_shovel
+- dragonloot:dragon_axe
+- dragonloot:dragon_hoe
+- dragonloot:dragon_sword
+- dragonloot:dragon_bow
+- dragonloot:dragon_crossbow
+- dragonloot:dragon_trident
+- medievalweapons:netherite_small_axe
+- medievalweapons:netherite_long_sword
+- medievalweapons:netherite_dagger
+- medievalweapons:netherite_francisca
+- medievalweapons:netherite_big_axe
+- medievalweapons:netherite_javelin
+- medievalweapons:netherite_lance
+- medievalweapons:netherite_healing_staff
+- medievalweapons:netherite_mace
+
+#c:red_dyes
+- minecraft:red_dye
+- minecraft:red_dye
+
+#mythicmetals:midas_gold_blocks
+- mythicmetals:midas_gold_block
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+- blockus:azalea_small_hedge_flowers
+- promenade:azalea_leaf_pile
+- promenade:flowering_azalea_leaf_pile
+- valley:rose_bush
+- valley:lilac_bush
+- valley:peony_bush
+- valley:redwood_sorrel
+- valley:miners_lettuce
+- valley:dandelion_puffs
+- valley:reeds
+- valley:jungle_bush
+- valley:black_dahlia
+- valley:orange_beauty
+- valley:lavender
+- valley:lavender_sprig
+- valley:single_rose
+- valley:ice_rose
+- valley:dandelion_puffs
+- valley:orange_fern
+- valley:glistering_honeycomb
+- valley:panflower
+- valley:honey_cluster
+- valley:herbs
+
+#mythicmetals:prometheum_blocks
+- mythicmetals:prometheum_block
+
+#fabric:swords
+- additionaladditions:rose_gold_sword?
+- additionaladditions:gilded_netherite_sword?
+- advancednetherite:netherite_iron_sword
+- advancednetherite:netherite_gold_sword
+- advancednetherite:netherite_emerald_sword
+- advancednetherite:netherite_diamond_sword
+- dragonloot:dragon_sword
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+- minecraft:golden_sword
+- minecraft:diamond_sword
+- minecraft:netherite_sword
+- graveyard:bone_dagger
+- mcdw:sword_claymore
+- mcdw:sword_broadsword
+- mcdw:sword_frost_slayer
+- mcdw:sword_heartstealer
+- mcdw:sword_great_axeblade
+- mcdw:sword_rapier
+- mcdw:sword_beestinger
+- mcdw:sword_freezing_foil
+- mcdw:sword_cutlass
+- mcdw:sword_nameless_blade
+- mcdw:sword_dancers_sword
+- mcdw:sword_katana
+- mcdw:sword_masters_katana
+- mcdw:sword_dark_katana
+- mcdw:sword_iron_sword_var
+- mcdw:sword_diamond_sword_var
+- mcdw:sword_hawkbrand
+- mcdw:sword_sinister
+- mcdw:sword_broken_sawblade
+- mcdw:sword_mechanized_sawblade
+- mcdw:sword_coral_blade
+- mcdw:sword_sponge_striker
+- mcdw:sword_obsidian_claymore
+- mcdw:sword_the_starless_night
+- mcdw:dagger_dagger
+- mcdw:dagger_fangs_of_frost
+- mcdw:dagger_moon
+- mcdw:dagger_shear_dagger
+- mcdw:dagger_tempest_knife
+- mcdw:dagger_resolute_tempest_knife
+- mcdw:dagger_chill_gale_knife
+- mcdw:dagger_backstabber
+- mcdw:dagger_swift_striker
+- mcdw:dagger_void_touched_blade
+- mcdw:dagger_the_beginning
+- mcdw:dagger_the_end
+- mcdw:dagger_soul_knife
+- mcdw:dagger_eternal_knife
+- mcdw:sword_truthseeker
+- mcdw:hammer_mace
+- mcdw:hammer_great
+- mcdw:hammer_stormlander
+- mcdw:hammer_gravity
+- mcdw:hammer_flail
+- mcdw:hammer_suns_grace
+- mcdw:hammer_boneclub
+- mcdw:hammer_bone_cudgel
+- mcdw:gauntlet_gauntlet
+- mcdw:gauntlet_maulers
+- mcdw:gauntlet_soul_fists
+- mcdw:sickle_sickle
+- mcdw:sickle_nightmares_bite
+- mcdw:sickle_last_laugh_gold
+- mcdw:sickle_last_laugh_silver
+- mcdw:sickle_jailors_scythe
+- mcdw:sickle_soul_scythe
+- mcdw:sickle_frost_scythe
+- mcdw:sickle_skull_scythe
+- mcdw:spear_glaive
+- mcdw:spear_grave_bane
+- mcdw:spear_venom_glaive
+- mcdw:spear_cackling_broom
+- medievalweapons:wooden_small_axe
+- medievalweapons:stone_small_axe
+- medievalweapons:iron_small_axe
+- medievalweapons:golden_small_axe
+- medievalweapons:diamond_small_axe
+- medievalweapons:netherite_small_axe
+- medievalweapons:wooden_long_sword
+- medievalweapons:stone_long_sword
+- medievalweapons:iron_long_sword
+- medievalweapons:golden_long_sword
+- medievalweapons:diamond_long_sword
+- medievalweapons:netherite_long_sword
+- medievalweapons:wooden_dagger
+- medievalweapons:stone_dagger
+- medievalweapons:iron_dagger
+- medievalweapons:golden_dagger
+- medievalweapons:diamond_dagger
+- medievalweapons:netherite_dagger
+- medievalweapons:wooden_francisca
+- medievalweapons:stone_francisca
+- medievalweapons:iron_francisca
+- medievalweapons:golden_francisca
+- medievalweapons:diamond_francisca
+- medievalweapons:netherite_francisca
+- medievalweapons:wooden_big_axe
+- medievalweapons:stone_big_axe
+- medievalweapons:iron_big_axe
+- medievalweapons:golden_big_axe
+- medievalweapons:diamond_big_axe
+- medievalweapons:netherite_big_axe
+- medievalweapons:wooden_javelin
+- medievalweapons:stone_javelin
+- medievalweapons:iron_javelin
+- medievalweapons:golden_javelin
+- medievalweapons:diamond_javelin
+- medievalweapons:netherite_javelin
+- medievalweapons:wooden_lance
+- medievalweapons:stone_lance
+- medievalweapons:iron_lance
+- medievalweapons:golden_lance
+- medievalweapons:diamond_lance
+- medievalweapons:netherite_lance
+- medievalweapons:wooden_healing_staff
+- medievalweapons:stone_healing_staff
+- medievalweapons:iron_healing_staff
+- medievalweapons:golden_healing_staff
+- medievalweapons:diamond_healing_staff
+- medievalweapons:netherite_healing_staff
+- medievalweapons:wooden_mace
+- medievalweapons:stone_mace
+- medievalweapons:iron_mace
+- medievalweapons:golden_mace
+- medievalweapons:diamond_mace
+- medievalweapons:netherite_mace
+- medievalweapons:thalleous_sword
+- mythicmetals:adamantite_sword
+- mythicmetals:aquarium_sword
+- mythicmetals:banglum_sword
+- mythicmetals:bronze_sword
+- mythicmetals:carmot_sword
+- mythicmetals:celestium_sword
+- mythicmetals:copper_sword
+- mythicmetals:durasteel_sword
+- mythicmetals:hallowed_sword
+- mythicmetals:kyber_sword
+- mythicmetals:metallurgium_sword
+- mythicmetals:mythril_sword
+- mythicmetals:orichalcum_sword
+- mythicmetals:osmium_sword
+- mythicmetals:palladium_sword
+- mythicmetals:prometheum_sword
+- mythicmetals:quadrillum_sword
+- mythicmetals:runite_sword
+- mythicmetals:star_platinum_sword
+- mythicmetals:stormyx_sword
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- blockus:bamboo_planks
+- blockus:charred_planks
+- blockus:white_oak_planks
+- promenade:cherry_oak_planks
+- promenade:palm_planks
+- promenade:dark_amaranth_planks
+
+#minecraft:fox_food
+- minecraft:sweet_berries
+- minecraft:glow_berries
+- promenade:blueberries
+- valley:bitter_berries
+- valley:maize_crop
+- valley:tomato_bush
+- valley:holly
+- valley:candied_snow_yams
+- valley:dog_biscuit
+- valley:miners_lettuce
+- valley:snow_yam_item
+- valley:fox_food
+- valley:duck_egg
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+- #universal_ores:ores/diamond
+
+#c:eggplants
+- valley:eggplant
+
+#advancednetherite:chestplates/netherite_emerald
+- advancednetherite:netherite_emerald_chestplate
+
+#forge:raw_fish
+- betteranimalsplus:eel_meat_raw
+
+#mythicmetals:prometheum_nuggets
+- mythicmetals:prometheum_nugget
+
+#starmute:brewing_ingredients
+- minecraft:blaze_powder
+- minecraft:fermented_spider_eye
+- minecraft:ghast_tear
+- minecraft:glistering_melon_slice
+- minecraft:glowstone_dust
+- minecraft:golden_carrot
+- minecraft:gunpowder
+- minecraft:magma_cream
+- minecraft:nether_wart
+- minecraft:phantom_membrane
+- minecraft:pufferfish
+- minecraft:rabbit_foot
+- minecraft:redstone
+- minecraft:scute
+- minecraft:spider_eye
+- minecraft:sugar
+
+#mythicmetals:star_platinum_nuggets
+- mythicmetals:star_platinum_nugget
+
+#advancednetherite:hoes/netherite_gold
+- advancednetherite:netherite_gold_hoe
+
+#c:cyan_dyes
+- minecraft:cyan_dye
+
+#advancednetherite:boots/upgrade_to_netherite_iron
+- #advancednetherite:boots/netherite
+
+#minecraft:candles
+- minecraft:candle
+- minecraft:white_candle
+- minecraft:orange_candle
+- minecraft:magenta_candle
+- minecraft:light_blue_candle
+- minecraft:yellow_candle
+- minecraft:lime_candle
+- minecraft:pink_candle
+- minecraft:gray_candle
+- minecraft:light_gray_candle
+- minecraft:cyan_candle
+- minecraft:purple_candle
+- minecraft:blue_candle
+- minecraft:brown_candle
+- minecraft:green_candle
+- minecraft:red_candle
+- minecraft:black_candle
+
+#decorative_blocks:beams
+- decorative_blocks:spruce_beam
+- decorative_blocks:acacia_beam
+- decorative_blocks:dark_oak_beam
+- decorative_blocks:warped_beam
+- decorative_blocks:birch_beam
+- decorative_blocks:jungle_beam
+- decorative_blocks:oak_beam
+- decorative_blocks:crimson_beam
+
+#c:tea_ingredients/sour/weak
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+
+#piglib:piglin_safe_armor
+- mythicmetals:midas_gold_helmet
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:midas_gold_leggings
+- mythicmetals:midas_gold_boots
+
+#mythicmetals:banglum_nuggets
+- mythicmetals:banglum_nugget
+
+#forge:cookedcrab
+- betteranimalsplus:crab_meat_cooked
+
+#advancednetherite:chestplates/upgrade_to_netherite_emerald
+- #advancednetherite:chestplates/netherite_gold
+
+#curios:back
+- betteranimalsplus:bear_cape_black
+- betteranimalsplus:bear_cape_brown
+- betteranimalsplus:bear_cape_kermode
+- betteranimalsplus:wolf_cape_arctic
+- betteranimalsplus:wolf_cape_black
+- betteranimalsplus:wolf_cape_classic
+- betteranimalsplus:wolf_cape_timber
+- betteranimalsplus:wolf_cape_red
+- betteranimalsplus:wolf_cape_brown
+
+#mythicmetals:kyber_ores
+- mythicmetals:kyber_ore
+- mythicmetals:calcite_kyber_ore
+
+#adventurez:piglin_not_attack_items
+- adventurez:stone_golem_helmet
+- adventurez:stone_golem_chestplate
+- adventurez:stone_golem_leggings
+- adventurez:stone_golem_boots
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots
+- minecraft:leather_leggings
+- minecraft:leather_chestplate
+- minecraft:leather_helmet
+- minecraft:leather_horse_armor
+- environmentz:wolf_helmet
+- environmentz:wolf_chestplate
+- environmentz:wolf_leggings
+- environmentz:wolf_boots
+- mythicmetals:palladium_helmet
+- mythicmetals:palladium_chestplate
+- mythicmetals:palladium_leggings
+- mythicmetals:palladium_boots
+- valley:fur_chestplate
+
+#c:copper_nuggets
+- mythicmetals:copper_nugget
+- valley:copper_nugget
+
+#universal_ores:ores/coal
+- universal_ores:andesite_coal_ore
+- universal_ores:diorite_coal_ore
+- universal_ores:granite_coal_ore
+- universal_ores:tuff_coal_ore
+- universal_ores:calcite_coal_ore
+
+#c:tea_ingredients/salty/weak
+- minecraft:pumpkin_seeds
+- minecraft:nether_sprouts
+- minecraft:warped_fungus
+- minecraft:dried_kelp
+
+#c:copper_ingot
+- minecraft:copper_ingot

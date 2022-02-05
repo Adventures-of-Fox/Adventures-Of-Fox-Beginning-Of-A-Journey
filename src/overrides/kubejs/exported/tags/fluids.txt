@@ -1,0 +1,26 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 5, 2022, 2:38:33 PM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+- minecraft:water
+- xps:xp_fluid
+- xps:flowing_xp
+
+#c:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#earthtojavamobs:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
