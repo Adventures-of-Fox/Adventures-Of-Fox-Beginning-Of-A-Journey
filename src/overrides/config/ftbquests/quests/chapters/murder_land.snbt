@@ -7,33 +7,54 @@
 	icon: "valley:rain_totem"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "Enter the murder land"
-		icon: "valley:rain_totem"
-		x: 0.0d
-		y: 0.0d
-		shape: "square"
-		description: ["Enter murder land"]
-		dependencies: ["76A89F1C57F23647"]
-		size: 2.0d
-		id: "43E04AE5844751E1"
-		tasks: [{
-			id: "4CEF2B4304A9145F"
-			type: "dimension"
-			dimension: "snowmercy:winter_murderland"
-		}]
-		rewards: [
-			{
-				id: "746DB88540A0BAB4"
+	quests: [
+		{
+			title: "Enter the murder land"
+			icon: "valley:rain_totem"
+			x: 0.0d
+			y: 0.0d
+			shape: "square"
+			description: ["Enter murder land"]
+			dependencies: ["76A89F1C57F23647"]
+			size: 2.0d
+			id: "43E04AE5844751E1"
+			tasks: [{
+				id: "4CEF2B4304A9145F"
+				type: "dimension"
+				dimension: "snowmercy:winter_murderland"
+			}]
+			rewards: [
+				{
+					id: "746DB88540A0BAB4"
+					type: "item"
+					item: "valley:glistering_snow_yam"
+					count: 8
+				}
+				{
+					id: "511E6625B7FC4103"
+					type: "item"
+					item: "minecraft:spruce_sapling"
+				}
+			]
+		}
+		{
+			title: "Tower of death"
+			x: 3.0d
+			y: 0.5d
+			description: ["After finding tower, break crystal on center of it to start wave"]
+			dependencies: ["43E04AE5844751E1"]
+			id: "5AAF638F6F236EC6"
+			tasks: [{
+				id: "08623336177E1215"
+				type: "structure"
+				icon: "snowmercy:hammersledge"
+				structure: "snowmercy:icepost"
+			}]
+			rewards: [{
+				id: "57E97336554BB47C"
 				type: "item"
-				item: "valley:glistering_snow_yam"
-				count: 8
-			}
-			{
-				id: "511E6625B7FC4103"
-				type: "item"
-				item: "minecraft:spruce_sapling"
-			}
-		]
-	}]
+				item: "minecraft:golden_apple"
+			}]
+		}
+	]
 }
