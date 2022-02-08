@@ -7,33 +7,420 @@
 	icon: "valley:storm_totem"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "Enter the hell"
-		icon: "valley:storm_totem"
-		x: 0.0d
-		y: 0.0d
-		shape: "square"
-		description: ["Enter nether"]
-		dependencies: ["4BB373DED3958490"]
-		size: 2.0d
-		id: "4337AF5974A81AD5"
-		tasks: [{
-			id: "1EE98AA7BF06AC68"
-			type: "dimension"
-			dimension: "minecraft:the_nether"
-		}]
-		rewards: [
-			{
-				id: "62D2E0008FC98205"
-				type: "item"
-				item: "valley:glistering_pepper"
-				count: 8
+	quests: [
+		{
+			title: "Enter the hell"
+			icon: "valley:storm_totem"
+			x: 0.0d
+			y: 0.0d
+			shape: "square"
+			description: ["Enter nether"]
+			dependencies: ["4BB373DED3958490"]
+			size: 2.0d
+			id: "4337AF5974A81AD5"
+			tasks: [{
+				id: "1EE98AA7BF06AC68"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+			rewards: [
+				{
+					id: "62D2E0008FC98205"
+					type: "item"
+					item: "valley:glistering_pepper"
+					count: 8
+				}
+				{
+					id: "50F57FF2EA74F48C"
+					type: "item"
+					item: "betternether:willow_sapling"
+				}
+			]
+		}
+		{
+			title: "Golden miner"
+			icon: {
+				id: "minecraft:golden_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
 			}
-			{
-				id: "50F57FF2EA74F48C"
+			x: 2.5d
+			y: 0.5d
+			description: ["Mine some gold that spawns naturally in nether"]
+			dependencies: ["4337AF5974A81AD5"]
+			id: "79319FB6C7A87C90"
+			tasks: [{
+				id: "25CFB2005859E277"
 				type: "item"
-				item: "betternether:willow_sapling"
+				item: "minecraft:gold_ingot"
+				count: 9L
+			}]
+			rewards: [{
+				id: "3C7E4E0D469EF471"
+				type: "item"
+				item: "minecraft:diamond"
+			}]
+		}
+		{
+			title: "Build gold"
+			icon: "ruined_equipment:ruined_golden_leggings"
+			x: 2.5d
+			y: 2.0d
+			description: ["Items used to make tools \\& armor \\& weapons"]
+			dependencies: ["79319FB6C7A87C90"]
+			id: "6CC84834F7CACC5D"
+			tasks: [{
+				id: "0A4A5EC2A03F9C6A"
+				type: "item"
+				item: "expert_weapons:whetstone_deepslate_golden"
+			}]
+			rewards: [{
+				id: "76356C20815B927F"
+				type: "item"
+				item: "valley:glazed_apple"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			description: ["To get access to that quest you need done all Iron Armor quests"]
+			dependencies: [
+				"6CC84834F7CACC5D"
+				"7FBE5501365DBA54"
+				"4480F05D5CE1ED9F"
+				"07BF1CC66CFF5E41"
+				"5FCF25DF53F17CB9"
+			]
+			id: "11B8966022BF534F"
+			tasks: [
+				{
+					id: "417682731743527D"
+					type: "item"
+					item: {
+						id: "minecraft:golden_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2341D685433FDB3C"
+					type: "item"
+					item: {
+						id: "minecraft:golden_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6788FEF714ECD6EA"
+					type: "item"
+					item: {
+						id: "minecraft:golden_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "533B67513D635E11"
+					type: "item"
+					item: {
+						id: "minecraft:golden_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "7AE7355A278A8B92"
+					type: "item"
+					item: "valley:glistering_juice"
+				}
+				{
+					id: "2130E718DA7BF9F2"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_helmet"
+				}
+				{
+					id: "47C191124C868FE3"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_chestplate"
+				}
+				{
+					id: "3F409888433169BD"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_leggings"
+				}
+				{
+					id: "560FF0666A27414C"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_boots"
+				}
+				{
+					id: "5DEFF682DCABA1B1"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 1
+								id: "minecraft:protection"
+							}]
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 2.5d
+			y: 4.5d
+			description: ["To get access to that quest you need done Iron Weapon quest"]
+			dependencies: [
+				"6CC84834F7CACC5D"
+				"1E769B05C7050228"
+			]
+			id: "6552AC461B15B37D"
+			tasks: [{
+				id: "45F829BDAA1B0ADE"
+				type: "item"
+				item: {
+					id: "minecraft:golden_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "3982FB22645FF266"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_sword"
+				}
+				{
+					id: "294EBC1ABF61894C"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 1
+								id: "minecraft:smite"
+							}]
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 5.0d
+			y: 3.0d
+			description: ["To get access to that quest you need done all Iron Tools quests"]
+			dependencies: [
+				"6CC84834F7CACC5D"
+				"79056D1D85555A13"
+				"71B6FAE5C7A7245A"
+				"6451F0673B4CF73D"
+				"0C0470115B753138"
+			]
+			id: "13C62062A34A4CE4"
+			tasks: [
+				{
+					id: "28E75A39E4D9C715"
+					type: "item"
+					item: {
+						id: "minecraft:golden_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5A846FEF5E2F72C3"
+					type: "item"
+					item: {
+						id: "minecraft:golden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2AE0B5B303FC267D"
+					type: "item"
+					item: {
+						id: "minecraft:golden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6222EA105E863FC5"
+					type: "item"
+					item: {
+						id: "minecraft:golden_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "0D942D749EB105FA"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_shovel"
+				}
+				{
+					id: "4373D50BC1EDC6D2"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_pickaxe"
+				}
+				{
+					id: "0D2AD6B9F06CFD7E"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_axe"
+				}
+				{
+					id: "3278A1D84FAE9EC4"
+					type: "item"
+					item: "ruined_equipment:ruined_golden_hoe"
+				}
+				{
+					id: "3BFCAC8300811F22"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 1
+								id: "minecraft:efficiency"
+							}]
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Gold castle"
+			icon: {
+				id: "mythicmetals:midas_gold_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
 			}
-		]
-	}]
+			x: 4.5d
+			y: 0.5d
+			description: ["Find piglin bastion"]
+			dependencies: ["79319FB6C7A87C90"]
+			id: "1C712AD2CDDAFE8D"
+			tasks: [{
+				id: "703F52B548703073"
+				type: "structure"
+				title: "Piglin bastion"
+				structure: "minecraft:bastion_remnant"
+			}]
+		}
+		{
+			title: "Castle of hell darkness"
+			icon: "blockus:legacy_nether_reactor_core"
+			x: 3.5d
+			y: -2.0d
+			description: ["Find nether fortress"]
+			dependencies: ["79319FB6C7A87C90"]
+			id: "756A9B3652B92689"
+			tasks: [{
+				id: "60C42DB67888F8AC"
+				type: "structure"
+				title: "Fortress"
+				structure: "minecraft:fortress"
+			}]
+			rewards: [{
+				id: "08507596361B6CA6"
+				type: "item"
+				item: {
+					id: "minecraft:stone_sword"
+					Count: 1b
+					tag: {
+						EntityTag: {
+							Invisible: 1b
+						}
+						Damage: 0
+						HideFlags: 3
+						display: {
+							Name: "[{\"text\":\"Wither sword\",\"italic\":false,\"color\":\"dark_gray\"}]"
+						}
+						Enchantments: [
+							{
+								lvl: 1
+								id: "fire_aspect"
+							}
+							{
+								lvl: 1
+								id: "mending"
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Good trade"
+			icon: {
+				id: "numismatic-overhaul:gold_coin"
+				Count: 1b
+				tag: { }
+			}
+			x: 6.5d
+			y: 0.5d
+			description: ["Drop piglins a gold ingots to trade with them"]
+			dependencies: ["1C712AD2CDDAFE8D"]
+			id: "49C206821DE82C8C"
+			tasks: [{
+				id: "2A5EA183A59451BE"
+				type: "item"
+				item: "minecraft:ender_pearl"
+				count: 12L
+			}]
+		}
+		{
+			title: "Fire powder"
+			x: 5.5d
+			y: -2.0d
+			description: ["Kill blazes for powder"]
+			dependencies: ["756A9B3652B92689"]
+			id: "23787C8356949E2D"
+			tasks: [{
+				id: "20CC3544C034C7E0"
+				type: "item"
+				item: "minecraft:blaze_powder"
+				count: 12L
+			}]
+			rewards: [{
+				id: "6D0E50D64AB93657"
+				type: "item"
+				item: "valley:screen"
+				count: 4
+			}]
+		}
+	]
 }
