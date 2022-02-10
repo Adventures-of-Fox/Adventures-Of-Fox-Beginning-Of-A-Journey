@@ -10,18 +10,13 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Adventures of Fox",
+  "name": "Adventures of Fox: Beginning of a Journey",
   "version": "1.18.1",
   "author": "justfoxxo",
   "files": [
     {
       "projectID": 325492,
       "fileID": 3552777,
-      "required": true
-    },
-    {
-      "projectID": 319057,
-      "fileID": 3559638,
       "required": true
     },
     {
@@ -355,11 +350,6 @@
       "required": true
     },
     {
-      "projectID": 527334,
-      "fileID": 3510259,
-      "required": true
-    },
-    {
       "projectID": 456319,
       "fileID": 3565825,
       "required": true
@@ -615,11 +605,6 @@
       "required": true
     },
     {
-      "projectID": 325625,
-      "fileID": 3570596,
-      "required": true
-    },
-    {
       "projectID": 530309,
       "fileID": 3605285,
       "required": true
@@ -687,16 +672,6 @@
     {
       "projectID": 455508,
       "fileID": 3612857,
-      "required": true
-    },
-    {
-      "projectID": 383999,
-      "fileID": 3611583,
-      "required": true
-    },
-    {
-      "projectID": 510262,
-      "fileID": 3612819,
       "required": true
     },
     {
@@ -1010,18 +985,8 @@
       "required": true
     },
     {
-      "projectID": 560752,
-      "fileID": 3626492,
-      "required": true
-    },
-    {
       "projectID": 445787,
       "fileID": 3595836,
-      "required": true
-    },
-    {
-      "projectID": 448233,
-      "fileID": 3635674,
       "required": true
     },
     {
@@ -1105,11 +1070,6 @@
       "required": true
     },
     {
-      "projectID": 571503,
-      "fileID": 3639284,
-      "required": true
-    },
-    {
       "projectID": 317590,
       "fileID": 3639116,
       "required": true
@@ -1145,18 +1105,68 @@
       "required": true
     },
     {
-      "projectID": 574411,
-      "fileID": 3640991,
+      "projectID": 486080,
+      "fileID": 3606177,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3642143,
+      "required": true
+    },
+    {
+      "projectID": 571503,
+      "fileID": 3641382,
+      "required": true
+    },
+    {
+      "projectID": 527334,
+      "fileID": 3641052,
+      "required": true
+    },
+    {
+      "projectID": 325625,
+      "fileID": 3641141,
+      "required": true
+    },
+    {
+      "projectID": 383999,
+      "fileID": 3641152,
       "required": true
     },
     {
       "projectID": 544912,
-      "fileID": 3640141,
+      "fileID": 3641149,
       "required": true
     },
     {
-      "projectID": 486080,
-      "fileID": 3606177,
+      "projectID": 319057,
+      "fileID": 3641132,
+      "required": true
+    },
+    {
+      "projectID": 574411,
+      "fileID": 3642450,
+      "required": true
+    },
+    {
+      "projectID": 560752,
+      "fileID": 3583822,
+      "required": true
+    },
+    {
+      "projectID": 510262,
+      "fileID": 3642569,
+      "required": true
+    },
+    {
+      "projectID": 458024,
+      "fileID": 3598923,
+      "required": true
+    },
+    {
+      "projectID": 570354,
+      "fileID": 3614046,
       "required": true
     }
   ],
