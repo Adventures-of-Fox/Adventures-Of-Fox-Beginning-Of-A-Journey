@@ -339,6 +339,12 @@
 				title: "Piglin bastion"
 				structure: "minecraft:bastion_remnant"
 			}]
+			rewards: [{
+				id: "6131582530E31840"
+				type: "item"
+				item: "minecraft:raw_gold"
+				count: 6
+			}]
 		}
 		{
 			title: "Castle of hell darkness"
@@ -401,6 +407,11 @@
 				item: "minecraft:ender_pearl"
 				count: 12L
 			}]
+			rewards: [{
+				id: "6922DA6F402BDE51"
+				type: "item"
+				item: "adventurez:cooked_ender_whale_meat"
+			}]
 		}
 		{
 			title: "Fire powder"
@@ -421,6 +432,135 @@
 				item: "valley:screen"
 				count: 4
 			}]
+		}
+		{
+			title: "Death skeleton"
+			x: 7.5d
+			y: -2.0d
+			description: ["Kill wither skeletons to get skulls"]
+			dependencies: ["23787C8356949E2D"]
+			id: "4BD79F6FF50873E4"
+			tasks: [{
+				id: "23087ECFFBE2CF3B"
+				type: "item"
+				item: "minecraft:wither_skeleton_skull"
+				count: 3L
+			}]
+			rewards: [{
+				id: "04B5B0EF6391EEE2"
+				type: "item"
+				item: "ringsofascension:ring_wither"
+			}]
+		}
+		{
+			title: "Mining the Hell"
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 8.5d
+			y: -0.5d
+			description: ["Mine some anchent debris "]
+			dependencies: [
+				"4BD79F6FF50873E4"
+				"49C206821DE82C8C"
+			]
+			id: "6DA1CA20F6973945"
+			tasks: [{
+				id: "7D6D09BAE575BEE6"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+			}]
+			rewards: [{
+				id: "44FC722B269F9CD8"
+				type: "item"
+				item: "geodes:budding_emerald"
+			}]
+		}
+		{
+			title: "Better netherite"
+			x: 8.5d
+			y: 1.0d
+			dependencies: ["6DA1CA20F6973945"]
+			id: "469D382757D9A2DA"
+			tasks: [{
+				id: "4C818A804AE23D5E"
+				type: "item"
+				item: "advancednetherite:netherite_iron_ingot"
+			}]
+			rewards: [{
+				id: "6B2748A43A0884C7"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 4
+			}]
+		}
+		{
+			title: "שָׂטָן"
+			x: 10.5d
+			y: 0.0d
+			dependencies: ["469D382757D9A2DA"]
+			id: "07A6BB82E9D4829B"
+			tasks: [{
+				id: "5F5D035F451BF7FB"
+				type: "item"
+				item: "minecraft:nether_star"
+			}]
+			rewards: [
+				{
+					id: "1A9F68283BD12586"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 3
+								id: "minecraft:unbreaking"
+							}]
+						}
+					}
+				}
+				{
+					id: "708A0EED87B650EE"
+					type: "item"
+					item: "minecraft:experience_bottle"
+					count: 10
+				}
+			]
+		}
+		{
+			title: "Block Of The Death"
+			x: 10.5d
+			y: 1.5d
+			dependencies: ["07A6BB82E9D4829B"]
+			id: "08FD9F710921E977"
+			tasks: [{
+				id: "1BCC4367F1A0DCC4"
+				type: "item"
+				item: "blockus:nether_stars_block"
+			}]
+			rewards: [
+				{
+					id: "7D0239AE39C7BB27"
+					type: "item"
+					item: "minecraft:enchanted_golden_apple"
+				}
+				{
+					id: "3B941DCF4D3F1EC6"
+					type: "item"
+					item: {
+						id: "minecraft:chainmail_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
 		}
 	]
 }
