@@ -167,7 +167,7 @@ customization {
 }
 
 customization {
-  path = resources/menu/mainmenu/title.jpg
+  path = resources/menu/mainmenu/title.png
   orientation = mid-right
   x = -394
   width = 380
