@@ -484,6 +484,7 @@
 			title: "Better netherite"
 			x: 8.5d
 			y: 1.0d
+			description: ["Add iron to netherite"]
 			dependencies: ["6DA1CA20F6973945"]
 			id: "469D382757D9A2DA"
 			tasks: [{
@@ -502,6 +503,7 @@
 			title: "שָׂטָן"
 			x: 10.5d
 			y: 0.0d
+			description: ["Kill wither"]
 			dependencies: ["469D382757D9A2DA"]
 			id: "07A6BB82E9D4829B"
 			tasks: [{
@@ -536,6 +538,7 @@
 			title: "Block Of The Death"
 			x: 10.5d
 			y: 1.5d
+			description: ["Give wither a real hell"]
 			dependencies: ["07A6BB82E9D4829B"]
 			id: "08FD9F710921E977"
 			tasks: [{
@@ -561,6 +564,171 @@
 					}
 				}
 			]
+		}
+		{
+			title: "Diamond or Netherite"
+			x: 13.5d
+			y: 1.5d
+			dependencies: ["08FD9F710921E977"]
+			id: "603EC386FBF90E33"
+			tasks: [{
+				id: "62205E879A2FA6E2"
+				type: "item"
+				item: "advancednetherite:netherite_diamond_block"
+			}]
+			rewards: [{
+				id: "0FC70AF9985CE60B"
+				type: "item"
+				item: "endgoblintraders:enchanted_golden_carrot"
+			}]
+		}
+		{
+			title: "Minecraft: Pocket Edition"
+			x: 13.5d
+			y: 0.0d
+			description: [
+				"Use them for pocket things!"
+				"Use to teleport in any location you want or play music anywhere you want"
+			]
+			dependencies: ["07A6BB82E9D4829B"]
+			id: "36F53060EAFBD461"
+			tasks: [
+				{
+					id: "69D6F3E810C23C4C"
+					type: "item"
+					item: "waystones:pocket_wormhole"
+				}
+				{
+					id: "0ECD94F3C0EC7AA0"
+					type: "item"
+					item: {
+						id: "additionaladditions:pocket_jukebox"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+			rewards: [{
+				id: "597988A1E6836E81"
+				type: "item"
+				item: "xtraarrows:netherite_ender_arrow"
+				count: 6
+			}]
+		}
+		{
+			title: "Witch Craft"
+			x: 5.5d
+			y: -4.0d
+			dependencies: ["23787C8356949E2D"]
+			id: "075FB31FBB7E7F5B"
+			tasks: [{
+				id: "39EB438150BEA1EE"
+				type: "item"
+				item: "minecraft:brewing_stand"
+			}]
+			rewards: [{
+				id: "1E0BCB8CCBC51F94"
+				type: "item"
+				item: {
+					id: "minecraft:splash_potion"
+					Count: 1b
+					tag: {
+						Potion: "additionaladditions:strong_haste_potion"
+					}
+				}
+			}]
+		}
+		{
+			x: 15.0d
+			y: 0.5d
+			shape: "diamond"
+			dependencies: [
+				"603EC386FBF90E33"
+				"36F53060EAFBD461"
+			]
+			size: 2.0d
+			id: "3D1E52501BA3B5F8"
+			tasks: [{
+				id: "5CA8E546966CB00D"
+				type: "custom"
+				title: "That's not the end."
+				icon: "minecraft:end_portal_frame"
+			}]
+		}
+		{
+			x: 7.5d
+			y: -4.0d
+			dependencies: ["075FB31FBB7E7F5B"]
+			id: "1F97CBA3AFEDA649"
+			tasks: [{
+				id: "6F7FC3F980BF09A8"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:strong_regeneration"
+					}
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -6.0d
+			dependencies: ["075FB31FBB7E7F5B"]
+			id: "3E742E07DBF91E49"
+			tasks: [{
+				id: "3308D6ED8F645AA1"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:strong_healing"
+					}
+				}
+			}]
+			rewards: [{
+				id: "295A4DF8D896A1AD"
+				type: "item"
+				item: {
+					id: "minecraft:tipped_arrow"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:strong_harming"
+					}
+				}
+				count: 3
+			}]
+		}
+		{
+			x: 3.5d
+			y: -4.0d
+			dependencies: ["075FB31FBB7E7F5B"]
+			id: "7B4BA1310F8F2774"
+			tasks: [{
+				id: "6C420AD19AA3D454"
+				type: "item"
+				item: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:strong_strength"
+					}
+				}
+			}]
+			rewards: [{
+				id: "477FBF14E52183D6"
+				type: "item"
+				item: {
+					id: "minecraft:tipped_arrow"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:long_weakness"
+					}
+				}
+				count: 3
+			}]
 		}
 	]
 }

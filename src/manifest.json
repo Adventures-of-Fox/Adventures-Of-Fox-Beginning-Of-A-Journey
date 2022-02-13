@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Adventures of Fox: Beginning of a Journey",
+  "name": "Adventures of Fox",
   "version": "1.18.1",
   "author": "justfoxxo",
   "files": [
@@ -590,11 +590,6 @@
       "required": true
     },
     {
-      "projectID": 564746,
-      "fileID": 3595142,
-      "required": true
-    },
-    {
       "projectID": 501250,
       "fileID": 3556654,
       "required": true
@@ -830,11 +825,6 @@
       "required": true
     },
     {
-      "projectID": 532610,
-      "fileID": 3629599,
-      "required": true
-    },
-    {
       "projectID": 556489,
       "fileID": 3631165,
       "required": true
@@ -867,11 +857,6 @@
     {
       "projectID": 460336,
       "fileID": 3631590,
-      "required": true
-    },
-    {
-      "projectID": 263420,
-      "fileID": 3630504,
       "required": true
     },
     {
@@ -995,11 +980,6 @@
       "required": true
     },
     {
-      "projectID": 395864,
-      "fileID": 3634488,
-      "required": true
-    },
-    {
       "projectID": 495191,
       "fileID": 3637567,
       "required": true
@@ -1035,11 +1015,6 @@
       "required": true
     },
     {
-      "projectID": 533097,
-      "fileID": 3638280,
-      "required": true
-    },
-    {
       "projectID": 526606,
       "fileID": 3638955,
       "required": true
@@ -1062,16 +1037,6 @@
     {
       "projectID": 568316,
       "fileID": 3639383,
-      "required": true
-    },
-    {
-      "projectID": 576766,
-      "fileID": 3639045,
-      "required": true
-    },
-    {
-      "projectID": 391366,
-      "fileID": 3639302,
       "required": true
     },
     {
@@ -1155,11 +1120,6 @@
       "required": true
     },
     {
-      "projectID": 560752,
-      "fileID": 3583822,
-      "required": true
-    },
-    {
       "projectID": 575271,
       "fileID": 3645109,
       "required": true
@@ -1177,6 +1137,41 @@
     {
       "projectID": 517564,
       "fileID": 3621108,
+      "required": true
+    },
+    {
+      "projectID": 533097,
+      "fileID": 3645573,
+      "required": true
+    },
+    {
+      "projectID": 391366,
+      "fileID": 3645483,
+      "required": true
+    },
+    {
+      "projectID": 576766,
+      "fileID": 3645244,
+      "required": true
+    },
+    {
+      "projectID": 532610,
+      "fileID": 3646495,
+      "required": true
+    },
+    {
+      "projectID": 395864,
+      "fileID": 3647100,
+      "required": true
+    },
+    {
+      "projectID": 560752,
+      "fileID": 3583822,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 3647008,
       "required": true
     }
   ],
