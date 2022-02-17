@@ -1,0 +1,38 @@
+{
+	id: "4E444C8A000BA7E9"
+	group: ""
+	order_index: 2
+	filename: "the_aether"
+	title: "The Aether"
+	icon: "the_aether:aether_portal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "Enther the aether"
+		icon: "the_aether:aether_portal"
+		x: -1.0d
+		y: 0.5d
+		shape: "square"
+		dependencies: ["218ED2F569133FE4"]
+		size: 2.0d
+		id: "47CDE84276726AF5"
+		tasks: [{
+			id: "2A3C8606040BDBBD"
+			type: "dimension"
+			dimension: "the_aether:the_aether"
+		}]
+		rewards: [
+			{
+				id: "2E1A105381D1B348"
+				type: "item"
+				item: "the_aether:enchanted_blueberry"
+				count: 8
+			}
+			{
+				id: "67504B9DE6C12D0D"
+				type: "item"
+				item: "the_aether:golden_oak_sapling"
+			}
+		]
+	}]
+}

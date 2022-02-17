@@ -966,34 +966,6 @@
 			}]
 		}
 		{
-			title: "Snow demons"
-			icon: "valley:snow"
-			x: 21.0d
-			y: 1.0d
-			description: ["Using those snow you can teleport to snow hell"]
-			dependencies: ["192D3F7F00FD1BAA"]
-			id: "4E3651728E8658ED"
-			tasks: [
-				{
-					id: "6D8DDF4343E3082E"
-					type: "item"
-					item: "minecraft:blue_ice"
-					count: 24L
-				}
-				{
-					id: "7E73E41E835B3817"
-					type: "item"
-					item: "minecraft:powder_snow_bucket"
-					count: 3L
-				}
-			]
-			rewards: [{
-				id: "5D1CB6564EAE3F55"
-				type: "item"
-				item: "ringsofascension:ring_water_walking"
-			}]
-		}
-		{
 			title: "Fire demons"
 			icon: "hoverpets:blaze_pet"
 			x: 21.0d
@@ -1027,28 +999,6 @@
 			}]
 		}
 		{
-			title: "Murder land"
-			icon: "valley:rain_totem"
-			x: 23.0d
-			y: 1.0d
-			shape: "rsquare"
-			description: ["Create portal by placing pilar from 3 powder snow and around it place blue ice and freeze inside powder snow"]
-			dependencies: ["4E3651728E8658ED"]
-			size: 1.5d
-			id: "76A89F1C57F23647"
-			tasks: [{
-				id: "593CCE913394F26A"
-				type: "dimension"
-				dimension: "snowmercy:winter_murderland"
-			}]
-			rewards: [{
-				id: "78955FFA14880D8F"
-				type: "item"
-				item: "valley:snow_yam_item"
-				count: 12
-			}]
-		}
-		{
 			title: "Hell over here"
 			icon: "valley:storm_totem"
 			x: 23.0d
@@ -1067,6 +1017,48 @@
 				id: "260383462733D7AB"
 				type: "item"
 				item: "valley:fire_pepper"
+				count: 12
+			}]
+		}
+		{
+			title: "Angels"
+			icon: "the_aether:lore_book"
+			x: 21.0d
+			y: 1.0d
+			dependencies: ["192D3F7F00FD1BAA"]
+			id: "49F3544B89D26797"
+			tasks: [
+				{
+					id: "41E0D0E54099AC69"
+					type: "item"
+					item: "minecraft:glowstone"
+					count: 14L
+				}
+				{
+					id: "1ACB1E758581A567"
+					type: "item"
+					item: "minecraft:water_bucket"
+				}
+			]
+		}
+		{
+			title: "Opposite of hell... or not"
+			icon: "the_aether:aether_portal"
+			x: 23.0d
+			y: 1.0d
+			shape: "rsquare"
+			dependencies: ["49F3544B89D26797"]
+			size: 1.5d
+			id: "218ED2F569133FE4"
+			tasks: [{
+				id: "363F9E0605DB532D"
+				type: "dimension"
+				dimension: "the_aether:the_aether"
+			}]
+			rewards: [{
+				id: "7D357BD1F71AA632"
+				type: "item"
+				item: "the_aether:blue_berry"
 				count: 12
 			}]
 		}
