@@ -7,32 +7,60 @@
 	icon: "the_aether:aether_portal"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		title: "Enther the aether"
-		icon: "the_aether:aether_portal"
-		x: -1.0d
-		y: 0.5d
-		shape: "square"
-		dependencies: ["218ED2F569133FE4"]
-		size: 2.0d
-		id: "47CDE84276726AF5"
-		tasks: [{
-			id: "2A3C8606040BDBBD"
-			type: "dimension"
-			dimension: "the_aether:the_aether"
-		}]
-		rewards: [
-			{
-				id: "2E1A105381D1B348"
+	quests: [
+		{
+			title: "Enter the aether"
+			icon: "the_aether:aether_portal"
+			x: -1.0d
+			y: 0.5d
+			shape: "square"
+			dependencies: ["218ED2F569133FE4"]
+			size: 2.0d
+			id: "47CDE84276726AF5"
+			tasks: [{
+				id: "2A3C8606040BDBBD"
+				type: "dimension"
+				dimension: "the_aether:the_aether"
+			}]
+			rewards: [
+				{
+					id: "2E1A105381D1B348"
+					type: "item"
+					item: "the_aether:enchanted_blueberry"
+					count: 8
+				}
+				{
+					id: "67504B9DE6C12D0D"
+					type: "item"
+					item: "the_aether:golden_oak_sapling"
+				}
+			]
+		}
+		{
+			title: "Aether Wood"
+			icon: "the_aether:golden_oak_log"
+			x: 1.5d
+			y: 1.0d
+			dependencies: ["47CDE84276726AF5"]
+			id: "4AEABF40D5816CC9"
+			tasks: [{
+				id: "60DB6CC2037B9B1B"
 				type: "item"
-				item: "the_aether:enchanted_blueberry"
-				count: 8
-			}
-			{
-				id: "67504B9DE6C12D0D"
+				title: "Any #the_aether:aether_logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "the_aether:aether_logs"
+					}
+				}
+				count: 4L
+			}]
+			rewards: [{
+				id: "0702787D8A3BDE95"
 				type: "item"
-				item: "the_aether:golden_oak_sapling"
-			}
-		]
-	}]
+				item: "the_aether:golden_gummy_swet"
+			}]
+		}
+	]
 }
