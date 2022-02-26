@@ -17,9 +17,9 @@ customization {
   identifier = %id=398366%
   orientation = element
   orientation_element = vanillabtn:398318
-  x = 0
+  x = 208
   action = movebutton
-  y = 48
+  y = 225
 }
 
 customization {
@@ -28,6 +28,15 @@ customization {
   orientation_element = vanillabtn:398306
   x = 0
   action = movebutton
-  y = 12
+  y = -12
+}
+
+customization {
+  identifier = %id=504318%
+  orientation = element
+  orientation_element = vanillabtn:504270
+  x = 0
+  action = movebutton
+  y = 24
 }
 
