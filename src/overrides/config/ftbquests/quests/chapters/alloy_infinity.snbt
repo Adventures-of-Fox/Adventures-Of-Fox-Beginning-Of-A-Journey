@@ -1,0 +1,490 @@
+{
+	id: "1A27FB7461B8C86A"
+	group: ""
+	order_index: 3
+	filename: "alloy_infinity"
+	title: "Alloy Infinity"
+	icon: "alloy_forgery:stone_bricks_forge_controller"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Alloy start"
+			x: -0.5d
+			y: 0.5d
+			shape: "square"
+			description: ["Do 'Again to mine' quest to unlock this"]
+			dependencies: ["6C6EC4DD142F9F31"]
+			size: 2.0d
+			id: "73C7610B0D4B1A7F"
+			tasks: [{
+				id: "2CDAAA3FD4DA4066"
+				type: "item"
+				item: "alloy_forgery:stone_bricks_forge_controller"
+			}]
+			rewards: [{
+				id: "6FCAF6DB6630D2E4"
+				type: "item"
+				item: "minecraft:chipped_anvil"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 3.5d
+			description: [""]
+			dependencies: ["73C7610B0D4B1A7F"]
+			id: "4FCE4811889FA460"
+			tasks: [{
+				id: "1F0276C5F7312D24"
+				type: "item"
+				item: "mythicmetals:midas_gold_ingot"
+			}]
+			rewards: [{
+				id: "357297E2D86AEA52"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			x: -0.5d
+			y: -2.5d
+			dependencies: ["73C7610B0D4B1A7F"]
+			id: "000ED9D5E7986439"
+			tasks: [{
+				id: "0DB1B5A5E3985249"
+				type: "item"
+				item: "mythicmetals:aquarium_ingot"
+			}]
+			rewards: [{
+				id: "16941B4FDDB6C8D4"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.5d
+			dependencies: ["73C7610B0D4B1A7F"]
+			id: "577C9AFD63669772"
+			tasks: [{
+				id: "0A7C91769F0ECAE4"
+				type: "item"
+				item: "mythicmetals:banglum_ingot"
+			}]
+			rewards: [{
+				id: "0490466AC1AD234E"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.5d
+			dependencies: ["73C7610B0D4B1A7F"]
+			id: "1A596B2FEA9472C9"
+			tasks: [{
+				id: "2C8EF2E05097BB0A"
+				type: "item"
+				item: "mythicmetals:manganese_ingot"
+			}]
+			rewards: [{
+				id: "2D223F44E7843052"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			x: -3.0d
+			y: 3.0d
+			dependencies: ["73C7610B0D4B1A7F"]
+			id: "61E0204D6C708EF4"
+			tasks: [{
+				id: "1333E5901CA6E708"
+				type: "item"
+				item: "mythicmetals:quadrillum_ingot"
+			}]
+			rewards: [{
+				id: "0ED4F0B2DDB84EFF"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			x: 2.0d
+			y: 3.0d
+			dependencies: ["73C7610B0D4B1A7F"]
+			id: "7A77C324B5D7DF42"
+			tasks: [{
+				id: "787B0ABA0A26853D"
+				type: "item"
+				item: "mythicmetals:silver_ingot"
+			}]
+			rewards: [{
+				id: "3AF728C690BE9017"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			x: -3.0d
+			y: -2.0d
+			dependencies: ["73C7610B0D4B1A7F"]
+			id: "36CC4E859E80AE82"
+			tasks: [{
+				id: "1EF53B639383DAB2"
+				type: "item"
+				item: "mythicmetals:tin_ingot"
+			}]
+			rewards: [{
+				id: "0B2C9DF8F52C6D26"
+				type: "xp"
+				xp: 50
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.5d
+			dependencies: ["1A596B2FEA9472C9"]
+			id: "71A4DA77B48CAD2A"
+			tasks: [{
+				id: "01E136948C5FCC4B"
+				type: "item"
+				item: "mythicmetals:steel_ingot"
+			}]
+			rewards: [{
+				id: "5A361D9CBB7E0A56"
+				type: "xp"
+				xp: 75
+			}]
+		}
+		{
+			x: -4.0d
+			y: -3.0d
+			dependencies: ["36CC4E859E80AE82"]
+			id: "7887B2E486DA5F1D"
+			tasks: [{
+				id: "1CCCCE477E8200EA"
+				type: "item"
+				item: "mythicmetals:bronze_ingot"
+			}]
+			rewards: [{
+				id: "23D4AF32F9E714AF"
+				type: "xp"
+				xp: 75
+			}]
+		}
+		{
+			title: "Another level"
+			x: 6.75d
+			y: 3.75d
+			shape: "hexagon"
+			description: ["Craft better forge"]
+			dependencies: ["73C7610B0D4B1A7F"]
+			size: 1.5d
+			id: "2140B0CBA7AC75D7"
+			tasks: [{
+				id: "59532BFB8CECF1F6"
+				type: "item"
+				item: "alloy_forgery:deepslate_bricks_forge_controller"
+			}]
+			rewards: [{
+				id: "75423B0D0CC5D28F"
+				type: "item"
+				item: "mythicmetals:stormyx_anvil"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 0.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "0AC9A171CE3FDC7A"
+			tasks: [{
+				id: "1ABB12358690B180"
+				type: "item"
+				item: "mythicmetals:adamantite_ingot"
+			}]
+			rewards: [{
+				id: "272F965082C22BF4"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 7.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "763F09AC72447BA5"
+			tasks: [{
+				id: "6D020A92BCFA633D"
+				type: "item"
+				item: "mythicmetals:carmot_ingot"
+			}]
+			rewards: [{
+				id: "1C4B02FD2FB807A9"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 9.5d
+			dependencies: [
+				"61E0204D6C708EF4"
+				"1A596B2FEA9472C9"
+				"2140B0CBA7AC75D7"
+			]
+			id: "672CA16D195B77D9"
+			tasks: [{
+				id: "3B7247994BFA67D7"
+				type: "item"
+				item: "mythicmetals:durasteel_ingot"
+			}]
+			rewards: [{
+				id: "29A03753CF18CD50"
+				type: "xp"
+				xp: 175
+			}]
+		}
+		{
+			x: 13.0d
+			y: 5.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "01166E935CE308AF"
+			tasks: [{
+				id: "4C11890E662105F6"
+				type: "item"
+				item: "mythicmetals:kyber_ingot"
+			}]
+			rewards: [{
+				id: "0EEC4CAC1DB8A340"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 3.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "68E43706253CB8AA"
+			tasks: [{
+				id: "1ED42AF4D979083F"
+				type: "item"
+				item: "mythicmetals:mythril_ingot"
+			}]
+			rewards: [{
+				id: "05C79C509A682F72"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 2.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "18252D054AAF4412"
+			tasks: [{
+				id: "2D18CD071E5659CA"
+				type: "item"
+				item: "mythicmetals:orichalcum_ingot"
+			}]
+			rewards: [{
+				id: "7DBEBBA016C45D68"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: -0.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "083340A9CE0379CD"
+			tasks: [{
+				id: "3D7FBD23F3B8941D"
+				type: "item"
+				item: "mythicmetals:osmium_ingot"
+			}]
+			rewards: [{
+				id: "7916AD15C646E0EA"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: -1.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "58F955C37572641E"
+			tasks: [{
+				id: "4AE3F36C0CBEE844"
+				type: "item"
+				item: "mythicmetals:palladium_ingot"
+			}]
+			rewards: [{
+				id: "3F4CA76FDB04E719"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 1.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "2C0CE1BBF60D264D"
+			tasks: [{
+				id: "5A7E43736BEB2B63"
+				type: "item"
+				item: "mythicmetals:platinum_ingot"
+			}]
+			rewards: [{
+				id: "7E82A1680375C15D"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 8.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "7A87CD1E51B8B0BF"
+			tasks: [{
+				id: "6CF0DF68845FA2F1"
+				type: "item"
+				item: "mythicmetals:prometheum_ingot"
+			}]
+			rewards: [{
+				id: "03FC7C3FA7C721BB"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 6.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "31A73A890F499580"
+			tasks: [{
+				id: "27CE45323C061839"
+				type: "item"
+				item: "mythicmetals:runite_ingot"
+			}]
+			rewards: [{
+				id: "22D26D5E77527216"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			x: 13.0d
+			y: 4.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "4DC1273FE385D9B4"
+			tasks: [{
+				id: "5DB4FE930E5C7B49"
+				type: "item"
+				item: "mythicmetals:stormyx_ingot"
+			}]
+			rewards: [{
+				id: "4241A64A6E688D71"
+				type: "xp"
+				xp: 150
+			}]
+		}
+		{
+			title: "Unlimited"
+			x: 19.5d
+			y: 4.5d
+			shape: "rsquare"
+			dependencies: [
+				"2140B0CBA7AC75D7"
+				"083340A9CE0379CD"
+				"0AC9A171CE3FDC7A"
+				"2C0CE1BBF60D264D"
+				"18252D054AAF4412"
+				"01166E935CE308AF"
+				"31A73A890F499580"
+				"763F09AC72447BA5"
+				"7A87CD1E51B8B0BF"
+				"672CA16D195B77D9"
+				"58F955C37572641E"
+				"68E43706253CB8AA"
+				"4DC1273FE385D9B4"
+			]
+			size: 1.5d
+			id: "5C1FB87F88B54460"
+			tasks: [{
+				id: "0E605A77E50694F6"
+				type: "item"
+				item: "alloy_forgery:end_stone_bricks_forge_controller"
+			}]
+			rewards: [{
+				id: "7DF0C74B4B137996"
+				type: "item"
+				item: "minecraft:enchanted_golden_apple"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 1.5d
+			dependencies: ["5C1FB87F88B54460"]
+			id: "03C126C2363BDA98"
+			tasks: [{
+				id: "506E4144994389F3"
+				type: "item"
+				item: "mythicmetals:celestium_ingot"
+			}]
+			rewards: [{
+				id: "557787C3A62AB196"
+				type: "xp"
+				xp: 225
+			}]
+		}
+		{
+			x: 21.5d
+			y: 1.5d
+			dependencies: ["5C1FB87F88B54460"]
+			id: "7CEF3ED5B0558E33"
+			tasks: [{
+				id: "49208A7A5A7ECEB5"
+				type: "item"
+				item: "mythicmetals:hallowed_ingot"
+			}]
+			rewards: [{
+				id: "58190616BE276DD0"
+				type: "xp"
+				xp: 225
+			}]
+		}
+		{
+			x: 19.5d
+			y: 7.5d
+			dependencies: ["5C1FB87F88B54460"]
+			id: "615518E78E927BC2"
+			tasks: [{
+				id: "408A3C356FEC3614"
+				type: "item"
+				item: "mythicmetals:metallurgium_ingot"
+			}]
+			rewards: [{
+				id: "1756796232BED9AB"
+				type: "xp"
+				xp: 225
+			}]
+		}
+		{
+			x: 21.5d
+			y: 7.5d
+			dependencies: ["5C1FB87F88B54460"]
+			id: "68B6C70959FA5B0D"
+			tasks: [{
+				id: "4B35CA631AE293CA"
+				type: "item"
+				item: "mythicmetals:star_platinum"
+			}]
+			rewards: [{
+				id: "340720D726333E8D"
+				type: "xp"
+				xp: 225
+			}]
+		}
+	]
+}
