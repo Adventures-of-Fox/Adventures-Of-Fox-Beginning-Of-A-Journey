@@ -14,6 +14,10 @@
 			x: -1.0d
 			y: 0.5d
 			shape: "square"
+			description: [
+				"Enter Aether"
+				"Unlock 'Opposite of hell... or not'"
+			]
 			dependencies: ["218ED2F569133FE4"]
 			size: 2.0d
 			id: "47CDE84276726AF5"

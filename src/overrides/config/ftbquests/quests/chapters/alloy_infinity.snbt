@@ -4,7 +4,13 @@
 	order_index: 3
 	filename: "alloy_infinity"
 	title: "Alloy Infinity"
-	icon: "alloy_forgery:stone_bricks_forge_controller"
+	icon: {
+		id: "mcdw:hammer_great"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -13,7 +19,7 @@
 			x: -0.5d
 			y: 0.5d
 			shape: "square"
-			description: ["Do 'Again to mine' quest to unlock this"]
+			description: ["Unlock 'Again to mine'"]
 			dependencies: ["6C6EC4DD142F9F31"]
 			size: 2.0d
 			id: "73C7610B0D4B1A7F"
@@ -394,6 +400,7 @@
 			x: 19.5d
 			y: 4.5d
 			shape: "rsquare"
+			description: ["the best forge"]
 			dependencies: [
 				"2140B0CBA7AC75D7"
 				"083340A9CE0379CD"
@@ -408,6 +415,7 @@
 				"58F955C37572641E"
 				"68E43706253CB8AA"
 				"4DC1273FE385D9B4"
+				"72735D09584D3396"
 			]
 			size: 1.5d
 			id: "5C1FB87F88B54460"
@@ -484,6 +492,22 @@
 				id: "340720D726333E8D"
 				type: "xp"
 				xp: 225
+			}]
+		}
+		{
+			x: 13.0d
+			y: -2.5d
+			dependencies: ["2140B0CBA7AC75D7"]
+			id: "72735D09584D3396"
+			tasks: [{
+				id: "61DC6419B9AAB70E"
+				type: "item"
+				item: "mythicmetals:runite_ingot"
+			}]
+			rewards: [{
+				id: "114A3A3DED47911E"
+				type: "xp"
+				xp: 150
 			}]
 		}
 	]
