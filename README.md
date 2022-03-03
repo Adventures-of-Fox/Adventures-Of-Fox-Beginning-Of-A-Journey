@@ -18,7 +18,7 @@
 </p>
 
 <a href="https://bisecthosting.com/fox" align="center">
-    <img width="500" height="500" src="https://www.bisecthosting.com/partners/custom-banners/5ed1eca6-4531-4d3d-a69d-b26b287a534f.png">
+    <img width="500" height="500" src="bisect.png">
 </a>
 
 <h2 align="center">Description</h2>
