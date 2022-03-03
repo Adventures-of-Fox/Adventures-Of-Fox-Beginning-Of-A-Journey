@@ -88,11 +88,6 @@ customization {
 }
 
 customization {
-  identifier = %id=400346%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=400394%
   orientation = mid-left
   x = 7
@@ -114,23 +109,6 @@ customization {
   fadein = true
   fadeinspeed = 3.0
   action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=89517%
-  orientation = bottom-right
-  x = -112
-  action = movebutton
-  y = -29
-}
-
-customization {
-  identifier = %id=87517%
-  orientation = element
-  orientation_element = vanillabtn:89517
-  x = -20
-  action = movebutton
-  y = 0
 }
 
 customization {
@@ -175,5 +153,21 @@ customization {
   actionid = 3ae8ce53-6596-454b-ada8-a93518b036be1642623004727
   y = -20
   height = 40
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = Get own server!
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:400394
+  x = 0
+  width = 201
+  actionid = 0e96e6f5-0fd3-475c-888f-3a25aaa988bd1646156941932
+  action = addbutton
+  y = 27
+  value = https://bisecthosting.com/fox
+  height = 20
 }
 
