@@ -158,16 +158,21 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
   buttonaction = openlink
   label = Get own server!
   loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 3.0
   orientation_element = vanillabtn:400394
   x = 0
   width = 201
   actionid = 0e96e6f5-0fd3-475c-888f-3a25aaa988bd1646156941932
   action = addbutton
   y = 27
+  delayappearance = true
   value = https://bisecthosting.com/fox
+  delayappearanceeverytime = false
   height = 20
 }
 
