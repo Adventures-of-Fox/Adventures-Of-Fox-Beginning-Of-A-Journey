@@ -14,7 +14,10 @@
 			x: 0.0d
 			y: 0.0d
 			shape: "square"
-			description: ["Enter nether"]
+			description: [
+				"Enter nether"
+				"Unlock 'Hell over here'"
+			]
 			dependencies: ["4BB373DED3958490"]
 			size: 2.0d
 			id: "4337AF5974A81AD5"
