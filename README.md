@@ -15,11 +15,11 @@
 
 <p align="center">
     <img width="500" height="500" src="icon.png">
-</p>
+
 
 <a href="https://bisecthosting.com/fox" align="center">
     <img src="bisect.png">
-</a>
+</a></p>
 
 <h2 align="center">Description</h2>
 
