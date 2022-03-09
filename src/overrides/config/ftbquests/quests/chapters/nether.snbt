@@ -370,7 +370,9 @@
 					id: "minecraft:stone_sword"
 					Count: 1b
 					tag: {
-						HideFlags: 3
+						display: {
+							Name: "[{\"text\":\"Wither sword\",\"italic\":false,\"color\":\"dark_gray\"}]"
+						}
 						Enchantments: [
 							{
 								lvl: 1
@@ -385,9 +387,7 @@
 							Invisible: 1b
 						}
 						Damage: 0
-						display: {
-							Name: "[{\"text\":\"Wither sword\",\"italic\":false,\"color\":\"dark_gray\"}]"
-						}
+						HideFlags: 3
 					}
 				}
 			}]

@@ -51,6 +51,11 @@
 				type: "item"
 				item: "artifacts:umbrella"
 			}]
+			rewards: [{
+				id: "2E1AD5D85D417C35"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 1.0d
@@ -61,6 +66,11 @@
 				id: "2EDB63F008F0D884"
 				type: "item"
 				item: "artifacts:whoopee_cushion"
+			}]
+			rewards: [{
+				id: "2D00A343AD5948F0"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -73,6 +83,11 @@
 				type: "item"
 				item: "artifacts:everlasting_beef"
 			}]
+			rewards: [{
+				id: "2ECCB415259E3836"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: -5.0d
@@ -83,6 +98,11 @@
 				id: "223BC224368A6E93"
 				type: "item"
 				item: "artifacts:eternal_steak"
+			}]
+			rewards: [{
+				id: "077C20B0008EC37C"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -95,6 +115,11 @@
 				type: "item"
 				item: "artifacts:plastic_drinking_hat"
 			}]
+			rewards: [{
+				id: "5526DB92BDAFA834"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 0.0d
@@ -105,6 +130,11 @@
 				id: "5CBFC5EB7AE43C5D"
 				type: "item"
 				item: "artifacts:novelty_drinking_hat"
+			}]
+			rewards: [{
+				id: "74C0DCE12D55DCCC"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -117,6 +147,11 @@
 				type: "item"
 				item: "artifacts:snorkel"
 			}]
+			rewards: [{
+				id: "2D8BFB0384CCBF3F"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 3.0d
@@ -127,6 +162,11 @@
 				id: "4AB5B4CB35F2F92E"
 				type: "item"
 				item: "artifacts:night_vision_goggles"
+			}]
+			rewards: [{
+				id: "13EFEDE64CA0F9EE"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -139,6 +179,11 @@
 				type: "item"
 				item: "artifacts:villager_hat"
 			}]
+			rewards: [{
+				id: "78A415C2DA9E9912"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: -3.0d
@@ -149,6 +194,11 @@
 				id: "7925BB7DE161F628"
 				type: "item"
 				item: "artifacts:superstitious_hat"
+			}]
+			rewards: [{
+				id: "4C722F495AF9C6D5"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -161,6 +211,11 @@
 				type: "item"
 				item: "artifacts:lucky_scarf"
 			}]
+			rewards: [{
+				id: "5B854816DE6D6970"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: -4.0d
@@ -171,6 +226,11 @@
 				id: "5507CF6DACA27050"
 				type: "item"
 				item: "artifacts:scarf_of_invisibility"
+			}]
+			rewards: [{
+				id: "754C1263EA72D6C2"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -183,6 +243,11 @@
 				type: "item"
 				item: "artifacts:cross_necklace"
 			}]
+			rewards: [{
+				id: "740737975B32B33D"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 3.0d
@@ -193,6 +258,11 @@
 				id: "3F94FBAC4B1F22BE"
 				type: "item"
 				item: "artifacts:panic_necklace"
+			}]
+			rewards: [{
+				id: "4F68EB833CC3D45F"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -205,6 +275,11 @@
 				type: "item"
 				item: "artifacts:shock_pendant"
 			}]
+			rewards: [{
+				id: "08977E1EE72888DB"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 2.0d
@@ -215,6 +290,11 @@
 				id: "15A096DC12212C6A"
 				type: "item"
 				item: "artifacts:flame_pendant"
+			}]
+			rewards: [{
+				id: "35480047051B334D"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -227,6 +307,11 @@
 				type: "item"
 				item: "artifacts:thorn_pendant"
 			}]
+			rewards: [{
+				id: "1B1F7DB0D1EC2169"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 1.0d
@@ -237,6 +322,11 @@
 				id: "040154CD22746E66"
 				type: "item"
 				item: "artifacts:charm_of_sinking"
+			}]
+			rewards: [{
+				id: "30D942B1108C51E9"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -249,6 +339,11 @@
 				type: "item"
 				item: "artifacts:obsidian_skull"
 			}]
+			rewards: [{
+				id: "4054BF11DEF1C94A"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 4.5d
@@ -260,6 +355,11 @@
 				type: "item"
 				item: "artifacts:antidote_vessel"
 			}]
+			rewards: [{
+				id: "3418DE2686F8C90A"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 4.5d
@@ -270,6 +370,11 @@
 				id: "760B9E1D559A870F"
 				type: "item"
 				item: "artifacts:universal_attractor"
+			}]
+			rewards: [{
+				id: "25662B2BD26D11F7"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -283,6 +388,11 @@
 				type: "item"
 				item: "artifacts:crystal_heart"
 			}]
+			rewards: [{
+				id: "1CA07DD27257E306"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 1.0d
@@ -293,6 +403,11 @@
 				id: "5E0FB007BC932F57"
 				type: "item"
 				item: "artifacts:cloud_in_a_bottle"
+			}]
+			rewards: [{
+				id: "62D6DD1FD5E30715"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -305,6 +420,11 @@
 				type: "item"
 				item: "artifacts:helium_flamingo"
 			}]
+			rewards: [{
+				id: "0D0EE171F8DF05A1"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 2.0d
@@ -315,6 +435,11 @@
 				id: "0DFDEDEC1811DCC5"
 				type: "item"
 				item: "artifacts:digging_claws"
+			}]
+			rewards: [{
+				id: "3F89F125073DC122"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -328,6 +453,11 @@
 				type: "item"
 				item: "artifacts:feral_claws"
 			}]
+			rewards: [{
+				id: "70CC7BFA0E41CE16"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: -1.0d
@@ -338,6 +468,11 @@
 				id: "1B13EA44CB820ED8"
 				type: "item"
 				item: "artifacts:power_glove"
+			}]
+			rewards: [{
+				id: "2EFF73DE90CD3D40"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -350,6 +485,11 @@
 				type: "item"
 				item: "artifacts:fire_gauntlet"
 			}]
+			rewards: [{
+				id: "4EB44BD9CE5BC82B"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 1.0d
@@ -360,6 +500,11 @@
 				id: "1480F8C31E653826"
 				type: "item"
 				item: "artifacts:pocket_piston"
+			}]
+			rewards: [{
+				id: "7F29EECE29C9E1DD"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -372,6 +517,11 @@
 				type: "item"
 				item: "artifacts:vampiric_glove"
 			}]
+			rewards: [{
+				id: "1BF077FB4D816543"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 2.0d
@@ -382,6 +532,11 @@
 				id: "21F81F5593042922"
 				type: "item"
 				item: "artifacts:golden_hook"
+			}]
+			rewards: [{
+				id: "4F5D67341965C484"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -394,6 +549,11 @@
 				type: "item"
 				item: "artifacts:aqua_dashers"
 			}]
+			rewards: [{
+				id: "16CDD942BD2F67AF"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: 2.0d
@@ -404,6 +564,11 @@
 				id: "1E853F8498FE7BB2"
 				type: "item"
 				item: "artifacts:bunny_hoppers"
+			}]
+			rewards: [{
+				id: "56C016FA07C3CEE7"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -416,6 +581,11 @@
 				type: "item"
 				item: "artifacts:kitty_slippers"
 			}]
+			rewards: [{
+				id: "5A06B9AA277D5651"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: -5.0d
@@ -426,6 +596,11 @@
 				id: "4045BA99967459D7"
 				type: "item"
 				item: "artifacts:running_shoes"
+			}]
+			rewards: [{
+				id: "25C5313F4DEF91E9"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -438,6 +613,11 @@
 				type: "item"
 				item: "artifacts:steadfast_spikes"
 			}]
+			rewards: [{
+				id: "148772F2D57C48B3"
+				type: "xp"
+				xp: 50
+			}]
 		}
 		{
 			x: -4.0d
@@ -448,6 +628,11 @@
 				id: "64F1F2331BAAA092"
 				type: "item"
 				item: "artifacts:flippers"
+			}]
+			rewards: [{
+				id: "2C75B95873124F8F"
+				type: "xp"
+				xp: 50
 			}]
 		}
 		{
@@ -465,6 +650,11 @@
 						Damage: 0
 					}
 				}
+			}]
+			rewards: [{
+				id: "75A1FEE459A80AD3"
+				type: "xp"
+				xp: 50
 			}]
 		}
 	]
