@@ -5,7 +5,7 @@
 	filename: "alloy_infinity"
 	title: "Alloy Infinity"
 	icon: {
-		id: "mcdw:hammer_great"
+		id: "mcdw:hammer_great_hammer"
 		Count: 1b
 		tag: {
 			Damage: 0
