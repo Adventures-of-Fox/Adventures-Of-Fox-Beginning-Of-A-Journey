@@ -9,11 +9,11 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "a"
+			title: "The beauty of world"
 			icon: "artifacts:mimic_spawn_egg"
 			x: -1.0d
 			y: -0.5d
-			description: [""]
+			description: ["Unlock 'Explore time'"]
 			dependencies: ["5C73ED09C18A828A"]
 			size: 2.0d
 			id: "414173DDEA2EA0CE"

@@ -5,16 +5,13 @@ settings.logRemovedRecipes = true
 settings.logSkippedRecipes = false
 settings.logErroringRecipes = true
 
-console.info('Hello, World! (You will see this line every time server resources reload)')
+onEvent('entity.spawned', event => {
+	if (event.entity.type == 'betteranimalsplus:boar') {
+		event.cancel()
+	}
+});
 
-onEvent('recipes', event => {
-	// Change recipes here
-})
-
-onEvent('item.tags', event => {
-	// Get the #forge:cobblestone tag collection and add Diamond Ore to it
-	// event.get('forge:cobblestone').add('minecraft:diamond_ore')
-
-	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
-	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
-})
+onEvent('recipes', (event) => {
+	event.replaceOutput({}, "betteranimalsplus:fried_egg", "additionaladditions:fried_egg");
+	event.replaceOutput({}, "vanillatweaks:fried_egg", "additionaladditions:fried_egg");
+});

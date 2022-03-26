@@ -754,15 +754,17 @@
 			id: "5C73ED09C18A828A"
 			tasks: [
 				{
-					id: "4D602E5BD3F03609"
-					type: "structure"
-					title: "Find Village"
-					structure: "minecraft:village"
-				}
-				{
 					id: "7E496C60E55BA269"
 					type: "item"
 					item: "hoverpets:fox_pet"
+				}
+				{
+					id: "7B28876409CA333E"
+					type: "advancement"
+					title: "Find village"
+					icon: "artifacts:villager_hat"
+					advancement: "morevillagers:first_village"
+					criterion: ""
 				}
 			]
 			rewards: [
